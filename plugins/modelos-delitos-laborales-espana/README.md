@@ -41,76 +41,22 @@ El resultado es un borrador para que lo revise un profesional antes de presentar
 
 ## Antes de empezar
 
-- **Dónde funciona:** en Claude Code, en la terminal o en la pestaña Code de la app de Claude. Desde esta carpeta no se puede instalar en el chat ni en Cowork: para eso habría que publicarlo en un repositorio de GitHub.
+- **Dónde funciona:** en Claude Code y en Claude (web, escritorio y Cowork).
 - **Jurisprudenciator es imprescindible:** el plugin trae el conector y cada skill trabaja siempre con él, igual que los plugins de Jurisprudenciator del directorio de Claude. Sin una cuenta de Jurisprudenciator conectada, las skills se paran y no redactan nada. La primera vez hay que iniciar sesión (en Claude Code, con `/mcp`; o con tu URL personal: https://jurisprudenciator.lexiaipro.org/instalacion). Si ya tienes Jurisprudenciator conectado en Claude, las skills usan ese.
-- **Espacio que ocupa:** unos 2.000 tokens en cada conversación mientras esté activado, porque Claude lleva en memoria la descripción de cada skill. Activa solo los plugins que vayas a usar; los demás puedes desactivarlos sin desinstalarlos (`claude plugin disable modelos-delitos-laborales-espana@plugins-dv`).
+- **Espacio que ocupa:** unos 2.000 tokens en cada conversación mientras esté activado, porque Claude lleva en memoria la descripción de cada skill. Activa solo los plugins que vayas a usar; los demás puedes desactivarlos sin desinstalarlos (`claude plugin disable modelos-delitos-laborales-espana@modelos-juridicos-penal-espana`).
 
 ## Instalación
 
-Solo la primera vez, añade el catálogo de plugins (sirve para todos). Cambia la ruta por la carpeta donde esté el catálogo (la que contiene `.claude-plugin`); si es un zip, descomprímelo antes en una ruta corta, porque hay nombres de archivo largos:
+**En Claude Code**, añade una vez el catálogo de este repositorio y después instala el plugin:
 
 ```bash
-claude plugin marketplace add "C:\plugins-dv"
+claude plugin marketplace add DerechoVirtual/modelos-juridicos-penal-espana
+claude plugin install modelos-delitos-laborales-espana@modelos-juridicos-penal-espana
 ```
 
-Después, instala este plugin:
+Al terminar, abre una conversación nueva para que aparezcan sus skills.
 
-```bash
-claude plugin install modelos-delitos-laborales-espana@plugins-dv
-```
-
-En la pestaña Code de la app de Claude también puedes pedírselo a Claude con esas palabras: «instala el plugin modelos-delitos-laborales-espana del catálogo plugins-dv que está en C:\plugins-dv». Al terminar, abre una conversación nueva para que aparezcan sus skills.
-
-## Lista de formularios
-
-Para usar uno directamente: `/modelos-delitos-laborales-espana:<skill>`.
-
-### Conformidad (4)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 165 | Condiciones laborales ilegales (contratación irregular o pese a sanción): conformidad de la defensa | 2023 | `condiciones-laborales-ilegales-contratacion-irregular-165` |
-| 296 | Discriminación grave en el empleo: conformidad de la defensa | 2021 | `discriminacion-grave-empleo-conformidad-defensa-296` |
-| 459 | Infracción de normas de riesgos laborales por imprudencia grave: defensa con conformidad | 2020 | `infraccion-normas-riesgos-laborales-imprudencia-grave-459` |
-| 464 | Infracción de normas de riesgos laborales: defensa con conformidad | 2019 | `infraccion-normas-riesgos-laborales-defensa-conformidad-464` |
-
-### Recursos e impugnaciones (4)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 163 | Condiciones laborales ilegales (contratación irregular o pese a sanción): apelación de la condena | 2023 | `condiciones-laborales-ilegales-contratacion-irregular-163` |
-| 294 | Discriminación grave en el empleo: apelación contra la condena | 2021 | `discriminacion-grave-empleo-apelacion-contra-condena-294` |
-| 462 | Apelación contra la condena por infracción de normas de riesgos laborales por imprudencia grave | 2020 | `apelacion-contra-condena-infraccion-normas-riesgos-462` |
-| 465 | Apelación contra la condena por infracción de normas de riesgos laborales | 2019 | `apelacion-contra-condena-infraccion-normas-riesgos-465` |
-
-### Querellas y denuncias (5)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 161 | Condiciones laborales ilegales (contratación irregular o pese a sanción): querella | 2023 | `condiciones-laborales-ilegales-contratacion-irregular-161` |
-| 292 | Discriminación grave en el empleo: querella | 2021 | `discriminacion-grave-empleo-querella-292` |
-| 460 | Infracción de normas de riesgos laborales por imprudencia grave: querella | 2020 | `infraccion-normas-riesgos-laborales-imprudencia-grave-460` |
-| 467 | Infracción de normas de riesgos laborales: querella | 2019 | `infraccion-normas-riesgos-laborales-querella-467` |
-| 830 | Acoso laboral: querella | 2016 | `acoso-laboral-querella-830` |
-
-### Escritos de acusación (4)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 162 | Condiciones laborales ilegales (contratación irregular o pese a sanción): escrito de acusación | 2023 | `condiciones-laborales-ilegales-contratacion-irregular-162` |
-| 293 | Discriminación grave en el empleo: escrito de acusación | 2021 | `discriminacion-grave-empleo-escrito-acusacion-293` |
-| 461 | Infracción de normas de riesgos laborales por imprudencia grave: acusación | 2020 | `infraccion-normas-riesgos-laborales-imprudencia-grave-461` |
-| 832 | Acoso laboral: acusación | 2016 | `acoso-laboral-acusacion-832` |
-
-### Escritos de defensa (5)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 164 | Condiciones laborales ilegales (contratación irregular o pese a sanción): escrito de defensa | 2023 | `condiciones-laborales-ilegales-contratacion-irregular-164` |
-| 295 | Discriminación grave en el empleo: escrito de defensa | 2021 | `discriminacion-grave-empleo-escrito-defensa-295` |
-| 466 | Infracción de normas de riesgos laborales: defensa | 2019 | `infraccion-normas-riesgos-laborales-defensa-466` |
-| 686 | Infracción de normas de riesgos laborales por imprudencia grave: defensa | 2017 | `infraccion-normas-riesgos-laborales-imprudencia-grave-686` |
-| 833 | Acoso laboral: defensa | 2016 | `acoso-laboral-defensa-833` |
+**En Claude (web y escritorio)** también puedes subirlo como ZIP desde **Personalizar → Plugins**. El ZIP de este plugin está en la página de versiones del repositorio: https://github.com/DerechoVirtual/modelos-juridicos-penal-espana/releases/latest
 
 ## Qué hay dentro de cada skill
 

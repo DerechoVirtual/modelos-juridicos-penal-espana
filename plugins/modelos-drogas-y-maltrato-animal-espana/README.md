@@ -41,75 +41,22 @@ El resultado es un borrador para que lo revise un profesional antes de presentar
 
 ## Antes de empezar
 
-- **Dónde funciona:** en Claude Code, en la terminal o en la pestaña Code de la app de Claude. Desde esta carpeta no se puede instalar en el chat ni en Cowork: para eso habría que publicarlo en un repositorio de GitHub.
+- **Dónde funciona:** en Claude Code y en Claude (web, escritorio y Cowork).
 - **Jurisprudenciator es imprescindible:** el plugin trae el conector y cada skill trabaja siempre con él, igual que los plugins de Jurisprudenciator del directorio de Claude. Sin una cuenta de Jurisprudenciator conectada, las skills se paran y no redactan nada. La primera vez hay que iniciar sesión (en Claude Code, con `/mcp`; o con tu URL personal: https://jurisprudenciator.lexiaipro.org/instalacion). Si ya tienes Jurisprudenciator conectado en Claude, las skills usan ese.
-- **Espacio que ocupa:** unos 2.000 tokens en cada conversación mientras esté activado, porque Claude lleva en memoria la descripción de cada skill. Activa solo los plugins que vayas a usar; los demás puedes desactivarlos sin desinstalarlos (`claude plugin disable modelos-drogas-y-maltrato-animal-espana@plugins-dv`).
+- **Espacio que ocupa:** unos 2.000 tokens en cada conversación mientras esté activado, porque Claude lleva en memoria la descripción de cada skill. Activa solo los plugins que vayas a usar; los demás puedes desactivarlos sin desinstalarlos (`claude plugin disable modelos-drogas-y-maltrato-animal-espana@modelos-juridicos-penal-espana`).
 
 ## Instalación
 
-Solo la primera vez, añade el catálogo de plugins (sirve para todos). Cambia la ruta por la carpeta donde esté el catálogo (la que contiene `.claude-plugin`); si es un zip, descomprímelo antes en una ruta corta, porque hay nombres de archivo largos:
+**En Claude Code**, añade una vez el catálogo de este repositorio y después instala el plugin:
 
 ```bash
-claude plugin marketplace add "C:\plugins-dv"
+claude plugin marketplace add DerechoVirtual/modelos-juridicos-penal-espana
+claude plugin install modelos-drogas-y-maltrato-animal-espana@modelos-juridicos-penal-espana
 ```
 
-Después, instala este plugin:
+Al terminar, abre una conversación nueva para que aparezcan sus skills.
 
-```bash
-claude plugin install modelos-drogas-y-maltrato-animal-espana@plugins-dv
-```
-
-En la pestaña Code de la app de Claude también puedes pedírselo a Claude con esas palabras: «instala el plugin modelos-drogas-y-maltrato-animal-espana del catálogo plugins-dv que está en C:\plugins-dv». Al terminar, abre una conversación nueva para que aparezcan sus skills.
-
-## Lista de formularios
-
-Para usar uno directamente: `/modelos-drogas-y-maltrato-animal-espana:<skill>`.
-
-### Conformidad (6)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 7 | Defraudación de fluido eléctrico en concurso real con tráfico de drogas: conformidad de la defensa | 2026 | `defraudacion-fluido-electrico-concurso-real-trafico-7` |
-| 13 | Petaqueo (combustible líquido a narcolancha): conformidad de la defensa | 2026 | `petaqueo-combustible-liquido-narcolancha-conformidad-13` |
-| 109 | Lesiones a animales difundidas en redes sociales: conformidad de la defensa | 2023 | `lesiones-animales-difundidas-redes-sociales-conformidad-109` |
-| 788 | Adulteración de alimentos o bebidas (salud pública): defensa con conformidad en el abreviado | 2016 | `adulteracion-alimentos-bebidas-salud-publica-defensa-788` |
-| 791 | Narcotráfico (salud pública): defensa con conformidad en el abreviado | 2016 | `narcotrafico-salud-publica-defensa-conformidad-abreviado-791` |
-| 792 | Narcotráfico: defensa con conformidad en juicio rápido | 2016 | `narcotrafico-defensa-conformidad-juicio-rapido-792` |
-
-### Recursos e impugnaciones (5)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 8 | Defraudación de fluido eléctrico en concurso real con tráfico de drogas: apelación contra la condena | 2026 | `defraudacion-fluido-electrico-concurso-real-trafico-8` |
-| 12 | Petaqueo (combustible líquido a narcolancha): apelación contra la condena | 2026 | `petaqueo-combustible-liquido-narcolancha-apelacion-12` |
-| 110 | Lesiones a animales difundidas en redes sociales: apelación contra la condena | 2023 | `lesiones-animales-difundidas-redes-sociales-apelacion-110` |
-| 790 | Apelación contra la condena por adulteración de alimentos o bebidas (salud pública) | 2016 | `apelacion-contra-condena-adulteracion-alimentos-bebidas-790` |
-| 793 | Apelación contra la condena por narcotráfico (salud pública) | 2016 | `apelacion-contra-condena-narcotrafico-salud-publica-793` |
-
-### Querellas y denuncias (3)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 6 | Defraudación de fluido eléctrico para cultivo de drogas: querella | 2026 | `defraudacion-fluido-electrico-cultivo-drogas-querella-6` |
-| 106 | Lesiones a animales difundidas en redes sociales: querella | 2023 | `lesiones-animales-difundidas-redes-sociales-querella-106` |
-| 789 | Adulteración de alimentos o bebidas (salud pública): querella | 2016 | `adulteracion-alimentos-bebidas-salud-publica-querella-789` |
-
-### Escritos de acusación (3)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 10 | Defraudación de fluido eléctrico en concurso con tráfico de drogas: escrito de acusación | 2026 | `defraudacion-fluido-electrico-concurso-trafico-drogas-10` |
-| 108 | Lesiones a animales difundidas en redes sociales: escrito de acusación | 2023 | `lesiones-animales-difundidas-redes-sociales-escrito-108` |
-| 786 | Adulteración de alimentos o bebidas (salud pública): acusación | 2016 | `adulteracion-alimentos-bebidas-salud-publica-acusacion-786` |
-
-### Escritos de defensa (4)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 9 | Defraudación de fluido eléctrico en concurso real con tráfico de drogas: escrito de defensa | 2026 | `defraudacion-fluido-electrico-concurso-real-trafico-9` |
-| 11 | Petaqueo (combustible líquido a narcolancha): escrito de defensa | 2026 | `petaqueo-combustible-liquido-narcolancha-escrito-defensa-11` |
-| 107 | Lesiones a animales difundidas en redes sociales: escrito de defensa | 2023 | `lesiones-animales-difundidas-redes-sociales-escrito-107` |
-| 787 | Adulteración de alimentos o bebidas (salud pública): defensa | 2016 | `adulteracion-alimentos-bebidas-salud-publica-defensa-787` |
+**En Claude (web y escritorio)** también puedes subirlo como ZIP desde **Personalizar → Plugins**. El ZIP de este plugin está en la página de versiones del repositorio: https://github.com/DerechoVirtual/modelos-juridicos-penal-espana/releases/latest
 
 ## Qué hay dentro de cada skill
 

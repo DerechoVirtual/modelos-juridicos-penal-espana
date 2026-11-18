@@ -42,120 +42,22 @@ El resultado es un borrador para que lo revise un profesional antes de presentar
 
 ## Antes de empezar
 
-- **Dónde funciona:** en Claude Code, en la terminal o en la pestaña Code de la app de Claude. Desde esta carpeta no se puede instalar en el chat ni en Cowork: para eso habría que publicarlo en un repositorio de GitHub.
+- **Dónde funciona:** en Claude Code y en Claude (web, escritorio y Cowork).
 - **Jurisprudenciator es imprescindible:** el plugin trae el conector y cada skill trabaja siempre con él, igual que los plugins de Jurisprudenciator del directorio de Claude. Sin una cuenta de Jurisprudenciator conectada, las skills se paran y no redactan nada. La primera vez hay que iniciar sesión (en Claude Code, con `/mcp`; o con tu URL personal: https://jurisprudenciator.lexiaipro.org/instalacion). Si ya tienes Jurisprudenciator conectado en Claude, las skills usan ese.
-- **Espacio que ocupa:** unos 6.000 tokens en cada conversación mientras esté activado, porque Claude lleva en memoria la descripción de cada skill. Activa solo los plugins que vayas a usar; los demás puedes desactivarlos sin desinstalarlos (`claude plugin disable modelos-ciberdelitos-espana@plugins-dv`).
+- **Espacio que ocupa:** unos 6.000 tokens en cada conversación mientras esté activado, porque Claude lleva en memoria la descripción de cada skill. Activa solo los plugins que vayas a usar; los demás puedes desactivarlos sin desinstalarlos (`claude plugin disable modelos-ciberdelitos-espana@modelos-juridicos-penal-espana`).
 
 ## Instalación
 
-Solo la primera vez, añade el catálogo de plugins (sirve para todos). Cambia la ruta por la carpeta donde esté el catálogo (la que contiene `.claude-plugin`); si es un zip, descomprímelo antes en una ruta corta, porque hay nombres de archivo largos:
+**En Claude Code**, añade una vez el catálogo de este repositorio y después instala el plugin:
 
 ```bash
-claude plugin marketplace add "C:\plugins-dv"
+claude plugin marketplace add DerechoVirtual/modelos-juridicos-penal-espana
+claude plugin install modelos-ciberdelitos-espana@modelos-juridicos-penal-espana
 ```
 
-Después, instala este plugin:
+Al terminar, abre una conversación nueva para que aparezcan sus skills.
 
-```bash
-claude plugin install modelos-ciberdelitos-espana@plugins-dv
-```
-
-En la pestaña Code de la app de Claude también puedes pedírselo a Claude con esas palabras: «instala el plugin modelos-ciberdelitos-espana del catálogo plugins-dv que está en C:\plugins-dv». Al terminar, abre una conversación nueva para que aparezcan sus skills.
-
-## Lista de formularios
-
-Para usar uno directamente: `/modelos-ciberdelitos-espana:<skill>`.
-
-### Conformidad (10)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 132 | Estafa con criptomonedas: conformidad de la defensa | 2023 | `estafa-criptomonedas-conformidad-defensa-132` |
-| 490 | Estafa informática (vishing): defensa con conformidad | 2019 | `estafa-informatica-vishing-defensa-conformidad-490` |
-| 552 | Facilitar fraudulentamente el acceso a un servicio de radiodifusión: defensa con conformidad | 2018 | `facilitar-fraudulentamente-acceso-servicio-radiodifusion-552` |
-| 621 | Propiedad industrial por internet: defensa con conformidad | 2018 | `propiedad-industrial-internet-defensa-conformidad-621` |
-| 628 | Propiedad intelectual por internet: defensa con conformidad | 2018 | `propiedad-intelectual-internet-defensa-conformidad-628` |
-| 629 | Acceso ilegal a sistemas informáticos (allanamiento o intrusismo): defensa con conformidad | 2018 | `acceso-ilegal-sistemas-informaticos-allanamiento-629` |
-| 665 | Pharming y estafa informática (phishing): defensa con conformidad del scammer o del mulero | 2017 | `pharming-estafa-informatica-phishing-defensa-conformidad-665` |
-| 680 | Daños informáticos (ciberataque): defensa con conformidad | 2017 | `danos-informaticos-ciberataque-defensa-conformidad-680` |
-| 688 | Suplantación de identidad (falsedad en documento privado): defensa con conformidad | 2017 | `suplantacion-identidad-falsedad-documento-privado-688` |
-| 876 | Propiedad intelectual: defensa con conformidad | 2016 | `propiedad-intelectual-defensa-conformidad-876` |
-
-### Recursos e impugnaciones (12)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 133 | Estafa con criptomonedas: apelación contra la condena | 2023 | `estafa-criptomonedas-apelacion-contra-condena-133` |
-| 491 | Apelación contra la condena por estafa informática (vishing) | 2019 | `apelacion-contra-condena-estafa-informatica-vishing-491` |
-| 551 | Apelación contra la condena por facilitar fraudulentamente el acceso a un servicio de radiodifusión | 2018 | `apelacion-contra-condena-facilitar-fraudulentamente-551` |
-| 605 | Apelación contra la condena por falsificación de moneda con alta tecnología | 2018 | `apelacion-contra-condena-falsificacion-moneda-alta-605` |
-| 620 | Apelación contra la condena por delito contra la propiedad industrial por internet | 2018 | `apelacion-contra-condena-delito-contra-propiedad-620` |
-| 625 | Apelación contra la condena por delito contra la propiedad intelectual por internet | 2018 | `apelacion-contra-condena-delito-contra-propiedad-625` |
-| 630 | Apelación contra la condena por acceso ilegal a sistemas informáticos (allanamiento o intrusismo) | 2018 | `apelacion-contra-condena-acceso-ilegal-sistemas-630` |
-| 668 | Pharming y estafa informática (phishing): apelación del scammer o del mulero contra la condena | 2017 | `pharming-estafa-informatica-phishing-apelacion-scammer-668` |
-| 677 | Apelación contra la condena por daños informáticos (ciberataque) | 2017 | `apelacion-contra-condena-danos-informaticos-ciberataque-677` |
-| 689 | Apelación contra la condena por falsedad en documento privado por suplantación en redes sociales | 2017 | `apelacion-contra-condena-falsedad-documento-privado-689` |
-| 692 | Apelación contra la condena por estafa informática (phishing) | 2017 | `apelacion-contra-condena-estafa-informatica-phishing-692` |
-| 875 | Apelación contra la condena por delito contra la propiedad intelectual | 2016 | `apelacion-contra-condena-delito-contra-propiedad-875` |
-
-### Querellas y denuncias (13)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 134 | Estafa con criptomonedas: querella | 2023 | `estafa-criptomonedas-querella-134` |
-| 434 | Estafa informática (phishing) en cuenta bancaria: querella | 2020 | `estafa-informatica-phishing-cuenta-bancaria-querella-434` |
-| 492 | Estafa informática (vishing): querella | 2019 | `estafa-informatica-vishing-querella-492` |
-| 555 | Facilitar fraudulentamente el acceso a un servicio de radiodifusión: querella | 2018 | `facilitar-fraudulentamente-acceso-servicio-radiodifusion-555` |
-| 606 | Falsificación de moneda con alta tecnología: querella | 2018 | `falsificacion-moneda-alta-tecnologia-querella-606` |
-| 623 | Propiedad industrial por internet: querella | 2018 | `propiedad-industrial-internet-querella-623` |
-| 624 | Propiedad intelectual por internet: querella | 2018 | `propiedad-intelectual-internet-querella-624` |
-| 633 | Acceso a sistemas informáticos sin autorización del titular (allanamiento o intrusismo): querella | 2018 | `acceso-sistemas-informaticos-sin-autorizacion-titular-633` |
-| 666 | Pharming y estafa informática (phishing): querella | 2017 | `pharming-estafa-informatica-phishing-querella-666` |
-| 678 | Daños informáticos (ciberataque): querella | 2017 | `danos-informaticos-ciberataque-querella-678` |
-| 691 | Suplantación de identidad en redes sociales (falsedad en documento privado): denuncia | 2017 | `suplantacion-identidad-redes-sociales-falsedad-documento-691` |
-| 696 | Estafa informática (phishing): denuncia | 2017 | `estafa-informatica-phishing-denuncia-696` |
-| 848 | Tenencia de programas informáticos para falsificar tarjetas bancarias: querella | 2016 | `tenencia-programas-informaticos-falsificar-tarjetas-848` |
-
-### Escritos de acusación (12)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 135 | Estafa con criptomonedas: escrito de acusación | 2023 | `estafa-criptomonedas-escrito-acusacion-135` |
-| 493 | Estafa informática (vishing): acusación | 2019 | `estafa-informatica-vishing-acusacion-493` |
-| 554 | Facilitar fraudulentamente el acceso a un servicio de radiodifusión: acusación | 2018 | `facilitar-fraudulentamente-acceso-servicio-radiodifusion-554` |
-| 604 | Falsificación de moneda con alta tecnología: calificación provisional de la acusación particular | 2018 | `falsificacion-moneda-alta-tecnologia-calificacion-604` |
-| 622 | Propiedad industrial por internet: acusación | 2018 | `propiedad-industrial-internet-acusacion-622` |
-| 626 | Propiedad intelectual por internet: acusación | 2018 | `propiedad-intelectual-internet-acusacion-626` |
-| 632 | Acceso ilegal a sistemas informáticos (allanamiento o intrusismo): acusación | 2018 | `acceso-ilegal-sistemas-informaticos-allanamiento-632` |
-| 664 | Pharming y estafa informática (phishing): acusación | 2017 | `pharming-estafa-informatica-phishing-acusacion-664` |
-| 679 | Daños informáticos (ciberataque): acusación | 2017 | `danos-informaticos-ciberataque-acusacion-679` |
-| 690 | Suplantación de identidad en redes sociales (falsedad en documento privado): acusación | 2017 | `suplantacion-identidad-redes-sociales-falsedad-documento-690` |
-| 693 | Estafa informática (phishing): acusación | 2017 | `estafa-informatica-phishing-acusacion-693` |
-| 877 | Propiedad intelectual: acusación | 2016 | `propiedad-intelectual-acusacion-877` |
-
-### Escritos de defensa (12)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 131 | Estafa con criptomonedas: escrito de defensa | 2023 | `estafa-criptomonedas-escrito-defensa-131` |
-| 489 | Estafa informática (vishing): defensa | 2019 | `estafa-informatica-vishing-defensa-489` |
-| 553 | Facilitar fraudulentamente el acceso a un servicio de radiodifusión: defensa | 2018 | `facilitar-fraudulentamente-acceso-servicio-radiodifusion-553` |
-| 603 | Falsificación de moneda con alta tecnología: calificación provisional de la defensa | 2018 | `falsificacion-moneda-alta-tecnologia-calificacion-603` |
-| 619 | Propiedad industrial por internet: defensa | 2018 | `propiedad-industrial-internet-defensa-619` |
-| 627 | Propiedad intelectual por internet: defensa | 2018 | `propiedad-intelectual-internet-defensa-627` |
-| 631 | Acceso ilegal a sistemas informáticos (allanamiento o intrusismo): defensa | 2018 | `acceso-ilegal-sistemas-informaticos-allanamiento-631` |
-| 667 | Pharming y estafa informática (phishing): defensa del scammer o del mulero | 2017 | `pharming-estafa-informatica-phishing-defensa-scammer-667` |
-| 676 | Daños informáticos (ciberataque): defensa | 2017 | `danos-informaticos-ciberataque-defensa-676` |
-| 687 | Suplantación de identidad en redes sociales (falsedad en documento privado): defensa | 2017 | `suplantacion-identidad-redes-sociales-falsedad-documento-687` |
-| 694 | Estafa informática (phishing): defensa | 2017 | `estafa-informatica-phishing-defensa-694` |
-| 874 | Propiedad intelectual: defensa | 2016 | `propiedad-intelectual-defensa-874` |
-
-### Solicitudes y escritos de trámite (2)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 695 | Estafa informática (phishing): pedir oficio al banco para identificar al autor | 2017 | `estafa-informatica-phishing-pedir-oficio-banco-695` |
-| 849 | Avisar al banco de un crédito no formalizado por el cliente y del cargo de su cuota en cuenta | 2016 | `avisar-banco-credito-no-formalizado-cliente-cargo-cuota-849` |
+**En Claude (web y escritorio)** también puedes subirlo como ZIP desde **Personalizar → Plugins**. El ZIP de este plugin está en la página de versiones del repositorio: https://github.com/DerechoVirtual/modelos-juridicos-penal-espana/releases/latest
 
 ## Qué hay dentro de cada skill
 

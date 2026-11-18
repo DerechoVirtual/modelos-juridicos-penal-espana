@@ -40,73 +40,22 @@ El resultado es un borrador para que lo revise un profesional antes de presentar
 
 ## Antes de empezar
 
-- **Dónde funciona:** en Claude Code, en la terminal o en la pestaña Code de la app de Claude. Desde esta carpeta no se puede instalar en el chat ni en Cowork: para eso habría que publicarlo en un repositorio de GitHub.
+- **Dónde funciona:** en Claude Code y en Claude (web, escritorio y Cowork).
 - **Jurisprudenciator es imprescindible:** el plugin trae el conector y cada skill trabaja siempre con él, igual que los plugins de Jurisprudenciator del directorio de Claude. Sin una cuenta de Jurisprudenciator conectada, las skills se paran y no redactan nada. La primera vez hay que iniciar sesión (en Claude Code, con `/mcp`; o con tu URL personal: https://jurisprudenciator.lexiaipro.org/instalacion). Si ya tienes Jurisprudenciator conectado en Claude, las skills usan ese.
-- **Espacio que ocupa:** unos 2.000 tokens en cada conversación mientras esté activado, porque Claude lleva en memoria la descripción de cada skill. Activa solo los plugins que vayas a usar; los demás puedes desactivarlos sin desinstalarlos (`claude plugin disable modelos-recursos-penales-espana@plugins-dv`).
+- **Espacio que ocupa:** unos 2.000 tokens en cada conversación mientras esté activado, porque Claude lleva en memoria la descripción de cada skill. Activa solo los plugins que vayas a usar; los demás puedes desactivarlos sin desinstalarlos (`claude plugin disable modelos-recursos-penales-espana@modelos-juridicos-penal-espana`).
 
 ## Instalación
 
-Solo la primera vez, añade el catálogo de plugins (sirve para todos). Cambia la ruta por la carpeta donde esté el catálogo (la que contiene `.claude-plugin`); si es un zip, descomprímelo antes en una ruta corta, porque hay nombres de archivo largos:
+**En Claude Code**, añade una vez el catálogo de este repositorio y después instala el plugin:
 
 ```bash
-claude plugin marketplace add "C:\plugins-dv"
+claude plugin marketplace add DerechoVirtual/modelos-juridicos-penal-espana
+claude plugin install modelos-recursos-penales-espana@modelos-juridicos-penal-espana
 ```
 
-Después, instala este plugin:
+Al terminar, abre una conversación nueva para que aparezcan sus skills.
 
-```bash
-claude plugin install modelos-recursos-penales-espana@plugins-dv
-```
-
-En la pestaña Code de la app de Claude también puedes pedírselo a Claude con esas palabras: «instala el plugin modelos-recursos-penales-espana del catálogo plugins-dv que está en C:\plugins-dv». Al terminar, abre una conversación nueva para que aparezcan sus skills.
-
-## Lista de formularios
-
-Para usar uno directamente: `/modelos-recursos-penales-espana:<skill>`.
-
-### Conformidad (1)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 54 | Procedimiento común: apelación de la defensa contra la sentencia de conformidad | 2025 | `procedimiento-comun-apelacion-defensa-contra-sentencia-54` |
-
-### Recursos e impugnaciones (21)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 24 | Oponerse al recurso de reforma y subsidiario de apelación contra un auto del abreviado | 2026 | `oponerse-recurso-reforma-subsidiario-apelacion-contra-24` |
-| 53 | Abreviado: apelación contra el auto que le pone fin tras la audiencia preliminar | 2025 | `abreviado-apelacion-contra-auto-le-pone-fin-tras-53` |
-| 70 | Recurso de amparo (Acuerdo TC de 15 de marzo de 2023, válido hasta el 14 de septiembre de 2026) | 2024 | `recurso-amparo-acuerdo-tc-15-marzo-2023-valido-hasta-14-70` |
-| 101 | Abreviado: oposición a la apelación contra la denegación de apertura del juicio oral | 2023 | `abreviado-oposicion-apelacion-contra-denegacion-apertura-101` |
-| 103 | Abreviado: apelación contra el auto que deniega la apertura del juicio oral | 2023 | `abreviado-apelacion-contra-auto-deniega-apertura-juicio-103` |
-| 121 | Querella inadmitida: reforma y subsidiario de apelación | 2023 | `querella-inadmitida-reforma-subsidiario-apelacion-121` |
-| 153 | Recurso de anulación: impugnación de la parte acusadora | 2023 | `recurso-anulacion-impugnacion-parte-acusadora-153` |
-| 154 | Abreviado: oposición a la adhesión a la apelación contra la sentencia | 2023 | `abreviado-oposicion-adhesion-apelacion-contra-sentencia-154` |
-| 159 | Paso del abreviado a jurado denegado tácitamente: queja de la acusación particular | 2023 | `paso-abreviado-jurado-denegado-tacitamente-queja-159` |
-| 160 | Paso del ordinario al abreviado denegado: queja del investigado | 2023 | `paso-ordinario-abreviado-denegado-queja-investigado-160` |
-| 167 | Prisión provisional en el abreviado: reforma y subsidiario de apelación | 2022 | `prision-provisional-abreviado-reforma-subsidiario-167` |
-| 169 | Sobreseimiento provisional: oposición a la apelación | 2022 | `sobreseimiento-provisional-oposicion-apelacion-169` |
-| 251 | Sobreseimiento libre de la AP o la AN: recurso de casación | 2022 | `sobreseimiento-libre-ap-an-recurso-casacion-251` |
-| 479 | Sobreseimiento provisional tras las diligencias previas: reforma y subsidiaria apelación | 2019 | `sobreseimiento-provisional-tras-diligencias-previas-479` |
-| 486 | Prórroga de la instrucción: reforma y subsidiaria apelación | 2019 | `prorroga-instruccion-reforma-subsidiaria-apelacion-486` |
-| 556 | Prueba de la defensa denegada en el procedimiento abreviado: queja (hasta el 2 de abril de 2025) | 2018 | `prueba-defensa-denegada-procedimiento-abreviado-queja-556` |
-| 617 | Auto de libertad provisional del investigado o encausado: reforma y subsidiaria apelación | 2018 | `auto-libertad-provisional-investigado-encausado-reforma-617` |
-| 618 | Auto de libertad provisional del investigado o encausado: apelación | 2018 | `auto-libertad-provisional-investigado-encausado-618` |
-| 742 | Denegación de traductor o intérprete: reforma de la defensa del investigado | 2016 | `denegacion-traductor-interprete-reforma-defensa-742` |
-| 770 | Auto de la Audiencia Provincial: apelación penal | 2016 | `auto-audiencia-provincial-apelacion-penal-770` |
-| 18 (Procesal) | Revisión penal tras una sentencia del TEDH: interposición del recurso | 2025 | `revision-penal-tras-sentencia-tedh-interposicion-recurso-p18` |
-
-### Resoluciones, actas y documentos (1)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 158 | Casación desierta: decreto del Letrado de la Administración de Justicia | 2023 | `casacion-desierta-decreto-letrado-administracion-158` |
-
-### Solicitudes y escritos de trámite (1)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 19 (Procesal) | Revisión penal tras una sentencia del TEDH: pedir autorización para recurrir | 2025 | `revision-penal-tras-sentencia-tedh-pedir-autorizacion-p19` |
+**En Claude (web y escritorio)** también puedes subirlo como ZIP desde **Personalizar → Plugins**. El ZIP de este plugin está en la página de versiones del repositorio: https://github.com/DerechoVirtual/modelos-juridicos-penal-espana/releases/latest
 
 ## Qué hay dentro de cada skill
 
