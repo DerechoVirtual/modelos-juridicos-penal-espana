@@ -5,7 +5,7 @@ description: "Redacta el escrito «Enriquecimiento ilícito: escrito de acusaci�
 
 # Enriquecimiento ilícito: escrito de acusación
 
-> Formulario 0127 del plugin **Delitos contra la Administración pública y de justicia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0127 del plugin **Delitos contra la Administración pública y de justicia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

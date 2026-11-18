@@ -5,7 +5,7 @@ description: "Redacta el escrito «Usar en otro proceso penal lo obtenido al int
 
 # Usar en otro proceso penal lo obtenido al intervenir correspondencia o comunicaciones
 
-> Formulario 0767 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026. Uso interno.
+> Formulario 0767 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

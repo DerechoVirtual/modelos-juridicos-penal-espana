@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir diligencias para determinar la edad del
 
 # Pedir diligencias para determinar la edad del encausado
 
-> Formulario 0758 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0758 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

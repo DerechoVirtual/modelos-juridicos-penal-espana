@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alteración de lindes: denuncia» (formulario
 
 # Alteración de lindes: denuncia
 
-> Formulario 0235 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0235 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

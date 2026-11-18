@@ -5,7 +5,7 @@ description: "Redacta el escrito «Hurto de uso de vehículo de motor: defensa»
 
 # Hurto de uso de vehículo de motor: defensa
 
-> Formulario 0869 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0869 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

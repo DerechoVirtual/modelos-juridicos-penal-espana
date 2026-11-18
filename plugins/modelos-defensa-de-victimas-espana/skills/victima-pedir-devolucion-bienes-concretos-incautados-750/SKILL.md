@@ -5,7 +5,7 @@ description: "Redacta el escrito «Víctima: pedir la devolución de bienes conc
 
 # Víctima: pedir la devolución de bienes concretos incautados
 
-> Formulario 0750 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0750 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

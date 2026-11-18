@@ -5,7 +5,7 @@ description: "Redacta el escrito «Delito continuado: escrito de defensa proponi
 
 # Delito continuado: escrito de defensa proponiendo la unidad natural de acción
 
-> Formulario 0029 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0029 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

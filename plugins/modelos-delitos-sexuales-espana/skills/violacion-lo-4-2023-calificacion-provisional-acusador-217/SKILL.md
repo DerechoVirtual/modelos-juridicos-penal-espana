@@ -5,7 +5,7 @@ description: "Redacta el escrito «Violación (LO 4/2023): calificación provisi
 
 # Violación (LO 4/2023): calificación provisional del acusador particular
 
-> Formulario 0217 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0217 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

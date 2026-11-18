@@ -5,7 +5,7 @@ description: "Redacta el escrito «Amenazas informáticas: querella» (formulari
 
 # Amenazas informáticas: querella
 
-> Formulario 0531 del plugin **Delitos contra las personas** · revisado el 17-11-2026. Uso interno.
+> Formulario 0531 del plugin **Delitos contra las personas** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

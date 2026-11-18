@@ -5,7 +5,7 @@ description: "Redacta el escrito «Información del abogado al cliente sobre la 
 
 # Información del abogado al cliente sobre la gravedad del conflicto y estrategia (art. 6 LO 5/2024)
 
-> Formulario 0063 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0063 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

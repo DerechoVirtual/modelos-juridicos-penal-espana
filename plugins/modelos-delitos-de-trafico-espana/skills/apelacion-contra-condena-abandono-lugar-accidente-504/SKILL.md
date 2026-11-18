@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra la condena por abandono del
 
 # Apelación contra la condena por abandono del lugar del accidente y lesiones imprudentes de tráfico
 
-> Formulario 0504 del plugin **Seguridad vial** · revisado el 17-11-2026. Uso interno.
+> Formulario 0504 del plugin **Seguridad vial** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

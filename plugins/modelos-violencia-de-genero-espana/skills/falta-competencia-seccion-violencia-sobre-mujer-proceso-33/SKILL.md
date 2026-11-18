@@ -5,7 +5,7 @@ description: "Redacta el escrito «Falta de competencia de la Sección de Violen
 
 # Falta de competencia de la Sección de Violencia sobre la Mujer en un proceso de familia: auto
 
-> Formulario 0033 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0033 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

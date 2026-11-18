@@ -5,7 +5,7 @@ description: "Redacta el escrito «Ocultación del paradero de un cadáver: quer
 
 # Ocultación del paradero de un cadáver: querella
 
-> Formulario 0150 del plugin **Delitos contra las personas** · revisado el 17-11-2026. Uso interno.
+> Formulario 0150 del plugin **Delitos contra las personas** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Daños: denuncia escrita ante la policía» (
 
 # Daños: denuncia escrita ante la policía
 
-> Formulario 0129 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0129 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra la condena por corrupción 
 
 # Apelación contra la condena por corrupción de menores o con discapacidad por medios tecnológicos
 
-> Formulario 0566 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0566 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Discriminación grave en el empleo: querella�
 
 # Discriminación grave en el empleo: querella
 
-> Formulario 0292 del plugin **Delitos contra los derechos de los trabajadores** · revisado el 17-11-2026. Uso interno.
+> Formulario 0292 del plugin **Delitos contra los derechos de los trabajadores** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

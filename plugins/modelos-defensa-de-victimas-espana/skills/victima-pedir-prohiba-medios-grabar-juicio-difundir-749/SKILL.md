@@ -5,7 +5,7 @@ description: "Redacta el escrito «Víctima: pedir que se prohíba a los medios 
 
 # Víctima: pedir que se prohíba a los medios grabar el juicio o difundir información
 
-> Formulario 0749 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0749 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

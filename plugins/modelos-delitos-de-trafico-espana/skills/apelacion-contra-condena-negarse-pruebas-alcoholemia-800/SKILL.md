@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra la condena por negarse a la
 
 # Apelación contra la condena por negarse a las pruebas de alcoholemia
 
-> Formulario 0800 del plugin **Seguridad vial** · revisado el 17-11-2026. Uso interno.
+> Formulario 0800 del plugin **Seguridad vial** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

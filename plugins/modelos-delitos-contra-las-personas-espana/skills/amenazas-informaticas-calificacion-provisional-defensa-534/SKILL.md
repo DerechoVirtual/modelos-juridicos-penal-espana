@@ -5,7 +5,7 @@ description: "Redacta el escrito «Amenazas informáticas: calificación provisi
 
 # Amenazas informáticas: calificación provisional de la defensa
 
-> Formulario 0534 del plugin **Delitos contra las personas** · revisado el 17-11-2026. Uso interno.
+> Formulario 0534 del plugin **Delitos contra las personas** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

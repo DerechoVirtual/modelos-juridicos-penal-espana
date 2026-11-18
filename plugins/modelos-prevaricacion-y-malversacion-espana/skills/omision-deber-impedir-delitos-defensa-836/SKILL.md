@@ -5,7 +5,7 @@ description: "Redacta el escrito «Omisión del deber de impedir delitos: defens
 
 # Omisión del deber de impedir delitos: defensa
 
-> Formulario 0836 del plugin **Delitos contra la Administración pública y de justicia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0836 del plugin **Delitos contra la Administración pública y de justicia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

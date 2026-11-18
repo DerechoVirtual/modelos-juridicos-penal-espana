@@ -5,7 +5,7 @@ description: "Redacta el escrito «Testigo enfermo o lesionado: declarar por ví
 
 # Testigo enfermo o lesionado: declarar por vía telemática desde casa (desde el 20 de marzo de 2024)
 
-> Formulario 0072 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0072 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

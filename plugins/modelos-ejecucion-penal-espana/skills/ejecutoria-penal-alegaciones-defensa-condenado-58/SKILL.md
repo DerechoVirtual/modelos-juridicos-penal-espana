@@ -5,7 +5,7 @@ description: "Redacta el escrito «Ejecutoria penal: alegaciones de la defensa d
 
 # Ejecutoria penal: alegaciones de la defensa del condenado
 
-> Formulario 0058 del plugin **Ejecución penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0058 del plugin **Ejecución penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

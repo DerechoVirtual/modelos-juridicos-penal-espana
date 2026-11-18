@@ -5,7 +5,7 @@ description: "Redacta el escrito «Defraudación de fluido eléctrico: conformid
 
 # Defraudación de fluido eléctrico: conformidad de la defensa
 
-> Formulario 0402 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0402 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Ejecutoria penal: alegaciones de la víctima 
 
 # Ejecutoria penal: alegaciones de la víctima a la impugnación de la liquidación de condena
 
-> Formulario 0050 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0050 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

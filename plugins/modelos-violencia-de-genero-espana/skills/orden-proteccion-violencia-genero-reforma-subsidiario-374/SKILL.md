@@ -5,7 +5,7 @@ description: "Redacta el escrito «Orden de protección por violencia de género
 
 # Orden de protección por violencia de género: reforma y subsidiario de apelación del acusado
 
-> Formulario 0374 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0374 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

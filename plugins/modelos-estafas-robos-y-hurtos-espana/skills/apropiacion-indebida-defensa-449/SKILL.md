@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apropiación indebida: defensa» (formulario 
 
 # Apropiación indebida: defensa
 
-> Formulario 0449 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0449 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

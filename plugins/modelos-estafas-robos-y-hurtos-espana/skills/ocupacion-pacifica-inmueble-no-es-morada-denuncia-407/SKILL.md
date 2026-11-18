@@ -5,7 +5,7 @@ description: "Redacta el escrito «Ocupación pacífica de inmueble que no es mo
 
 # Ocupación pacífica de inmueble que no es morada: denuncia
 
-> Formulario 0407 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0407 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

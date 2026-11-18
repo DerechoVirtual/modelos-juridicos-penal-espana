@@ -5,7 +5,7 @@ description: "Redacta el escrito «Víctima: pedir ser notificada de las resoluc
 
 # Víctima: pedir ser notificada de las resoluciones del proceso (hasta el 6 de octubre de 2022)
 
-> Formulario 0781 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0781 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

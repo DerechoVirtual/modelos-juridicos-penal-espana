@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra la condena por coacciones p
 
 # Apelación contra la condena por coacciones por mensajes de WhatsApp
 
-> Formulario 0700 del plugin **Delitos contra las personas** · revisado el 17-11-2026. Uso interno.
+> Formulario 0700 del plugin **Delitos contra las personas** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

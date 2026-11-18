@@ -5,7 +5,7 @@ description: "Redacta el escrito «Prisión provisional en el abreviado: reforma
 
 # Prisión provisional en el abreviado: reforma y subsidiario de apelación
 
-> Formulario 0167 del plugin **Recursos penales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0167 del plugin **Recursos penales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

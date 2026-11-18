@@ -5,7 +5,7 @@ description: "Redacta el escrito «Corrupción de menores: acusación» (formula
 
 # Corrupción de menores: acusación
 
-> Formulario 0827 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0827 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

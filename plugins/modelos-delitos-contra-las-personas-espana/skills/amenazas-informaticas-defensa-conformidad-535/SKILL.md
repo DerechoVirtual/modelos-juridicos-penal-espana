@@ -5,7 +5,7 @@ description: "Redacta el escrito «Amenazas informáticas: defensa con conformid
 
 # Amenazas informáticas: defensa con conformidad
 
-> Formulario 0535 del plugin **Delitos contra las personas** · revisado el 17-11-2026. Uso interno.
+> Formulario 0535 del plugin **Delitos contra las personas** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

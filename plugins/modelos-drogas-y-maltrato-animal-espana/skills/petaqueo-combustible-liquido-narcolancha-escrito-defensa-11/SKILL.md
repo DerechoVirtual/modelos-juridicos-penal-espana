@@ -5,7 +5,7 @@ description: "Redacta el escrito «Petaqueo (combustible líquido a narcolancha)
 
 # Petaqueo (combustible líquido a narcolancha): escrito de defensa
 
-> Formulario 0011 del plugin **Salud pública y maltrato animal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0011 del plugin **Salud pública y maltrato animal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

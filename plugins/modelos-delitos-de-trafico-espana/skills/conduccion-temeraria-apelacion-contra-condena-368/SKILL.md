@@ -5,7 +5,7 @@ description: "Redacta el escrito «Conducción temeraria: apelación contra la c
 
 # Conducción temeraria: apelación contra la condena
 
-> Formulario 0368 del plugin **Seguridad vial** · revisado el 17-11-2026. Uso interno.
+> Formulario 0368 del plugin **Seguridad vial** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Agresión sexual: la defensa modifica su cali
 
 # Agresión sexual: la defensa modifica su calificación para pedir rebaja de pena
 
-> Formulario 0145 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0145 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

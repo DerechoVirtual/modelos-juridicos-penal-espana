@@ -5,7 +5,7 @@ description: "Redacta el escrito «Declinatoria a Violencia contra la Infancia p
 
 # Declinatoria a Violencia contra la Infancia por agresión sexual a hija menor y a su madre
 
-> Formulario 0041 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0041 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

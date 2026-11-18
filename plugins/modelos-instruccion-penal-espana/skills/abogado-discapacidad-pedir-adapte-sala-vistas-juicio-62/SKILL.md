@@ -5,7 +5,7 @@ description: "Redacta el escrito «Abogado con discapacidad: pedir que se adapte
 
 # Abogado con discapacidad: pedir que se adapte la sala de vistas para el juicio o la actuación
 
-> Formulario 0062 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0062 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

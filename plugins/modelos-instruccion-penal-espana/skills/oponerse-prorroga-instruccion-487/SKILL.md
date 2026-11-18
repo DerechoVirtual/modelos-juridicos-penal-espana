@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oponerse a la prórroga de la instrucción» 
 
 # Oponerse a la prórroga de la instrucción
 
-> Formulario 0487 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0487 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

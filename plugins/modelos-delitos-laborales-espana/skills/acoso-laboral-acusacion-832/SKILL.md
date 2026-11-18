@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acoso laboral: acusación» (formulario 832 d
 
 # Acoso laboral: acusación
 
-> Formulario 0832 del plugin **Delitos contra los derechos de los trabajadores** · revisado el 17-11-2026. Uso interno.
+> Formulario 0832 del plugin **Delitos contra los derechos de los trabajadores** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

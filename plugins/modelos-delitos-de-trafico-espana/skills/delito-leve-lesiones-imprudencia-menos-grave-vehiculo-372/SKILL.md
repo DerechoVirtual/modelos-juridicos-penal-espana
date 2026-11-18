@@ -5,7 +5,7 @@ description: "Redacta el escrito «Delito leve de lesiones por imprudencia menos
 
 # Delito leve de lesiones por imprudencia menos grave con vehículo a motor: denuncia
 
-> Formulario 0372 del plugin **Seguridad vial** · revisado el 17-11-2026. Uso interno.
+> Formulario 0372 del plugin **Seguridad vial** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

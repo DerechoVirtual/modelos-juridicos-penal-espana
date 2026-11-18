@@ -5,7 +5,7 @@ description: "Redacta el escrito «Fiscalía Europea: oposición al recurso de a
 
 # Fiscalía Europea: oposición al recurso de apelación
 
-> Formulario 0341 del plugin **Procedimiento de la Fiscalía Europea** · revisado el 17-11-2026. Uso interno.
+> Formulario 0341 del plugin **Procedimiento de la Fiscalía Europea** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

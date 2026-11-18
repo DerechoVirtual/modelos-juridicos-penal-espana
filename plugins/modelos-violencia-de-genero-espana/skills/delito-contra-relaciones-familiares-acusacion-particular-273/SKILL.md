@@ -5,7 +5,7 @@ description: "Redacta el escrito «Delito contra las relaciones familiares: la a
 
 # Delito contra las relaciones familiares: la acusación particular pide el alejamiento cautelar
 
-> Formulario 0273 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0273 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra la condena por acoso en una
 
 # Apelación contra la condena por acoso en una comunidad de propietarios (blocking)
 
-> Formulario 0634 del plugin **Delitos contra las personas** · revisado el 17-11-2026. Uso interno.
+> Formulario 0634 del plugin **Delitos contra las personas** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

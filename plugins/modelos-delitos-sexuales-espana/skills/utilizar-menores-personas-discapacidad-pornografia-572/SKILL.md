@@ -5,7 +5,7 @@ description: "Redacta el escrito «Utilizar menores o personas con discapacidad 
 
 # Utilizar menores o personas con discapacidad en pornografía por internet: defensa
 
-> Formulario 0572 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0572 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

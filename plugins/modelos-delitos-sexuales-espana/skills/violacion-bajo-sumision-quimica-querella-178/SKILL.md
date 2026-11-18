@@ -5,7 +5,7 @@ description: "Redacta el escrito «Violación bajo sumisión química: querella�
 
 # Violación bajo sumisión química: querella
 
-> Formulario 0178 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0178 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

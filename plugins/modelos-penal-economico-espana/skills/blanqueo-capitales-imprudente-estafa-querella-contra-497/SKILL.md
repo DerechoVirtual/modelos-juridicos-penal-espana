@@ -5,7 +5,7 @@ description: "Redacta el escrito «Blanqueo de capitales imprudente y estafa: qu
 
 # Blanqueo de capitales imprudente y estafa: querella contra el abogado y su cliente
 
-> Formulario 0497 del plugin **Delitos económicos y de empresa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0497 del plugin **Delitos económicos y de empresa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

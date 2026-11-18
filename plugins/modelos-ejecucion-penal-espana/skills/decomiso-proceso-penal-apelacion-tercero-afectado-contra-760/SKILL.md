@@ -5,7 +5,7 @@ description: "Redacta el escrito «Decomiso en el proceso penal: apelación del 
 
 # Decomiso en el proceso penal: apelación del tercero afectado contra la condena
 
-> Formulario 0760 del plugin **Ejecución penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0760 del plugin **Ejecución penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

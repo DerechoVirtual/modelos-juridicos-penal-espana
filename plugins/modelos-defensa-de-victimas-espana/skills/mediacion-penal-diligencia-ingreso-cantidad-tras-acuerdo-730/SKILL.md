@@ -5,7 +5,7 @@ description: "Redacta el escrito «Mediación penal: diligencia de ingreso de ca
 
 # Mediación penal: diligencia de ingreso de cantidad tras el acuerdo
 
-> Formulario 0730 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0730 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

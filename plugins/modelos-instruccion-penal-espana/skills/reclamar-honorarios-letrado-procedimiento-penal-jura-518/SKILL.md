@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reclamar los honorarios del letrado en un pro
 
 # Reclamar los honorarios del letrado en un procedimiento penal (jura de cuentas)
 
-> Formulario 0518 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0518 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

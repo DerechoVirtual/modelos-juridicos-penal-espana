@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir la modificación de la libertad vigilad
 
 # Pedir la modificación de la libertad vigilada
 
-> Formulario 0759 del plugin **Ejecución penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0759 del plugin **Ejecución penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

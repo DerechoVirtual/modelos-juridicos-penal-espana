@@ -5,7 +5,7 @@ description: "Redacta el escrito «Hurto de uso de vehículo de motor: querella�
 
 # Hurto de uso de vehículo de motor: querella
 
-> Formulario 0872 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0872 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

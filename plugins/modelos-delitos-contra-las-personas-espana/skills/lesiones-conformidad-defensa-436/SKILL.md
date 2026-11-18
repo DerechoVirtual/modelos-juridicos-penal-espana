@@ -5,7 +5,7 @@ description: "Redacta el escrito «Lesiones: conformidad de la defensa» (formul
 
 # Lesiones: conformidad de la defensa
 
-> Formulario 0436 del plugin **Delitos contra las personas** · revisado el 17-11-2026. Uso interno.
+> Formulario 0436 del plugin **Delitos contra las personas** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

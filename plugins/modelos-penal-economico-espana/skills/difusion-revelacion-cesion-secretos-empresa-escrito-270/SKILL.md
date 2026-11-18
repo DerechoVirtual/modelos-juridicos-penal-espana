@@ -5,7 +5,7 @@ description: "Redacta el escrito «Difusión, revelación o cesión de secretos 
 
 # Difusión, revelación o cesión de secretos de empresa: escrito de acusación
 
-> Formulario 0270 del plugin **Delitos económicos y de empresa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0270 del plugin **Delitos económicos y de empresa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Quebrantamiento de condena (prohibición de c
 
 # Quebrantamiento de condena (prohibición de comunicación online): defensa con conformidad
 
-> Formulario 0510 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0510 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

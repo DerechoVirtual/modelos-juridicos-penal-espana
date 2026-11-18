@@ -5,7 +5,7 @@ description: "Redacta el escrito «Justicia gratuita transfronteriza: formulario
 
 # Justicia gratuita transfronteriza: formulario para transmitir la solicitud
 
-> Formulario 0398 del plugin **Cooperación penal internacional** · revisado el 17-11-2026. Uso interno.
+> Formulario 0398 del plugin **Cooperación penal internacional** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

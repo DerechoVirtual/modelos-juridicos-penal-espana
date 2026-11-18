@@ -5,7 +5,7 @@ description: "Redacta el escrito «Corrupción de menores o personas con discapa
 
 # Corrupción de menores o personas con discapacidad por medios tecnológicos: defensa
 
-> Formulario 0568 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0568 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

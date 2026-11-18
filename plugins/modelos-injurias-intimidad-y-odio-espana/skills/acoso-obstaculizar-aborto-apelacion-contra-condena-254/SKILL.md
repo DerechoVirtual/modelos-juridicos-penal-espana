@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acoso para obstaculizar el aborto: apelación
 
 # Acoso para obstaculizar el aborto: apelación contra la condena
 
-> Formulario 0254 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0254 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

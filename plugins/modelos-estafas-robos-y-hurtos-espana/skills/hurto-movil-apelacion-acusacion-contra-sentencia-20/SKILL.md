@@ -5,7 +5,7 @@ description: "Redacta el escrito «Hurto de móvil: apelación de la acusación 
 
 # Hurto de móvil: apelación de la acusación contra la sentencia
 
-> Formulario 0020 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0020 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

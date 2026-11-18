@@ -5,7 +5,7 @@ description: "Redacta el escrito «Agresión sexual sin acceso carnal (LO 4/2023
 
 # Agresión sexual sin acceso carnal (LO 4/2023): querella
 
-> Formulario 0093 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0093 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

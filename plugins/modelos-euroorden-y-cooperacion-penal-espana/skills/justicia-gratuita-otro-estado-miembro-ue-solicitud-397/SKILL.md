@@ -5,7 +5,7 @@ description: "Redacta el escrito «Justicia gratuita en otro Estado miembro de l
 
 # Justicia gratuita en otro Estado miembro de la UE: solicitud
 
-> Formulario 0397 del plugin **Cooperación penal internacional** · revisado el 17-11-2026. Uso interno.
+> Formulario 0397 del plugin **Cooperación penal internacional** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

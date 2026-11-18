@@ -5,7 +5,7 @@ description: "Redacta el escrito «Mediación penal: acuerdo por impago de pensi
 
 # Mediación penal: acuerdo por impago de pensiones
 
-> Formulario 0734 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0734 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

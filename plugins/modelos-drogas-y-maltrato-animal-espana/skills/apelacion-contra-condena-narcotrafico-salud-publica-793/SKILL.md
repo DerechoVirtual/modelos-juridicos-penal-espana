@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra la condena por narcotráfic
 
 # Apelación contra la condena por narcotráfico (salud pública)
 
-> Formulario 0793 del plugin **Salud pública y maltrato animal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0793 del plugin **Salud pública y maltrato animal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

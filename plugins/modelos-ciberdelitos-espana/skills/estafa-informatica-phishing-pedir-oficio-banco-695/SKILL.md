@@ -5,7 +5,7 @@ description: "Redacta el escrito «Estafa informática (phishing): pedir oficio 
 
 # Estafa informática (phishing): pedir oficio al banco para identificar al autor
 
-> Formulario 0695 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026. Uso interno.
+> Formulario 0695 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

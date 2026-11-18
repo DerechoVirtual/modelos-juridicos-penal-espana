@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir que las diligencias previas pasen a jui
 
 # Pedir que las diligencias previas pasen a juicio por delito leve
 
-> Formulario 0119 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0119 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

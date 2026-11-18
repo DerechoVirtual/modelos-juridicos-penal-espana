@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra la condena por fraude a la 
 
 # Apelación contra la condena por fraude a la Administración
 
-> Formulario 0475 del plugin **Delitos contra la Administración pública y de justicia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0475 del plugin **Delitos contra la Administración pública y de justicia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

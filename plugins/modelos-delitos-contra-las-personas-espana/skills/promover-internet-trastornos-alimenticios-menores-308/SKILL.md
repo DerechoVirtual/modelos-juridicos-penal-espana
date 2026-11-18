@@ -5,7 +5,7 @@ description: "Redacta el escrito «Promover por internet trastornos alimenticios
 
 # Promover por internet trastornos alimenticios en menores o discapacitados: escrito de acusación
 
-> Formulario 0308 del plugin **Delitos contra las personas** · revisado el 17-11-2026. Uso interno.
+> Formulario 0308 del plugin **Delitos contra las personas** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

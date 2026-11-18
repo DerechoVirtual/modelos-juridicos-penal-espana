@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir la suspensión de la pena aportando acu
 
 # Pedir la suspensión de la pena aportando acuerdo de reparación (condenado)
 
-> Formulario 0733 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0733 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Auto de libertad provisional del investigado 
 
 # Auto de libertad provisional del investigado o encausado: reforma y subsidiaria apelación
 
-> Formulario 0617 del plugin **Recursos penales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0617 del plugin **Recursos penales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir la revisión de la condena por retroact
 
 # Pedir la revisión de la condena por retroactividad de la norma penal más favorable
 
-> Formulario 0142 del plugin **Ejecución penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0142 del plugin **Ejecución penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

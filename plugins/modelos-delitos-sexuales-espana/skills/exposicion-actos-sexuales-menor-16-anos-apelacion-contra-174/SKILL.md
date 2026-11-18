@@ -5,7 +5,7 @@ description: "Redacta el escrito «Exposición de actos sexuales a menor de 16 a
 
 # Exposición de actos sexuales a menor de 16 años: apelación contra la condena
 
-> Formulario 0174 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0174 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

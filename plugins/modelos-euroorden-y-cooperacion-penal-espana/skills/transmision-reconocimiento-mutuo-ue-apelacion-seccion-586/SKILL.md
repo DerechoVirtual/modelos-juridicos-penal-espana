@@ -5,7 +5,7 @@ description: "Redacta el escrito «Transmisión por reconocimiento mutuo UE: ape
 
 # Transmisión por reconocimiento mutuo UE: apelación (Sección de Instrucción)
 
-> Formulario 0586 del plugin **Cooperación penal internacional** · revisado el 17-11-2026. Uso interno.
+> Formulario 0586 del plugin **Cooperación penal internacional** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Delito urbanístico: acusación contra el con
 
 # Delito urbanístico: acusación contra el constructor (todas las CCAA)
 
-> Formulario 0458 del plugin **Delitos contra la Administración pública y de justicia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0458 del plugin **Delitos contra la Administración pública y de justicia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

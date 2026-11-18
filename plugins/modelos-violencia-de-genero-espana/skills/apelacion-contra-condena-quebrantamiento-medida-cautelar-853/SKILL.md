@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra la condena por quebrantamie
 
 # Apelación contra la condena por quebrantamiento de medida cautelar de alejamiento
 
-> Formulario 0853 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0853 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

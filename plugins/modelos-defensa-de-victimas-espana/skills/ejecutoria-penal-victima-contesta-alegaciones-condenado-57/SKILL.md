@@ -5,7 +5,7 @@ description: "Redacta el escrito «Ejecutoria penal: la víctima contesta a las 
 
 # Ejecutoria penal: la víctima contesta a las alegaciones del condenado
 
-> Formulario 0057 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0057 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Amenazas en redes sociales: defensa con confo
 
 # Amenazas en redes sociales: defensa con conformidad
 
-> Formulario 0684 del plugin **Delitos contra las personas** · revisado el 17-11-2026. Uso interno.
+> Formulario 0684 del plugin **Delitos contra las personas** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

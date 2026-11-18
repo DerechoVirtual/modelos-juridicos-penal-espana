@@ -5,7 +5,7 @@ description: "Redacta el escrito «Calumnia en redes sociales: querella» (formu
 
 # Calumnia en redes sociales: querella
 
-> Formulario 0646 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0646 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Entrega de menor por precio para alterar la f
 
 # Entrega de menor por precio para alterar la filiación: acusación
 
-> Formulario 0809 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0809 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

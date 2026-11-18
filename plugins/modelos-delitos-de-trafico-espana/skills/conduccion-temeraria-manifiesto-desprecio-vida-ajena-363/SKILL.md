@@ -5,7 +5,7 @@ description: "Redacta el escrito «Conducción temeraria con manifiesto despreci
 
 # Conducción temeraria con manifiesto desprecio por la vida ajena: apelación contra la condena
 
-> Formulario 0363 del plugin **Seguridad vial** · revisado el 17-11-2026. Uso interno.
+> Formulario 0363 del plugin **Seguridad vial** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

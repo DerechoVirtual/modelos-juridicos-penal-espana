@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acoso sexual: defensa» (formulario 821 de de
 
 # Acoso sexual: defensa
 
-> Formulario 0821 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0821 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

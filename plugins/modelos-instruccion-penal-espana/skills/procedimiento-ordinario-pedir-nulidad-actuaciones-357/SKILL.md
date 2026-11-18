@@ -5,7 +5,7 @@ description: "Redacta el escrito «Procedimiento ordinario: pedir la nulidad de 
 
 # Procedimiento ordinario: pedir la nulidad de actuaciones judiciales
 
-> Formulario 0357 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0357 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

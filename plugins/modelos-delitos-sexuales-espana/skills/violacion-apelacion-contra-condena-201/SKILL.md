@@ -5,7 +5,7 @@ description: "Redacta el escrito «Violación: apelación contra la condena» (f
 
 # Violación: apelación contra la condena
 
-> Formulario 0201 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0201 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

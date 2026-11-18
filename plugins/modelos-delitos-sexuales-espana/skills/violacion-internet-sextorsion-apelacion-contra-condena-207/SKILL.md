@@ -5,7 +5,7 @@ description: "Redacta el escrito «Violación por internet (sextorsión): apelac
 
 # Violación por internet (sextorsión): apelación contra la condena
 
-> Formulario 0207 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0207 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Renunciar al derecho a traductor e intérpret
 
 # Renunciar al derecho a traductor e intérprete (investigado o acusado)
 
-> Formulario 0746 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0746 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

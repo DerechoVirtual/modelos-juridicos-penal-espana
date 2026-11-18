@@ -5,7 +5,7 @@ description: "Redacta el escrito «Inhibición de Instrucción a favor de Violen
 
 # Inhibición de Instrucción a favor de Violencia sobre la Mujer del domicilio de la víctima: auto
 
-> Formulario 0039 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0039 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Mediación penal: acuerdo con cambio de calif
 
 # Mediación penal: acuerdo con cambio de calificación jurídica de los hechos
 
-> Formulario 0732 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0732 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

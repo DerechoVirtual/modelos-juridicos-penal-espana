@@ -5,7 +5,7 @@ description: "Redacta el escrito «Estafa multirreincidente o leve agravada: esc
 
 # Estafa multirreincidente o leve agravada: escrito de acusación
 
-> Formulario 0014 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0014 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

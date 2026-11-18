@@ -5,7 +5,7 @@ description: "Redacta el escrito «Hurto: defensa» (formulario 867 de delitos c
 
 # Hurto: defensa
 
-> Formulario 0867 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0867 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

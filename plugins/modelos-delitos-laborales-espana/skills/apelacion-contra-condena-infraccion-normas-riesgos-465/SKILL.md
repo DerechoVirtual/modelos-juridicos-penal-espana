@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra la condena por infracción 
 
 # Apelación contra la condena por infracción de normas de riesgos laborales
 
-> Formulario 0465 del plugin **Delitos contra los derechos de los trabajadores** · revisado el 17-11-2026. Uso interno.
+> Formulario 0465 del plugin **Delitos contra los derechos de los trabajadores** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

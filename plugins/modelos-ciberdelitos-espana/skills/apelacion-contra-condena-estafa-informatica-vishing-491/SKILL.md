@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra la condena por estafa infor
 
 # Apelación contra la condena por estafa informática (vishing)
 
-> Formulario 0491 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026. Uso interno.
+> Formulario 0491 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

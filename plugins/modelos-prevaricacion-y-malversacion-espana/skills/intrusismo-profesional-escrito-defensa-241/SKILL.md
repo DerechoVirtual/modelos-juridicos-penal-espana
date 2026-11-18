@@ -5,7 +5,7 @@ description: "Redacta el escrito «Intrusismo profesional: escrito de defensa» 
 
 # Intrusismo profesional: escrito de defensa
 
-> Formulario 0241 del plugin **Delitos contra la Administración pública y de justicia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0241 del plugin **Delitos contra la Administración pública y de justicia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Matrimonio ilegal: querella» (formulario 806
 
 # Matrimonio ilegal: querella
 
-> Formulario 0806 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0806 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

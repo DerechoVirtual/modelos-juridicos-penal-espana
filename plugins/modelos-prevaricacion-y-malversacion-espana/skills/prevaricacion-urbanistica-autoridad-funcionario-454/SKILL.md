@@ -5,7 +5,7 @@ description: "Redacta el escrito «Prevaricación urbanística de autoridad o fu
 
 # Prevaricación urbanística de autoridad o funcionario: acusación (todas las CCAA)
 
-> Formulario 0454 del plugin **Delitos contra la Administración pública y de justicia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0454 del plugin **Delitos contra la Administración pública y de justicia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

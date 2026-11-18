@@ -5,7 +5,7 @@ description: "Redacta el escrito «Impago de multa: suspender la responsabilidad
 
 # Impago de multa: suspender la responsabilidad personal subsidiaria (hasta el 2 de abril de 2025)
 
-> Formulario 0168 del plugin **Ejecución penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0168 del plugin **Ejecución penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

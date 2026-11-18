@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acoso o stalking: defensa» (formulario 815 d
 
 # Acoso o stalking: defensa
 
-> Formulario 0815 del plugin **Delitos contra las personas** · revisado el 17-11-2026. Uso interno.
+> Formulario 0815 del plugin **Delitos contra las personas** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

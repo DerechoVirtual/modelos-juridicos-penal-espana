@@ -5,7 +5,7 @@ description: "Redacta el escrito «Fiscalía Europea: escrito de defensa de la p
 
 # Fiscalía Europea: escrito de defensa de la persona acusada
 
-> Formulario 0334 del plugin **Procedimiento de la Fiscalía Europea** · revisado el 17-11-2026. Uso interno.
+> Formulario 0334 del plugin **Procedimiento de la Fiscalía Europea** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

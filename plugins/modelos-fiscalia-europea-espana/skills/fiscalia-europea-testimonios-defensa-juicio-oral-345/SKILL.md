@@ -5,7 +5,7 @@ description: "Redacta el escrito «Fiscalía Europea: testimonios para la defens
 
 # Fiscalía Europea: testimonios para la defensa en el juicio oral
 
-> Formulario 0345 del plugin **Procedimiento de la Fiscalía Europea** · revisado el 17-11-2026. Uso interno.
+> Formulario 0345 del plugin **Procedimiento de la Fiscalía Europea** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

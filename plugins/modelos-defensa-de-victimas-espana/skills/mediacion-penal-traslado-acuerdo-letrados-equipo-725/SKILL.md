@@ -5,7 +5,7 @@ description: "Redacta el escrito «Mediación penal: traslado del acuerdo a los 
 
 # Mediación penal: traslado del acuerdo a los letrados por el equipo de mediación
 
-> Formulario 0725 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0725 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Propiedad intelectual por internet: acusació
 
 # Propiedad intelectual por internet: acusación
 
-> Formulario 0626 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026. Uso interno.
+> Formulario 0626 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

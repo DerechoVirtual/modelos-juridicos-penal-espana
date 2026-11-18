@@ -5,7 +5,7 @@ description: "Redacta el escrito «Delito continuado: apelación contra la conde
 
 # Delito continuado: apelación contra la condena pidiendo la unidad natural de acción
 
-> Formulario 0028 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0028 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

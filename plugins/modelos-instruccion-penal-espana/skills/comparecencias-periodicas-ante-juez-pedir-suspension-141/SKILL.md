@@ -5,7 +5,7 @@ description: "Redacta el escrito «Comparecencias periódicas ante el juez: pedi
 
 # Comparecencias periódicas ante el juez: pedir su suspensión o una ampliación temporal
 
-> Formulario 0141 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0141 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

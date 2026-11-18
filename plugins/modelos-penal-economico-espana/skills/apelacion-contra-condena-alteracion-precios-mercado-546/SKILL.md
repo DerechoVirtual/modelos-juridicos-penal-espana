@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra la condena por alteración 
 
 # Apelación contra la condena por alteración de precios en el mercado
 
-> Formulario 0546 del plugin **Delitos económicos y de empresa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0546 del plugin **Delitos económicos y de empresa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

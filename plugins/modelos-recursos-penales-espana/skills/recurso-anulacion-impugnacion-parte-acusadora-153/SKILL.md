@@ -5,7 +5,7 @@ description: "Redacta el escrito «Recurso de anulación: impugnación de la par
 
 # Recurso de anulación: impugnación de la parte acusadora
 
-> Formulario 0153 del plugin **Recursos penales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0153 del plugin **Recursos penales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

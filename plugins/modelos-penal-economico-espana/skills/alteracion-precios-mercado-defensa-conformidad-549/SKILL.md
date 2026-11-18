@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alteración de precios en el mercado: defensa
 
 # Alteración de precios en el mercado: defensa con conformidad
 
-> Formulario 0549 del plugin **Delitos económicos y de empresa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0549 del plugin **Delitos económicos y de empresa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

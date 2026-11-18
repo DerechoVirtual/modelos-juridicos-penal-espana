@@ -5,7 +5,7 @@ description: "Redacta el escrito «Violación por internet (sextorsión, LO 4/20
 
 # Violación por internet (sextorsión, LO 4/2023): calificación provisional de la defensa
 
-> Formulario 0194 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0194 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

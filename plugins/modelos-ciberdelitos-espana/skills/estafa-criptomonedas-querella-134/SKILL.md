@@ -5,7 +5,7 @@ description: "Redacta el escrito «Estafa con criptomonedas: querella» (formula
 
 # Estafa con criptomonedas: querella
 
-> Formulario 0134 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026. Uso interno.
+> Formulario 0134 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

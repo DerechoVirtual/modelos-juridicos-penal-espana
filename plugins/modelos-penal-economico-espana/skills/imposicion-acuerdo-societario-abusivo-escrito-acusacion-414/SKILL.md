@@ -5,7 +5,7 @@ description: "Redacta el escrito «Imposición de acuerdo societario abusivo: es
 
 # Imposición de acuerdo societario abusivo: escrito de acusación
 
-> Formulario 0414 del plugin **Delitos económicos y de empresa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0414 del plugin **Delitos económicos y de empresa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

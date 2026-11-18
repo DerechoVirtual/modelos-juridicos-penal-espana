@@ -5,7 +5,7 @@ description: "Redacta el escrito «Estafa multirreincidente o leve agravada: que
 
 # Estafa multirreincidente o leve agravada: querella
 
-> Formulario 0016 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0016 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

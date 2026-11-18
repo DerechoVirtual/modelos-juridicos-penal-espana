@@ -5,7 +5,7 @@ description: "Redacta el escrito «Agresión sexual atenuada (LO 4/2023): escrit
 
 # Agresión sexual atenuada (LO 4/2023): escrito de defensa
 
-> Formulario 0189 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0189 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

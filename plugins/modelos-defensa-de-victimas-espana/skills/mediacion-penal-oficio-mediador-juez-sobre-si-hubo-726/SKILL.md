@@ -5,7 +5,7 @@ description: "Redacta el escrito «Mediación penal: oficio del mediador al juez
 
 # Mediación penal: oficio del mediador al juez sobre si hubo acuerdo
 
-> Formulario 0726 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0726 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

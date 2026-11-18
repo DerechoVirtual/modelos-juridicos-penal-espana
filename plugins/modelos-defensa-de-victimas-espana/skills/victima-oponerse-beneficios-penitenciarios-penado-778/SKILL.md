@@ -5,7 +5,7 @@ description: "Redacta el escrito «Víctima: oponerse a los beneficios penitenci
 
 # Víctima: oponerse a los beneficios penitenciarios del penado
 
-> Formulario 0778 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0778 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

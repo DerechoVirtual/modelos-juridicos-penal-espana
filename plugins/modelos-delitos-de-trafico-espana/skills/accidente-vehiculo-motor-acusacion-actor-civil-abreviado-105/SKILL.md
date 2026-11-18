@@ -5,7 +5,7 @@ description: "Redacta el escrito «Accidente con vehículo a motor: acusación d
 
 # Accidente con vehículo a motor: acusación del actor civil en el abreviado
 
-> Formulario 0105 del plugin **Seguridad vial** · revisado el 17-11-2026. Uso interno.
+> Formulario 0105 del plugin **Seguridad vial** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

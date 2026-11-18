@@ -5,7 +5,7 @@ description: "Prepara «Formulario para saber qué Estado miembro tiene antecede
 
 # Formulario para saber qué Estado miembro tiene antecedentes penales de un nacional de tercer país
 
-> Formulario 0488 del plugin **Cooperación penal internacional** · revisado el 17-11-2026. Uso interno.
+> Formulario 0488 del plugin **Cooperación penal internacional** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

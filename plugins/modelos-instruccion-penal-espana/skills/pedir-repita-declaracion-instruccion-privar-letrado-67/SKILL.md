@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir que se repita una declaración en instr
 
 # Pedir que se repita una declaración en instrucción por privar al letrado de su libertad de expresión
 
-> Formulario 0067 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0067 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

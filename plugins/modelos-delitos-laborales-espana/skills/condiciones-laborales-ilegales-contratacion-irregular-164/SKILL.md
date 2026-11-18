@@ -5,7 +5,7 @@ description: "Redacta el escrito «Condiciones laborales ilegales (contratación
 
 # Condiciones laborales ilegales (contratación irregular o pese a sanción): escrito de defensa
 
-> Formulario 0164 del plugin **Delitos contra los derechos de los trabajadores** · revisado el 17-11-2026. Uso interno.
+> Formulario 0164 del plugin **Delitos contra los derechos de los trabajadores** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

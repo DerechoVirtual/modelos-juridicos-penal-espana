@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra la condena por delito contr
 
 # Apelación contra la condena por delito contra la propiedad intelectual
 
-> Formulario 0875 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026. Uso interno.
+> Formulario 0875 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

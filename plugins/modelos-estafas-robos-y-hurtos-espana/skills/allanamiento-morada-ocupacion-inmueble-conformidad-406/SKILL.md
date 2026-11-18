@@ -5,7 +5,7 @@ description: "Redacta el escrito «Allanamiento de morada por ocupación de inmu
 
 # Allanamiento de morada por ocupación de inmueble: conformidad de la defensa
 
-> Formulario 0406 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0406 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

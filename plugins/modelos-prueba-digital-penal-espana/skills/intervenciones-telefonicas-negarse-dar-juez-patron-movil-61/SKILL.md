@@ -5,7 +5,7 @@ description: "Redacta el escrito «Intervenciones telefónicas: negarse a dar al
 
 # Intervenciones telefónicas: negarse a dar al juez el patrón del móvil para el volcado
 
-> Formulario 0061 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026. Uso interno.
+> Formulario 0061 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

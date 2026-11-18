@@ -5,7 +5,7 @@ description: "Redacta el escrito «Ciberbullying: conformidad del letrado del me
 
 # Ciberbullying: conformidad del letrado del menor con la acusación del fiscal
 
-> Formulario 0673 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0673 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Delito sexual: auto de inhibición de Violenc
 
 # Delito sexual: auto de inhibición de Violencia sobre la Mujer a Violencia contra la Infancia
 
-> Formulario 0032 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0032 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Tercer grado del penado: reforma y apelación
 
 # Tercer grado del penado: reforma y apelación de la víctima
 
-> Formulario 0783 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0783 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

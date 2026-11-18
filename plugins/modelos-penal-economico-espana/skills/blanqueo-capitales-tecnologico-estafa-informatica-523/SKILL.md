@@ -5,7 +5,7 @@ description: "Redacta el escrito «Blanqueo de capitales tecnológico y estafa i
 
 # Blanqueo de capitales tecnológico y estafa informática: acusación
 
-> Formulario 0523 del plugin **Delitos económicos y de empresa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0523 del plugin **Delitos económicos y de empresa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

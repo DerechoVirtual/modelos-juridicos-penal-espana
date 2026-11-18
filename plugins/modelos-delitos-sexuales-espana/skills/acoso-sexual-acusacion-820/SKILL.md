@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acoso sexual: acusación» (formulario 820 de
 
 # Acoso sexual: acusación
 
-> Formulario 0820 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0820 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

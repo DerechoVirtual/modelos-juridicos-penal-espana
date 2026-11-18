@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra la condena por denegación 
 
 # Apelación contra la condena por denegación discriminatoria de prestación empresarial o profesional
 
-> Formulario 0659 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0659 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

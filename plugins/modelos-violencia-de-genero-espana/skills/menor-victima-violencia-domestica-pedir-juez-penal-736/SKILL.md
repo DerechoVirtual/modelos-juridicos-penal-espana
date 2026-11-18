@@ -5,7 +5,7 @@ description: "Redacta el escrito «Menor víctima de violencia doméstica: pedir
 
 # Menor víctima de violencia doméstica: pedir al juez penal suspender las visitas del progenitor
 
-> Formulario 0736 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0736 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

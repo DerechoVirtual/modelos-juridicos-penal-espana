@@ -5,7 +5,7 @@ description: "Redacta el escrito «Menor o discapacitado: la defensa propone que
 
 # Menor o discapacitado: la defensa propone que declare en el plenario
 
-> Formulario 0419 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0419 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

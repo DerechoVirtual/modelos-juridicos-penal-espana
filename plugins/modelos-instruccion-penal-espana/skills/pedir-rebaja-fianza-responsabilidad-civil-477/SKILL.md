@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir la rebaja de la fianza por responsabili
 
 # Pedir la rebaja de la fianza por responsabilidad civil
 
-> Formulario 0477 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0477 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

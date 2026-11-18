@@ -5,7 +5,7 @@ description: "Redacta el escrito «Justicia restaurativa: el abogado de la acusa
 
 # Justicia restaurativa: el abogado de la acusación pide al mediador estar presente
 
-> Formulario 0728 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0728 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Fiscalía Europea: la acusación particular p
 
 # Fiscalía Europea: la acusación particular participa en los actos de investigación
 
-> Formulario 0338 del plugin **Procedimiento de la Fiscalía Europea** · revisado el 17-11-2026. Uso interno.
+> Formulario 0338 del plugin **Procedimiento de la Fiscalía Europea** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

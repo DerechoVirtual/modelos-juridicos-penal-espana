@@ -5,7 +5,7 @@ description: "Redacta el escrito «Víctima: pedir la traducción de una resoluc
 
 # Víctima: pedir la traducción de una resolución
 
-> Formulario 0753 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0753 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

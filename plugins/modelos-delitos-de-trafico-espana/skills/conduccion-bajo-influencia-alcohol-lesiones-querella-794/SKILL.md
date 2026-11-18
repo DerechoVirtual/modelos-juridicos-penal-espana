@@ -5,7 +5,7 @@ description: "Redacta el escrito «Conducción bajo la influencia del alcohol y 
 
 # Conducción bajo la influencia del alcohol y lesiones: querella
 
-> Formulario 0794 del plugin **Seguridad vial** · revisado el 17-11-2026. Uso interno.
+> Formulario 0794 del plugin **Seguridad vial** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

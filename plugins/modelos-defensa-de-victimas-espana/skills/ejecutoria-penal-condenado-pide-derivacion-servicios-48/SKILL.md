@@ -5,7 +5,7 @@ description: "Redacta el escrito «Ejecutoria penal: el condenado pide la deriva
 
 # Ejecutoria penal: el condenado pide la derivación a los servicios de justicia restaurativa
 
-> Formulario 0048 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0048 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

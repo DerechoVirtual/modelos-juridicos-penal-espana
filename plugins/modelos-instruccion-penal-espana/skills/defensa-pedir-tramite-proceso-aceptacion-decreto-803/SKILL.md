@@ -5,7 +5,7 @@ description: "Redacta el escrito «Defensa: pedir que se tramite por el proceso 
 
 # Defensa: pedir que se tramite por el proceso por aceptación de decreto
 
-> Formulario 0803 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0803 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

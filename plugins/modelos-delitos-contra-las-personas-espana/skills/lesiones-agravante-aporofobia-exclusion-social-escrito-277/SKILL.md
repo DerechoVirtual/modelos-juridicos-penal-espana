@@ -5,7 +5,7 @@ description: "Redacta el escrito «Lesiones con agravante de aporofobia o exclus
 
 # Lesiones con agravante de aporofobia o exclusión social: escrito de acusación
 
-> Formulario 0277 del plugin **Delitos contra las personas** · revisado el 17-11-2026. Uso interno.
+> Formulario 0277 del plugin **Delitos contra las personas** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

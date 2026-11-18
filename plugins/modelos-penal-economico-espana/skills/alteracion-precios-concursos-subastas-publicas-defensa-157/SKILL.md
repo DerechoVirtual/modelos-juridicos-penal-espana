@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alteración de precios en concursos y subasta
 
 # Alteración de precios en concursos y subastas públicas: defensa alegando exención
 
-> Formulario 0157 del plugin **Delitos económicos y de empresa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0157 del plugin **Delitos económicos y de empresa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

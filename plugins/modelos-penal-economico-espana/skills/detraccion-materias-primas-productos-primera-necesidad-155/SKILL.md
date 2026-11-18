@@ -5,7 +5,7 @@ description: "Redacta el escrito «Detracción de materias primas o productos de
 
 # Detracción de materias primas o productos de primera necesidad: defensa alegando exención
 
-> Formulario 0155 del plugin **Delitos económicos y de empresa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0155 del plugin **Delitos económicos y de empresa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

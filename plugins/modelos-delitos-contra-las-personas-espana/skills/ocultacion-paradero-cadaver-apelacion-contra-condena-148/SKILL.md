@@ -5,7 +5,7 @@ description: "Redacta el escrito «Ocultación del paradero de un cadáver: apel
 
 # Ocultación del paradero de un cadáver: apelación contra la condena
 
-> Formulario 0148 del plugin **Delitos contra las personas** · revisado el 17-11-2026. Uso interno.
+> Formulario 0148 del plugin **Delitos contra las personas** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

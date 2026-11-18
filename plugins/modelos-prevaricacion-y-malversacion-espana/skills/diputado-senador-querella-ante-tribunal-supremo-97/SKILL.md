@@ -5,7 +5,7 @@ description: "Redacta el escrito «Diputado o senador: querella ante el Tribunal
 
 # Diputado o senador: querella ante el Tribunal Supremo
 
-> Formulario 0097 del plugin **Delitos contra la Administración pública y de justicia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0097 del plugin **Delitos contra la Administración pública y de justicia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

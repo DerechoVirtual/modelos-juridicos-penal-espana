@@ -5,7 +5,7 @@ description: "Redacta el escrito «Lesiones a animales difundidas en redes socia
 
 # Lesiones a animales difundidas en redes sociales: apelación contra la condena
 
-> Formulario 0110 del plugin **Salud pública y maltrato animal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0110 del plugin **Salud pública y maltrato animal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Decomiso: contestación a la demanda por terc
 
 # Decomiso: contestación a la demanda por tercero rebelde o que no pudo oponerse
 
-> Formulario 0762 del plugin **Ejecución penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0762 del plugin **Ejecución penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Hurto multirreincidente: apelación contra la
 
 # Hurto multirreincidente: apelación contra la condena
 
-> Formulario 0136 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0136 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

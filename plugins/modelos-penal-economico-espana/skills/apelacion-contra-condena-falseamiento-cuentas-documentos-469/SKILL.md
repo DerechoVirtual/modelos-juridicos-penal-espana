@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra la condena por falseamiento
 
 # Apelación contra la condena por falseamiento de cuentas o documentos sociales (delito societario)
 
-> Formulario 0469 del plugin **Delitos económicos y de empresa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0469 del plugin **Delitos económicos y de empresa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

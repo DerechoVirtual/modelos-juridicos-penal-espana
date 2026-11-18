@@ -5,7 +5,7 @@ description: "Redacta el escrito «Hurto: defensa con conformidad» (formulario 
 
 # Hurto: defensa con conformidad
 
-> Formulario 0864 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0864 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

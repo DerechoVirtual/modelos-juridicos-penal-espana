@@ -5,7 +5,7 @@ description: "Redacta el escrito «Administración desleal: escrito de defensa»
 
 # Administración desleal: escrito de defensa
 
-> Formulario 0426 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0426 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

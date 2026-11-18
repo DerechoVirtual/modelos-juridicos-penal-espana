@@ -5,7 +5,7 @@ description: "Redacta el escrito «Estafa con criptomonedas: conformidad de la d
 
 # Estafa con criptomonedas: conformidad de la defensa
 
-> Formulario 0132 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026. Uso interno.
+> Formulario 0132 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

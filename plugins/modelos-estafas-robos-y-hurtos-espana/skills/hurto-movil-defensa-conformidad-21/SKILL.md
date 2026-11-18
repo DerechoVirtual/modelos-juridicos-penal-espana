@@ -5,7 +5,7 @@ description: "Redacta el escrito «Hurto de móvil: defensa con conformidad» (f
 
 # Hurto de móvil: defensa con conformidad
 
-> Formulario 0021 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0021 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Injurias graves en redes sociales: acusación
 
 # Injurias graves en redes sociales: acusación
 
-> Formulario 0653 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0653 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

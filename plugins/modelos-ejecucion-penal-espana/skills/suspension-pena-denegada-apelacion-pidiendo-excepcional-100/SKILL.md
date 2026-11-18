@@ -5,7 +5,7 @@ description: "Redacta el escrito «Suspensión de pena denegada: apelación pidi
 
 # Suspensión de pena denegada: apelación pidiendo la excepcional (hasta el 2 de abril de 2025)
 
-> Formulario 0100 del plugin **Ejecución penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0100 del plugin **Ejecución penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

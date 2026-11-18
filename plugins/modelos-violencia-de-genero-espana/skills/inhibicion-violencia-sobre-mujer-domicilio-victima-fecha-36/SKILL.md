@@ -5,7 +5,7 @@ description: "Redacta el escrito «Inhibición a Violencia sobre la Mujer del do
 
 # Inhibición a Violencia sobre la Mujer del domicilio de la víctima a fecha del hecho: auto
 
-> Formulario 0036 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0036 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

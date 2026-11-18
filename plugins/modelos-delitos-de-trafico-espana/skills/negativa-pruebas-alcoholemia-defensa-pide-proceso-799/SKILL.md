@@ -5,7 +5,7 @@ description: "Redacta el escrito «Negativa a las pruebas de alcoholemia: la def
 
 # Negativa a las pruebas de alcoholemia: la defensa pide el proceso por aceptación de decreto
 
-> Formulario 0799 del plugin **Seguridad vial** · revisado el 17-11-2026. Uso interno.
+> Formulario 0799 del plugin **Seguridad vial** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

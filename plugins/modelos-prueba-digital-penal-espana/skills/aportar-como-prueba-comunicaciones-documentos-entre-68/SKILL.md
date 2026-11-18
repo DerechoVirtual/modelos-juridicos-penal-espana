@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aportar como prueba comunicaciones o document
 
 # Aportar como prueba comunicaciones o documentos entre defensores con autorización
 
-> Formulario 0068 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026. Uso interno.
+> Formulario 0068 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

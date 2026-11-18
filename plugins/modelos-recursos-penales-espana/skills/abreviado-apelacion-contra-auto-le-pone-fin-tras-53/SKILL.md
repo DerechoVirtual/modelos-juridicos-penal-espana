@@ -5,7 +5,7 @@ description: "Redacta el escrito «Abreviado: apelación contra el auto que le p
 
 # Abreviado: apelación contra el auto que le pone fin tras la audiencia preliminar
 
-> Formulario 0053 del plugin **Recursos penales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0053 del plugin **Recursos penales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

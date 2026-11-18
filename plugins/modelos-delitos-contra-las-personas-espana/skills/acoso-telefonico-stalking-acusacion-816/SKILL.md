@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acoso telefónico o stalking: acusación» (f
 
 # Acoso telefónico o stalking: acusación
 
-> Formulario 0816 del plugin **Delitos contra las personas** · revisado el 17-11-2026. Uso interno.
+> Formulario 0816 del plugin **Delitos contra las personas** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

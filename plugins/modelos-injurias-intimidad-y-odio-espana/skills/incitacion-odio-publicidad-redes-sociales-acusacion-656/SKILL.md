@@ -5,7 +5,7 @@ description: "Redacta el escrito «Incitación al odio con publicidad en redes s
 
 # Incitación al odio con publicidad en redes sociales: acusación
 
-> Formulario 0656 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0656 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

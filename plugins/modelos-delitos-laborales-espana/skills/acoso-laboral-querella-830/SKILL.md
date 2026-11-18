@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acoso laboral: querella» (formulario 830 de 
 
 # Acoso laboral: querella
 
-> Formulario 0830 del plugin **Delitos contra los derechos de los trabajadores** · revisado el 17-11-2026. Uso interno.
+> Formulario 0830 del plugin **Delitos contra los derechos de los trabajadores** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

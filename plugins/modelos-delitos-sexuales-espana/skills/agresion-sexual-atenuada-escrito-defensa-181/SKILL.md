@@ -5,7 +5,7 @@ description: "Redacta el escrito «Agresión sexual atenuada: escrito de defensa
 
 # Agresión sexual atenuada: escrito de defensa
 
-> Formulario 0181 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0181 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

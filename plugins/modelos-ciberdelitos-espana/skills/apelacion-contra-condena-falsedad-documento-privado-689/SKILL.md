@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra la condena por falsedad en 
 
 # Apelación contra la condena por falsedad en documento privado por suplantación en redes sociales
 
-> Formulario 0689 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026. Uso interno.
+> Formulario 0689 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

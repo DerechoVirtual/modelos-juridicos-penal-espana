@@ -5,7 +5,7 @@ description: "Redacta el escrito «Lesiones: apelación contra la condena» (for
 
 # Lesiones: apelación contra la condena
 
-> Formulario 0435 del plugin **Delitos contra las personas** · revisado el 17-11-2026. Uso interno.
+> Formulario 0435 del plugin **Delitos contra las personas** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

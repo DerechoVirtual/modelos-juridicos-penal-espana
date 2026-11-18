@@ -5,7 +5,7 @@ description: "Redacta el escrito «Negativa a las pruebas de alcoholemia: defens
 
 # Negativa a las pruebas de alcoholemia: defensa con conformidad en el abreviado
 
-> Formulario 0801 del plugin **Seguridad vial** · revisado el 17-11-2026. Uso interno.
+> Formulario 0801 del plugin **Seguridad vial** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

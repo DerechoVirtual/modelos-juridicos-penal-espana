@@ -5,7 +5,7 @@ description: "Redacta el escrito «Sobreseimiento provisional tras las diligenci
 
 # Sobreseimiento provisional tras las diligencias previas: reforma y subsidiaria apelación
 
-> Formulario 0479 del plugin **Recursos penales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0479 del plugin **Recursos penales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

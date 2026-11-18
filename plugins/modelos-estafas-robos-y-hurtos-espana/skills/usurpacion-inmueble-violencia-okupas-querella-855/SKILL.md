@@ -5,7 +5,7 @@ description: "Redacta el escrito «Usurpación de inmueble con violencia (okupas
 
 # Usurpación de inmueble con violencia (okupas): querella
 
-> Formulario 0855 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0855 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

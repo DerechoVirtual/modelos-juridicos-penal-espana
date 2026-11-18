@@ -5,7 +5,7 @@ description: "Redacta el escrito «Hurto de productos agrarios o ganaderos: apel
 
 # Hurto de productos agrarios o ganaderos: apelación de la acusación contra la sentencia
 
-> Formulario 0005 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0005 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

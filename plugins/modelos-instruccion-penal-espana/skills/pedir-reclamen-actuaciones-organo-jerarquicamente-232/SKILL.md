@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir que se reclamen las actuaciones al órg
 
 # Pedir que se reclamen las actuaciones al órgano jerárquicamente inferior
 
-> Formulario 0232 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0232 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Hurto multirreincidente: querella» (formular
 
 # Hurto multirreincidente: querella
 
-> Formulario 0138 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0138 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

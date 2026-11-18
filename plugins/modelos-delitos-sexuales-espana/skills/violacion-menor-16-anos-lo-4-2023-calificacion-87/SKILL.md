@@ -5,7 +5,7 @@ description: "Redacta el escrito «Violación a menor de 16 años (LO 4/2023): c
 
 # Violación a menor de 16 años (LO 4/2023): calificación provisional del acusador particular
 
-> Formulario 0087 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0087 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

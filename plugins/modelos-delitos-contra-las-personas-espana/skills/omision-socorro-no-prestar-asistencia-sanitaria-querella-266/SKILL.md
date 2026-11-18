@@ -5,7 +5,7 @@ description: "Redacta el escrito «Omisión de socorro por no prestar asistencia
 
 # Omisión de socorro por no prestar asistencia sanitaria: querella
 
-> Formulario 0266 del plugin **Delitos contra las personas** · revisado el 17-11-2026. Uso interno.
+> Formulario 0266 del plugin **Delitos contra las personas** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

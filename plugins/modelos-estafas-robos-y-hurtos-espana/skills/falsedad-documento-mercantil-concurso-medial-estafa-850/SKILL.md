@@ -5,7 +5,7 @@ description: "Redacta el escrito «Falsedad en documento mercantil en concurso m
 
 # Falsedad en documento mercantil en concurso medial con estafa: acusación
 
-> Formulario 0850 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0850 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

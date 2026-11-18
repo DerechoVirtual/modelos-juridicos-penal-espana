@@ -5,7 +5,7 @@ description: "Redacta el escrito «Allegado del perjudicado: reclamación a la a
 
 # Allegado del perjudicado: reclamación a la aseguradora
 
-> Formulario 0362 del plugin **Seguridad vial** · revisado el 17-11-2026. Uso interno.
+> Formulario 0362 del plugin **Seguridad vial** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

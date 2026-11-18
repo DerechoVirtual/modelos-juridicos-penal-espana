@@ -5,7 +5,7 @@ description: "Redacta el escrito «Denunciante: pedir que se notifique el auto q
 
 # Denunciante: pedir que se notifique el auto que inadmite la denuncia
 
-> Formulario 0122 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0122 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

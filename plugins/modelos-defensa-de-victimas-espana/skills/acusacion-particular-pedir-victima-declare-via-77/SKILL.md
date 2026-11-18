@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acusación particular: pedir que la víctima 
 
 # Acusación particular: pedir que la víctima declare por vía telemática (desde el 20 de marzo de 2024)
 
-> Formulario 0077 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0077 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

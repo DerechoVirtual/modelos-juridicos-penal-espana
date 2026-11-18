@@ -5,7 +5,7 @@ description: "Redacta el escrito «Querellante: aportar acta notarial del conten
 
 # Querellante: aportar acta notarial del contenido de una web como prueba preconstituida
 
-> Formulario 0702 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026. Uso interno.
+> Formulario 0702 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

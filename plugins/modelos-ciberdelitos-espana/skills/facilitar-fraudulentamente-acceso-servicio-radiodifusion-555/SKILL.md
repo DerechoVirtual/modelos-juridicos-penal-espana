@@ -5,7 +5,7 @@ description: "Redacta el escrito «Facilitar fraudulentamente el acceso a un ser
 
 # Facilitar fraudulentamente el acceso a un servicio de radiodifusión: querella
 
-> Formulario 0555 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026. Uso interno.
+> Formulario 0555 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

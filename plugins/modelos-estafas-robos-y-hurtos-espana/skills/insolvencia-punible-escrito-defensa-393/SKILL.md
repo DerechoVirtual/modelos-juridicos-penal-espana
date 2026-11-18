@@ -5,7 +5,7 @@ description: "Redacta el escrito «Insolvencia punible: escrito de defensa» (fo
 
 # Insolvencia punible: escrito de defensa
 
-> Formulario 0393 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0393 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

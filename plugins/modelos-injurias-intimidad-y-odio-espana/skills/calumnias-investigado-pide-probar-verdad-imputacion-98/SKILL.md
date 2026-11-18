@@ -5,7 +5,7 @@ description: "Redacta el escrito «Calumnias: el investigado pide probar la verd
 
 # Calumnias: el investigado pide probar la verdad de la imputación (exceptio veritatis)
 
-> Formulario 0098 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0098 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

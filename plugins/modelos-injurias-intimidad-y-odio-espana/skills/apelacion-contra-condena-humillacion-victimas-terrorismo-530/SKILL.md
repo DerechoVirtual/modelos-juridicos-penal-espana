@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra la condena por humillación
 
 # Apelación contra la condena por humillación a víctimas del terrorismo por internet
 
-> Formulario 0530 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0530 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

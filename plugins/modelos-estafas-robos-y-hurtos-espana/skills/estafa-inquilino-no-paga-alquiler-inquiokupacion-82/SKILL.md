@@ -5,7 +5,7 @@ description: "Redacta el escrito «Estafa del inquilino que no paga el alquiler 
 
 # Estafa del inquilino que no paga el alquiler (inquiokupación): apelación contra la condena
 
-> Formulario 0082 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0082 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

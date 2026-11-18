@@ -5,7 +5,7 @@ description: "Redacta el escrito «Usurpación de inmueble: el propietario se op
 
 # Usurpación de inmueble: el propietario se opone a que se suspenda el desahucio
 
-> Formulario 0377 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0377 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

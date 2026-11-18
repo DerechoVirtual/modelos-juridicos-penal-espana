@@ -5,7 +5,7 @@ description: "Redacta el escrito «Investigado: pedir diligencias de prueba en l
 
 # Investigado: pedir diligencias de prueba en las diligencias previas
 
-> Formulario 0120 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0120 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

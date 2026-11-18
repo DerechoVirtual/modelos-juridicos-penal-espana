@@ -5,7 +5,7 @@ description: "Redacta el escrito «Grave riesgo vial por colocar obstáculos en 
 
 # Grave riesgo vial por colocar obstáculos en la vía: escrito de defensa
 
-> Formulario 0239 del plugin **Seguridad vial** · revisado el 17-11-2026. Uso interno.
+> Formulario 0239 del plugin **Seguridad vial** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

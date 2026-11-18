@@ -5,7 +5,7 @@ description: "Redacta el escrito «Trata en tránsito: auto de inhibición a fav
 
 # Trata en tránsito: auto de inhibición a favor del Tribunal Central de Instancia
 
-> Formulario 0035 del plugin **Delitos contra las personas** · revisado el 17-11-2026. Uso interno.
+> Formulario 0035 del plugin **Delitos contra las personas** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

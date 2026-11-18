@@ -5,7 +5,7 @@ description: "Redacta el escrito «Agresión sexual atenuada (LO 4/2023): querel
 
 # Agresión sexual atenuada (LO 4/2023): querella
 
-> Formulario 0186 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0186 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

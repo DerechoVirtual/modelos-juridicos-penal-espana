@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acoso sexual: defensa con conformidad» (form
 
 # Acoso sexual: defensa con conformidad
 
-> Formulario 0823 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0823 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

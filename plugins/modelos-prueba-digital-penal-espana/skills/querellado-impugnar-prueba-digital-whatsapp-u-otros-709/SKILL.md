@@ -5,7 +5,7 @@ description: "Redacta el escrito «Querellado: impugnar la prueba digital (Whats
 
 # Querellado: impugnar la prueba digital (WhatsApp u otros) aportada en la instrucción
 
-> Formulario 0709 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026. Uso interno.
+> Formulario 0709 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

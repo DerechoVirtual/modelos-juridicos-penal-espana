@@ -5,7 +5,7 @@ description: "Redacta el escrito «Diputado o senador: la acusación pide remiti
 
 # Diputado o senador: la acusación pide remitir la causa al Tribunal Supremo
 
-> Formulario 0099 del plugin **Delitos contra la Administración pública y de justicia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0099 del plugin **Delitos contra la Administración pública y de justicia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

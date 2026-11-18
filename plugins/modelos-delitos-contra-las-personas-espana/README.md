@@ -171,6 +171,3 @@ Para usar uno directamente: `/modelos-delitos-contra-las-personas-espana:<skill>
 - `formulario.md`: el texto revisado del formulario;
 - `marco.md`: la guía del tema, con las reglas y plazos vigentes comprobados en el BOE.
 
-## Uso interno
-
-Plugin de uso interno. Antes de venderlo o dárselo a alumnos, hay que sustituir los textos por plantillas de redacción propia.

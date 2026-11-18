@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir la instalación de dispositivos técnic
 
 # Pedir la instalación de dispositivos técnicos de localización y seguimiento
 
-> Formulario 0715 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026. Uso interno.
+> Formulario 0715 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

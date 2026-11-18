@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra la condena por robo de uso 
 
 # Apelación contra la condena por robo de uso de vehículo de motor
 
-> Formulario 0485 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0485 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

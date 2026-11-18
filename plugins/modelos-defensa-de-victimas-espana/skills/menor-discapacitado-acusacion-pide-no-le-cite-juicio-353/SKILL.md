@@ -5,7 +5,7 @@ description: "Redacta el escrito «Menor o discapacitado: la acusación pide que
 
 # Menor o discapacitado: la acusación pide que no se le cite al juicio oral
 
-> Formulario 0353 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0353 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

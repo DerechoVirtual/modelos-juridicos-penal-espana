@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra la condena por injurias gra
 
 # Apelación contra la condena por injurias graves en redes sociales
 
-> Formulario 0650 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0650 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

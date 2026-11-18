@@ -5,7 +5,7 @@ description: "Redacta el escrito «Agresión sexual atenuada (LO 4/2023): apelac
 
 # Agresión sexual atenuada (LO 4/2023): apelación contra la condena
 
-> Formulario 0188 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0188 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

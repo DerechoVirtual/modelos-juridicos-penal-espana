@@ -5,7 +5,7 @@ description: "Redacta el escrito «Violación bajo sumisión química: calificac
 
 # Violación bajo sumisión química: calificación provisional de la acusación
 
-> Formulario 0177 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0177 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra la condena por usurpación 
 
 # Apelación contra la condena por usurpación de inmueble con violencia (okupas)
 
-> Formulario 0858 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0858 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

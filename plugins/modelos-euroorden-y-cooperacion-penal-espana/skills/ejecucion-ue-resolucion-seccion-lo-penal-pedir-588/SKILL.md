@@ -5,7 +5,7 @@ description: "Redacta el escrito «Ejecución en la UE de una resolución de la 
 
 # Ejecución en la UE de una resolución de la Sección de lo Penal: pedir su transmisión
 
-> Formulario 0588 del plugin **Cooperación penal internacional** · revisado el 17-11-2026. Uso interno.
+> Formulario 0588 del plugin **Cooperación penal internacional** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

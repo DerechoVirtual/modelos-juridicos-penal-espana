@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir al fiscal que solicite al juez interven
 
 # Pedir al fiscal que solicite al juez intervenir la correspondencia del investigado
 
-> Formulario 0764 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026. Uso interno.
+> Formulario 0764 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

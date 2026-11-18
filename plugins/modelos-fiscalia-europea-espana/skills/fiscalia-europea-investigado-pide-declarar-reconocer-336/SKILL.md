@@ -5,7 +5,7 @@ description: "Redacta el escrito «Fiscalía Europea: el investigado pide declar
 
 # Fiscalía Europea: el investigado pide declarar para reconocer los hechos y conformarse
 
-> Formulario 0336 del plugin **Procedimiento de la Fiscalía Europea** · revisado el 17-11-2026. Uso interno.
+> Formulario 0336 del plugin **Procedimiento de la Fiscalía Europea** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

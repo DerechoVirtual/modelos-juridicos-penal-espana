@@ -5,7 +5,7 @@ description: "Redacta el escrito «Deducir testimonio por posible delito hallado
 
 # Deducir testimonio por posible delito hallado en correspondencia o correo electrónico intervenidos
 
-> Formulario 0711 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026. Uso interno.
+> Formulario 0711 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

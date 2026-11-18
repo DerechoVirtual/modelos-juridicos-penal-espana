@@ -5,7 +5,7 @@ description: "Redacta el escrito «Determinación a ejercer la prostitución: qu
 
 # Determinación a ejercer la prostitución: querella
 
-> Formulario 0828 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0828 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

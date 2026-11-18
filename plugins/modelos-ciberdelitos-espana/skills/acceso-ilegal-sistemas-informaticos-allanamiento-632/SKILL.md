@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acceso ilegal a sistemas informáticos (allan
 
 # Acceso ilegal a sistemas informáticos (allanamiento o intrusismo): acusación
 
-> Formulario 0632 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026. Uso interno.
+> Formulario 0632 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

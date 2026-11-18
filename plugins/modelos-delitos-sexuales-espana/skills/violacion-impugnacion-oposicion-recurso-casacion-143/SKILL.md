@@ -5,7 +5,7 @@ description: "Redacta el escrito «Violación: impugnación y oposición al recu
 
 # Violación: impugnación y oposición al recurso de casación
 
-> Formulario 0143 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0143 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

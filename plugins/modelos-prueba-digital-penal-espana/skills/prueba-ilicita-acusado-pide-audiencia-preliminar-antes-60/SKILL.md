@@ -5,7 +5,7 @@ description: "Redacta el escrito «Prueba ilícita: el acusado pide audiencia pr
 
 # Prueba ilícita: el acusado pide audiencia preliminar (antes y después del 3 de abril de 2025)
 
-> Formulario 0060 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026. Uso interno.
+> Formulario 0060 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Calumnia en redes sociales: defensa con confo
 
 # Calumnia en redes sociales: defensa con conformidad
 
-> Formulario 0648 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0648 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

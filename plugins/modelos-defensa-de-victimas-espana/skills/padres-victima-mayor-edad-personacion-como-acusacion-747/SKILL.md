@@ -5,7 +5,7 @@ description: "Redacta el escrito «Padres de víctima mayor de edad: personació
 
 # Padres de víctima mayor de edad: personación como acusación particular
 
-> Formulario 0747 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0747 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

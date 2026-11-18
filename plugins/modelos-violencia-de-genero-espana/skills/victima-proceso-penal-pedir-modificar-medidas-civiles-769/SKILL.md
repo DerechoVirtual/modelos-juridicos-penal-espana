@@ -5,7 +5,7 @@ description: "Redacta el escrito «Víctima en el proceso penal: pedir modificar
 
 # Víctima en el proceso penal: pedir modificar las medidas civiles del proceso de familia
 
-> Formulario 0769 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0769 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

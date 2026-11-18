@@ -5,7 +5,7 @@ description: "Redacta el escrito «Sobreseimiento libre de la AP o la AN: recurs
 
 # Sobreseimiento libre de la AP o la AN: recurso de casación
 
-> Formulario 0251 del plugin **Recursos penales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0251 del plugin **Recursos penales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

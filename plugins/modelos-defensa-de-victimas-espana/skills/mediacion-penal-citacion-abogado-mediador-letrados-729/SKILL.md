@@ -5,7 +5,7 @@ description: "Redacta el escrito «Mediación penal: citación del abogado media
 
 # Mediación penal: citación del abogado mediador a los letrados de las partes
 
-> Formulario 0729 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0729 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

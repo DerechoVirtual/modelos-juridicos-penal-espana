@@ -5,7 +5,7 @@ description: "Redacta el escrito «Narcotráfico: defensa con conformidad en jui
 
 # Narcotráfico: defensa con conformidad en juicio rápido
 
-> Formulario 0792 del plugin **Salud pública y maltrato animal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0792 del plugin **Salud pública y maltrato animal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

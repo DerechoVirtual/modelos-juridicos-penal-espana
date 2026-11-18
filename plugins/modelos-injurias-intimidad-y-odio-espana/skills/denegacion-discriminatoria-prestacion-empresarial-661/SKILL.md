@@ -5,7 +5,7 @@ description: "Redacta el escrito «Denegación discriminatoria de una prestació
 
 # Denegación discriminatoria de una prestación empresarial o profesional: querella
 
-> Formulario 0661 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0661 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

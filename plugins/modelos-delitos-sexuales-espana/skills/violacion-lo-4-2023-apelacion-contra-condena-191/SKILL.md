@@ -5,7 +5,7 @@ description: "Redacta el escrito «Violación (LO 4/2023): apelación contra la 
 
 # Violación (LO 4/2023): apelación contra la condena
 
-> Formulario 0191 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0191 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Estafa multirreincidente o leve agravada: con
 
 # Estafa multirreincidente o leve agravada: conformidad de la defensa
 
-> Formulario 0015 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0015 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

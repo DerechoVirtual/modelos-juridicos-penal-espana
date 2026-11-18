@@ -5,7 +5,7 @@ description: "Redacta el escrito «Trata de seres humanos: calificación provisi
 
 # Trata de seres humanos: calificación provisional de la acusación
 
-> Formulario 0272 del plugin **Delitos contra las personas** · revisado el 17-11-2026. Uso interno.
+> Formulario 0272 del plugin **Delitos contra las personas** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

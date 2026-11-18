@@ -5,7 +5,7 @@ description: "Redacta el escrito «Prueba digital y pericial informática: propu
 
 # Prueba digital y pericial informática: propuesta en el escrito de acusación
 
-> Formulario 0703 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026. Uso interno.
+> Formulario 0703 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

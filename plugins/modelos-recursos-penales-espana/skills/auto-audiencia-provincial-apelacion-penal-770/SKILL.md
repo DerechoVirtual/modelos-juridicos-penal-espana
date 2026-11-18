@@ -5,7 +5,7 @@ description: "Redacta el escrito «Auto de la Audiencia Provincial: apelación p
 
 # Auto de la Audiencia Provincial: apelación penal
 
-> Formulario 0770 del plugin **Recursos penales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0770 del plugin **Recursos penales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

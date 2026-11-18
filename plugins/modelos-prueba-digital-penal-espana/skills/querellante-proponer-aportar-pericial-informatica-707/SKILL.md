@@ -5,7 +5,7 @@ description: "Redacta el escrito «Querellante: proponer o aportar pericial info
 
 # Querellante: proponer o aportar pericial informática en instrucción ante prueba digital impugnada
 
-> Formulario 0707 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026. Uso interno.
+> Formulario 0707 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Computación en la nube (cloud computing): co
 
 # Computación en la nube (cloud computing): contrato de acceso a datos por cuenta de terceros
 
-> Formulario 0735 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026. Uso interno.
+> Formulario 0735 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Víctima: pedir su evaluación antes de adopt
 
 # Víctima: pedir su evaluación antes de adoptar medidas de protección
 
-> Formulario 0748 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0748 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

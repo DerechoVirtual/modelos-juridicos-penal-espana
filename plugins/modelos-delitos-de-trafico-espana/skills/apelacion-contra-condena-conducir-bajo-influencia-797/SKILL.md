@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra la condena por conducir baj
 
 # Apelación contra la condena por conducir bajo la influencia del alcohol
 
-> Formulario 0797 del plugin **Seguridad vial** · revisado el 17-11-2026. Uso interno.
+> Formulario 0797 del plugin **Seguridad vial** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

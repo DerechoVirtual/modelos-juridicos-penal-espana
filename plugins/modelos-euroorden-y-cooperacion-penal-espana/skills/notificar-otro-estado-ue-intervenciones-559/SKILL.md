@@ -5,7 +5,7 @@ description: "Prepara «Notificar a otro Estado de la UE las intervenciones de t
 
 # Notificar a otro Estado de la UE las intervenciones de telecomunicaciones en su territorio
 
-> Formulario 0559 del plugin **Cooperación penal internacional** · revisado el 17-11-2026. Uso interno.
+> Formulario 0559 del plugin **Cooperación penal internacional** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

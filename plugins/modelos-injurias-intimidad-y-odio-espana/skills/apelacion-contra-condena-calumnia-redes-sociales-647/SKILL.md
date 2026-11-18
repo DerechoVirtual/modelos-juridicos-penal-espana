@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra la condena por calumnia en 
 
 # Apelación contra la condena por calumnia en redes sociales
 
-> Formulario 0647 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0647 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

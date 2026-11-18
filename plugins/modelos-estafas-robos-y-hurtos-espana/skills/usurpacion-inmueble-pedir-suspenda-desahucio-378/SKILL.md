@@ -5,7 +5,7 @@ description: "Redacta el escrito «Usurpación de inmueble: pedir que se suspend
 
 # Usurpación de inmueble: pedir que se suspenda el desahucio
 
-> Formulario 0378 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0378 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

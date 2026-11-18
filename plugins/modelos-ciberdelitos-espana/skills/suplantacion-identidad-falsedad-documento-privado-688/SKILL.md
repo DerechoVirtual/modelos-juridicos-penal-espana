@@ -5,7 +5,7 @@ description: "Redacta el escrito «Suplantación de identidad (falsedad en docum
 
 # Suplantación de identidad (falsedad en documento privado): defensa con conformidad
 
-> Formulario 0688 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026. Uso interno.
+> Formulario 0688 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

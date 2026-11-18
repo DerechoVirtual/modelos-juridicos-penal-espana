@@ -5,7 +5,7 @@ description: "Redacta el escrito «Víctima o perjudicado: personarse después d
 
 # Víctima o perjudicado: personarse después del escrito de acusación
 
-> Formulario 0355 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0355 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

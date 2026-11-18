@@ -5,7 +5,7 @@ description: "Redacta el escrito «Tentativa de homicidio o asesinato: la defens
 
 # Tentativa de homicidio o asesinato: la defensa se opone a suspender la patria potestad
 
-> Formulario 0320 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0320 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

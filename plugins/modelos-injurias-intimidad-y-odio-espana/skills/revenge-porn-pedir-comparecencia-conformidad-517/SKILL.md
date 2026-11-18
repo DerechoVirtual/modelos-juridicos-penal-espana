@@ -5,7 +5,7 @@ description: "Redacta el escrito «Revenge porn: pedir comparecencia para la con
 
 # Revenge porn: pedir comparecencia para la conformidad
 
-> Formulario 0517 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0517 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

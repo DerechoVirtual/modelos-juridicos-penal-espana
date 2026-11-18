@@ -5,7 +5,7 @@ description: "Redacta el escrito «Impago de prestaciones por separación, divor
 
 # Impago de prestaciones por separación, divorcio o nulidad matrimonial: defensa
 
-> Formulario 0811 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0811 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Estafa informática (vishing): defensa con co
 
 # Estafa informática (vishing): defensa con conformidad
 
-> Formulario 0490 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026. Uso interno.
+> Formulario 0490 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

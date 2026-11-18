@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir que se compruebe la exactitud de la tra
 
 # Pedir que se compruebe la exactitud de la traducción o interpretación (defensa del investigado)
 
-> Formulario 0745 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0745 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

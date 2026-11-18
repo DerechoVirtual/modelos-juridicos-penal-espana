@@ -5,7 +5,7 @@ description: "Redacta el escrito «Sobreseimiento provisional: oposición a la a
 
 # Sobreseimiento provisional: oposición a la apelación
 
-> Formulario 0169 del plugin **Recursos penales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0169 del plugin **Recursos penales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Violencia sobre la Mujer: personación de la 
 
 # Violencia sobre la Mujer: personación de la víctima en diligencias previas
 
-> Formulario 0376 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0376 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

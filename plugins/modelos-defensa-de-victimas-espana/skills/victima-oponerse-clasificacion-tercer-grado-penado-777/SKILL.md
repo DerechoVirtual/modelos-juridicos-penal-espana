@@ -5,7 +5,7 @@ description: "Redacta el escrito «Víctima: oponerse a la clasificación en ter
 
 # Víctima: oponerse a la clasificación en tercer grado del penado
 
-> Formulario 0777 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0777 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

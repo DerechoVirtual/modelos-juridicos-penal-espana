@@ -5,7 +5,7 @@ description: "Redacta el escrito «Impugnar la apelación contra la condena por 
 
 # Impugnar la apelación contra la condena por quebrantamiento de medida cautelar de alejamiento
 
-> Formulario 0451 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0451 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

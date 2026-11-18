@@ -5,7 +5,7 @@ description: "Redacta el escrito «Revenge porn: alegaciones del letrado del men
 
 # Revenge porn: alegaciones del letrado del menor acusado
 
-> Formulario 0513 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0513 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

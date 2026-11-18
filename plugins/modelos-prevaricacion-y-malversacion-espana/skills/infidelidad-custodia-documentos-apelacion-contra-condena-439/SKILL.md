@@ -5,7 +5,7 @@ description: "Redacta el escrito «Infidelidad en la custodia de documentos: ape
 
 # Infidelidad en la custodia de documentos: apelación contra la condena
 
-> Formulario 0439 del plugin **Delitos contra la Administración pública y de justicia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0439 del plugin **Delitos contra la Administración pública y de justicia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Violación: denuncia» (formulario 220 de del
 
 # Violación: denuncia
 
-> Formulario 0220 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0220 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

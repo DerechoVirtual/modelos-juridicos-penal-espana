@@ -5,7 +5,7 @@ description: "Redacta el escrito «Coacciones por mensajes de WhatsApp: acusaci�
 
 # Coacciones por mensajes de WhatsApp: acusación
 
-> Formulario 0698 del plugin **Delitos contra las personas** · revisado el 17-11-2026. Uso interno.
+> Formulario 0698 del plugin **Delitos contra las personas** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

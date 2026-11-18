@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir la reapertura de diligencias previas ar
 
 # Pedir la reapertura de diligencias previas archivadas
 
-> Formulario 0117 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0117 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

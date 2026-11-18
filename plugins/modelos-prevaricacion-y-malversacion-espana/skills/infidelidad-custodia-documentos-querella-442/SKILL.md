@@ -5,7 +5,7 @@ description: "Redacta el escrito «Infidelidad en la custodia de documentos: que
 
 # Infidelidad en la custodia de documentos: querella
 
-> Formulario 0442 del plugin **Delitos contra la Administración pública y de justicia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0442 del plugin **Delitos contra la Administración pública y de justicia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

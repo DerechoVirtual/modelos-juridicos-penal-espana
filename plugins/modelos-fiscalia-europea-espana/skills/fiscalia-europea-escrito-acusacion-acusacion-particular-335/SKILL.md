@@ -5,7 +5,7 @@ description: "Redacta el escrito «Fiscalía Europea: escrito de acusación de l
 
 # Fiscalía Europea: escrito de acusación de la acusación particular
 
-> Formulario 0335 del plugin **Procedimiento de la Fiscalía Europea** · revisado el 17-11-2026. Uso interno.
+> Formulario 0335 del plugin **Procedimiento de la Fiscalía Europea** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

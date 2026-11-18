@@ -5,7 +5,7 @@ description: "Redacta el escrito «Inhibición a otra Sección de Violencia sobr
 
 # Inhibición a otra Sección de Violencia sobre la Mujer por víctimas con distintos domicilios: auto
 
-> Formulario 0031 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0031 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

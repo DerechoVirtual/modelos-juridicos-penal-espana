@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra la condena por revenge porn
 
 # Apelación contra la condena por revenge porn
 
-> Formulario 0514 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0514 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

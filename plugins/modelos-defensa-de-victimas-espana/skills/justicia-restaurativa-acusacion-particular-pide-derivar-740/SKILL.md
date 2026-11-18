@@ -5,7 +5,7 @@ description: "Redacta el escrito «Justicia restaurativa: la acusación particul
 
 # Justicia restaurativa: la acusación particular pide derivar la causa penal
 
-> Formulario 0740 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0740 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Daños informáticos (ciberataque): defensa»
 
 # Daños informáticos (ciberataque): defensa
 
-> Formulario 0676 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026. Uso interno.
+> Formulario 0676 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

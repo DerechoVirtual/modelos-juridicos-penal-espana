@@ -5,7 +5,7 @@ description: "Redacta el escrito «Paso del abreviado a jurado denegado tácitam
 
 # Paso del abreviado a jurado denegado tácitamente: queja de la acusación particular
 
-> Formulario 0159 del plugin **Recursos penales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0159 del plugin **Recursos penales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

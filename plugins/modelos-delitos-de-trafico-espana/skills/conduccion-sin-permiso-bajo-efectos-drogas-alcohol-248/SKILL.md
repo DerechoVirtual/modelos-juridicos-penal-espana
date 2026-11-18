@@ -5,7 +5,7 @@ description: "Redacta el escrito «Conducción sin permiso y bajo los efectos de
 
 # Conducción sin permiso y bajo los efectos de drogas o alcohol: apelación contra la condena
 
-> Formulario 0248 del plugin **Seguridad vial** · revisado el 17-11-2026. Uso interno.
+> Formulario 0248 del plugin **Seguridad vial** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

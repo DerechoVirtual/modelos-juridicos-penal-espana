@@ -5,7 +5,7 @@ description: "Redacta el escrito «Intrusismo profesional: conformidad de la def
 
 # Intrusismo profesional: conformidad de la defensa
 
-> Formulario 0243 del plugin **Delitos contra la Administración pública y de justicia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0243 del plugin **Delitos contra la Administración pública y de justicia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acumular causas penales conexas y pedir la in
 
 # Acumular causas penales conexas y pedir la inhibición a la Sección competente
 
-> Formulario 0234 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0234 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Robo de uso de vehículo de motor: defensa» 
 
 # Robo de uso de vehículo de motor: defensa
 
-> Formulario 0871 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0871 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Violación con agravante de convivencia: cali
 
 # Violación con agravante de convivencia: calificación provisional de la acusación
 
-> Formulario 0202 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0202 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

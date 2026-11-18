@@ -5,7 +5,7 @@ description: "Redacta el escrito «Omisión del deber de socorro: calificación 
 
 # Omisión del deber de socorro: calificación provisional de la acusación
 
-> Formulario 0263 del plugin **Delitos contra las personas** · revisado el 17-11-2026. Uso interno.
+> Formulario 0263 del plugin **Delitos contra las personas** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

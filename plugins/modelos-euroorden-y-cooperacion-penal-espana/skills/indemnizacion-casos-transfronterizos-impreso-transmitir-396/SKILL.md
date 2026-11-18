@@ -5,7 +5,7 @@ description: "Redacta el escrito «Indemnización en casos transfronterizos: imp
 
 # Indemnización en casos transfronterizos: impreso para transmitir la decisión sobre la solicitud
 
-> Formulario 0396 del plugin **Cooperación penal internacional** · revisado el 17-11-2026. Uso interno.
+> Formulario 0396 del plugin **Cooperación penal internacional** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

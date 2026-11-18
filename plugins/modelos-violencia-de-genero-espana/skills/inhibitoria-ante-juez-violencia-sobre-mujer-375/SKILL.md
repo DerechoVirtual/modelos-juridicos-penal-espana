@@ -5,7 +5,7 @@ description: "Redacta el escrito «Inhibitoria ante el Juez de Violencia sobre l
 
 # Inhibitoria ante el Juez de Violencia sobre la Mujer
 
-> Formulario 0375 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0375 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

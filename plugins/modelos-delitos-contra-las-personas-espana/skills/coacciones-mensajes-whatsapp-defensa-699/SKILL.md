@@ -5,7 +5,7 @@ description: "Redacta el escrito «Coacciones por mensajes de WhatsApp: defensa�
 
 # Coacciones por mensajes de WhatsApp: defensa
 
-> Formulario 0699 del plugin **Delitos contra las personas** · revisado el 17-11-2026. Uso interno.
+> Formulario 0699 del plugin **Delitos contra las personas** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

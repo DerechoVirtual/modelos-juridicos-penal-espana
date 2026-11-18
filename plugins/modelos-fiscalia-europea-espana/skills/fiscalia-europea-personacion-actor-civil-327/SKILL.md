@@ -5,7 +5,7 @@ description: "Redacta el escrito «Fiscalía Europea: personación del actor civ
 
 # Fiscalía Europea: personación del actor civil
 
-> Formulario 0327 del plugin **Procedimiento de la Fiscalía Europea** · revisado el 17-11-2026. Uso interno.
+> Formulario 0327 del plugin **Procedimiento de la Fiscalía Europea** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Delito urbanístico: defensa del constructor 
 
 # Delito urbanístico: defensa del constructor (todas las CCAA)
 
-> Formulario 0457 del plugin **Delitos contra la Administración pública y de justicia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0457 del plugin **Delitos contra la Administración pública y de justicia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

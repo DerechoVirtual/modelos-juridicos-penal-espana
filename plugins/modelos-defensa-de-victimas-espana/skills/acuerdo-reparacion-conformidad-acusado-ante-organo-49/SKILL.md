@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acuerdo de reparación: conformidad del acusa
 
 # Acuerdo de reparación: conformidad del acusado ante el órgano de enjuiciamiento
 
-> Formulario 0049 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0049 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

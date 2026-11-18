@@ -5,7 +5,7 @@ description: "Redacta el escrito «Libertad de conciencia y sentimientos religio
 
 # Libertad de conciencia y sentimientos religiosos: acusación
 
-> Formulario 0640 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0640 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

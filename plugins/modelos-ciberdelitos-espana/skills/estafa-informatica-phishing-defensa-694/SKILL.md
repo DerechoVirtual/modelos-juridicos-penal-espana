@@ -5,7 +5,7 @@ description: "Redacta el escrito «Estafa informática (phishing): defensa» (fo
 
 # Estafa informática (phishing): defensa
 
-> Formulario 0694 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026. Uso interno.
+> Formulario 0694 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

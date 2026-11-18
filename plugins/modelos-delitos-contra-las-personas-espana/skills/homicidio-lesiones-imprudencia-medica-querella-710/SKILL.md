@@ -5,7 +5,7 @@ description: "Redacta el escrito «Homicidio o lesiones por imprudencia médica:
 
 # Homicidio o lesiones por imprudencia médica: querella
 
-> Formulario 0710 del plugin **Delitos contra las personas** · revisado el 17-11-2026. Uso interno.
+> Formulario 0710 del plugin **Delitos contra las personas** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

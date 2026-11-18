@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reconocimiento de resolución penal UE: perso
 
 # Reconocimiento de resolución penal UE: personación con Procurador ante la Sección de lo Penal
 
-> Formulario 0593 del plugin **Cooperación penal internacional** · revisado el 17-11-2026. Uso interno.
+> Formulario 0593 del plugin **Cooperación penal internacional** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

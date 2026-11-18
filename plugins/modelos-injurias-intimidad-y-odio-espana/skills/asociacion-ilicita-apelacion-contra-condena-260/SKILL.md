@@ -5,7 +5,7 @@ description: "Redacta el escrito «Asociación ilícita: apelación contra la co
 
 # Asociación ilícita: apelación contra la condena
 
-> Formulario 0260 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0260 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

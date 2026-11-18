@@ -5,7 +5,7 @@ description: "Redacta el escrito «Agresión sexual: pedir en ejecutoria la revi
 
 # Agresión sexual: pedir en ejecutoria la revisión de la pena
 
-> Formulario 0146 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0146 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

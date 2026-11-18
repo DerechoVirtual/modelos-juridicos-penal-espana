@@ -5,7 +5,7 @@ description: "Redacta el escrito «Revisión penal tras una sentencia del TEDH: 
 
 # Revisión penal tras una sentencia del TEDH: pedir autorización para recurrir
 
-> Formulario 0019 de la colección de Procesal del plugin **Recursos penales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0019 de la colección de Procesal del plugin **Recursos penales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

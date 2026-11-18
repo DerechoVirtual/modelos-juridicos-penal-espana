@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aceptación de decreto: decreto del fiscal co
 
 # Aceptación de decreto: decreto del fiscal con la propuesta de pena
 
-> Formulario 0771 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0771 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

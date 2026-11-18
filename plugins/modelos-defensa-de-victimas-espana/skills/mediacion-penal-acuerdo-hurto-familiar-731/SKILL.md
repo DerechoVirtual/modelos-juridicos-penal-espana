@@ -5,7 +5,7 @@ description: "Redacta el escrito «Mediación penal: acuerdo por hurto a un fami
 
 # Mediación penal: acuerdo por hurto a un familiar
 
-> Formulario 0731 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0731 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

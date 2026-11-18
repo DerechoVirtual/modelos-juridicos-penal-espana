@@ -5,7 +5,7 @@ description: "Redacta el escrito «Sexting: pedir el registro de equipos inform�
 
 # Sexting: pedir el registro de equipos informáticos para determinar la autoría
 
-> Formulario 0720 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026. Uso interno.
+> Formulario 0720 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

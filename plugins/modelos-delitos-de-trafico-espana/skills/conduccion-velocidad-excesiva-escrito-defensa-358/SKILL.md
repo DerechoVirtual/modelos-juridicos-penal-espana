@@ -5,7 +5,7 @@ description: "Redacta el escrito «Conducción a velocidad excesiva: escrito de 
 
 # Conducción a velocidad excesiva: escrito de defensa
 
-> Formulario 0358 del plugin **Seguridad vial** · revisado el 17-11-2026. Uso interno.
+> Formulario 0358 del plugin **Seguridad vial** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

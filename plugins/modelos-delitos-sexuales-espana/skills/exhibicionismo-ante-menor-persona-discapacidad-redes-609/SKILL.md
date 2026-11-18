@@ -5,7 +5,7 @@ description: "Redacta el escrito «Exhibicionismo ante menor o persona con disca
 
 # Exhibicionismo ante menor o persona con discapacidad en redes sociales: querella
 
-> Formulario 0609 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0609 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Ciberbullying: alegaciones de la defensa del 
 
 # Ciberbullying: alegaciones de la defensa del menor
 
-> Formulario 0672 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0672 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

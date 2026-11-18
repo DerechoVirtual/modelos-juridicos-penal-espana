@@ -5,7 +5,7 @@ description: "Redacta el escrito «Menor afectado por un proceso penal: su repre
 
 # Menor afectado por un proceso penal: su representante pide que sea oído
 
-> Formulario 0064 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0064 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

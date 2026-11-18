@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir el registro remoto de equipos informát
 
 # Pedir el registro remoto de equipos informáticos por delitos cometidos con ellos
 
-> Formulario 0712 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026. Uso interno.
+> Formulario 0712 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

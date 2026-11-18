@@ -5,7 +5,7 @@ description: "Redacta el escrito «Abreviado: oposición a la apelación contra 
 
 # Abreviado: oposición a la apelación contra la denegación de apertura del juicio oral
 
-> Formulario 0101 del plugin **Recursos penales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0101 del plugin **Recursos penales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

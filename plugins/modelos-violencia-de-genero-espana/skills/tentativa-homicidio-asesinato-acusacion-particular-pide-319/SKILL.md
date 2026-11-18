@@ -5,7 +5,7 @@ description: "Redacta el escrito «Tentativa de homicidio o asesinato: la acusac
 
 # Tentativa de homicidio o asesinato: la acusación particular pide suspender la patria potestad
 
-> Formulario 0319 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0319 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

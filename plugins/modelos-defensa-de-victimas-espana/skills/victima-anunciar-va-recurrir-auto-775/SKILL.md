@@ -5,7 +5,7 @@ description: "Redacta el escrito «Víctima: anunciar que va a recurrir un auto�
 
 # Víctima: anunciar que va a recurrir un auto
 
-> Formulario 0775 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0775 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

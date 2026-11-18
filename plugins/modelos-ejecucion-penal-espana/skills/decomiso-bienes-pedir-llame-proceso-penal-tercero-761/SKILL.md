@@ -5,7 +5,7 @@ description: "Redacta el escrito «Decomiso de bienes: pedir que se llame al pro
 
 # Decomiso de bienes: pedir que se llame al proceso penal al tercero afectado
 
-> Formulario 0761 del plugin **Ejecución penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0761 del plugin **Ejecución penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

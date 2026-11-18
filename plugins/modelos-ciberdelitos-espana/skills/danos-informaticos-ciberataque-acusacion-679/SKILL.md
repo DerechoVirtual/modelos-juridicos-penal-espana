@@ -5,7 +5,7 @@ description: "Redacta el escrito «Daños informáticos (ciberataque): acusació
 
 # Daños informáticos (ciberataque): acusación
 
-> Formulario 0679 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026. Uso interno.
+> Formulario 0679 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

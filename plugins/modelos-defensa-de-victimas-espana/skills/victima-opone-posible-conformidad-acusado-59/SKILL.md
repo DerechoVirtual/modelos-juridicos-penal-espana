@@ -5,7 +5,7 @@ description: "Redacta el escrito «Víctima que se opone a la posible conformida
 
 # Víctima que se opone a la posible conformidad del acusado
 
-> Formulario 0059 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0059 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

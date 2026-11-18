@@ -5,7 +5,7 @@ description: "Redacta el escrito «Amenazas: calificación provisional de la def
 
 # Amenazas: calificación provisional de la defensa
 
-> Formulario 0818 del plugin **Delitos contra las personas** · revisado el 17-11-2026. Uso interno.
+> Formulario 0818 del plugin **Delitos contra las personas** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

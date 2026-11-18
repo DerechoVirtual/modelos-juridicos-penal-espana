@@ -5,7 +5,7 @@ description: "Redacta el escrito «Persona mayor de edad afectada por un proceso
 
 # Persona mayor de edad afectada por un proceso penal: pedir ser oída
 
-> Formulario 0066 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0066 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

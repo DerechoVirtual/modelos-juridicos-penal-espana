@@ -5,7 +5,7 @@ description: "Redacta el escrito «Decomiso autónomo: apelación del tercero co
 
 # Decomiso autónomo: apelación del tercero contra la sentencia condenatoria
 
-> Formulario 0755 del plugin **Ejecución penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0755 del plugin **Ejecución penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

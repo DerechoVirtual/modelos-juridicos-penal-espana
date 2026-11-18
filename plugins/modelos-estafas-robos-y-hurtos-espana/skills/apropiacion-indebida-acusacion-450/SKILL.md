@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apropiación indebida: acusación» (formular
 
 # Apropiación indebida: acusación
 
-> Formulario 0450 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0450 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

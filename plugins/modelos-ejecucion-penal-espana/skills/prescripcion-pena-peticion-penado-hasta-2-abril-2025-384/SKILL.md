@@ -5,7 +5,7 @@ description: "Redacta el escrito «Prescripción de la pena: petición del penad
 
 # Prescripción de la pena: petición del penado (hasta el 2 de abril de 2025)
 
-> Formulario 0384 del plugin **Ejecución penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0384 del plugin **Ejecución penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

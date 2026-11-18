@@ -5,7 +5,7 @@ description: "Redacta el escrito «Lesiones al animal de la pareja: querella» (
 
 # Lesiones al animal de la pareja: querella
 
-> Formulario 0113 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0113 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

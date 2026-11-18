@@ -5,7 +5,7 @@ description: "Redacta el escrito «Procedimiento común: apelación de la defens
 
 # Procedimiento común: apelación de la defensa contra la sentencia de conformidad
 
-> Formulario 0054 del plugin **Recursos penales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0054 del plugin **Recursos penales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

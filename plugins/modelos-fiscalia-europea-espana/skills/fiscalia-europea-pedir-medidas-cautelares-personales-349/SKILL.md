@@ -5,7 +5,7 @@ description: "Redacta el escrito «Fiscalía Europea: pedir medidas cautelares p
 
 # Fiscalía Europea: pedir medidas cautelares personales
 
-> Formulario 0349 del plugin **Procedimiento de la Fiscalía Europea** · revisado el 17-11-2026. Uso interno.
+> Formulario 0349 del plugin **Procedimiento de la Fiscalía Europea** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acceso a sistemas informáticos sin autorizac
 
 # Acceso a sistemas informáticos sin autorización del titular (allanamiento o intrusismo): querella
 
-> Formulario 0633 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026. Uso interno.
+> Formulario 0633 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

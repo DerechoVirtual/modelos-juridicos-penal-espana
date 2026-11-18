@@ -5,7 +5,7 @@ description: "Redacta el escrito «Recurso de amparo (Acuerdo TC de 15 de marzo 
 
 # Recurso de amparo (Acuerdo TC de 15 de marzo de 2023, válido hasta el 14 de septiembre de 2026)
 
-> Formulario 0070 del plugin **Recursos penales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0070 del plugin **Recursos penales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

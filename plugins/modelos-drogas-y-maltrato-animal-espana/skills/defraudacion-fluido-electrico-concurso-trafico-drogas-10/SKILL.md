@@ -5,7 +5,7 @@ description: "Redacta el escrito «Defraudación de fluido eléctrico en concurs
 
 # Defraudación de fluido eléctrico en concurso con tráfico de drogas: escrito de acusación
 
-> Formulario 0010 del plugin **Salud pública y maltrato animal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0010 del plugin **Salud pública y maltrato animal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir la apertura de la correspondencia ya in
 
 # Pedir la apertura de la correspondencia ya intervenida
 
-> Formulario 0714 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026. Uso interno.
+> Formulario 0714 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

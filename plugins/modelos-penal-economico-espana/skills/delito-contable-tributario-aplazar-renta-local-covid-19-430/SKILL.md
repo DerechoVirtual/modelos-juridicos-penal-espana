@@ -5,7 +5,7 @@ description: "Redacta el escrito «Delito contable tributario para aplazar renta
 
 # Delito contable tributario para aplazar renta del local (COVID-19): querella
 
-> Formulario 0430 del plugin **Delitos económicos y de empresa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0430 del plugin **Delitos económicos y de empresa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

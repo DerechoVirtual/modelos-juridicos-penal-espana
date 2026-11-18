@@ -5,7 +5,7 @@ description: "Redacta el escrito «Estafa y falsedad en documento público: quer
 
 # Estafa y falsedad en documento público: querella
 
-> Formulario 0520 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0520 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

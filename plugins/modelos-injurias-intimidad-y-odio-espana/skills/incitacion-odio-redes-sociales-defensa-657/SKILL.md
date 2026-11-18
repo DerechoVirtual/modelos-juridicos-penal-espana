@@ -5,7 +5,7 @@ description: "Redacta el escrito «Incitación al odio en redes sociales: defens
 
 # Incitación al odio en redes sociales: defensa
 
-> Formulario 0657 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0657 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

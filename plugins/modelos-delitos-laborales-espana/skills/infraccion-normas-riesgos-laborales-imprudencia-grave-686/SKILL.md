@@ -5,7 +5,7 @@ description: "Redacta el escrito «Infracción de normas de riesgos laborales po
 
 # Infracción de normas de riesgos laborales por imprudencia grave: defensa
 
-> Formulario 0686 del plugin **Delitos contra los derechos de los trabajadores** · revisado el 17-11-2026. Uso interno.
+> Formulario 0686 del plugin **Delitos contra los derechos de los trabajadores** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

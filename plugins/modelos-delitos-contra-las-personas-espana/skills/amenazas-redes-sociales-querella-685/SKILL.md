@@ -5,7 +5,7 @@ description: "Redacta el escrito «Amenazas en redes sociales: querella» (formu
 
 # Amenazas en redes sociales: querella
 
-> Formulario 0685 del plugin **Delitos contra las personas** · revisado el 17-11-2026. Uso interno.
+> Formulario 0685 del plugin **Delitos contra las personas** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

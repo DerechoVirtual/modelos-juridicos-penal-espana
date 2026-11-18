@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir la acumulación de procesos penales seg
 
 # Pedir la acumulación de procesos penales seguidos ante el mismo órgano
 
-> Formulario 0025 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0025 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

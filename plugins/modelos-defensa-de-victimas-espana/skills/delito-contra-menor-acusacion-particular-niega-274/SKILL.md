@@ -5,7 +5,7 @@ description: "Redacta el escrito «Delito contra menor: la acusación particular
 
 # Delito contra menor: la acusación particular niega la prescripción (hasta el 2 de abril de 2025)
 
-> Formulario 0274 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0274 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

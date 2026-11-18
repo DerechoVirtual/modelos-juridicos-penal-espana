@@ -5,7 +5,7 @@ description: "Redacta el escrito «Abogado: intervenir por videoconferencia en j
 
 # Abogado: intervenir por videoconferencia en juicio penal telemático (hasta el 19 de marzo de 2024)
 
-> Formulario 0422 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0422 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

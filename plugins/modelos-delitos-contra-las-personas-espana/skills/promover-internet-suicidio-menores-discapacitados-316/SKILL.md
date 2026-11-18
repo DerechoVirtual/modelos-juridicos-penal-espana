@@ -5,7 +5,7 @@ description: "Redacta el escrito «Promover por internet el suicidio de menores 
 
 # Promover por internet el suicidio de menores o discapacitados: denuncia
 
-> Formulario 0316 del plugin **Delitos contra las personas** · revisado el 17-11-2026. Uso interno.
+> Formulario 0316 del plugin **Delitos contra las personas** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

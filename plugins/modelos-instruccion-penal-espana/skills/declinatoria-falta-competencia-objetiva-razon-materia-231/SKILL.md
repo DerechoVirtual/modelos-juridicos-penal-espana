@@ -5,7 +5,7 @@ description: "Redacta el escrito «Declinatoria por falta de competencia objetiv
 
 # Declinatoria por falta de competencia objetiva por razón de la materia
 
-> Formulario 0231 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0231 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

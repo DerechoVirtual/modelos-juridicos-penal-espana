@@ -5,7 +5,7 @@ description: "Redacta el escrito «Víctima con hijos mayores y menores: pedir m
 
 # Víctima con hijos mayores y menores: pedir medidas cautelares civiles en el proceso penal
 
-> Formulario 0784 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0784 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

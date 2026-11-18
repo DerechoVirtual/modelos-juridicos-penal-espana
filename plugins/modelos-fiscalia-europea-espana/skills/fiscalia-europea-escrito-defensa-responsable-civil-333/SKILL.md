@@ -5,7 +5,7 @@ description: "Redacta el escrito «Fiscalía Europea: escrito de defensa del res
 
 # Fiscalía Europea: escrito de defensa del responsable civil
 
-> Formulario 0333 del plugin **Procedimiento de la Fiscalía Europea** · revisado el 17-11-2026. Uso interno.
+> Formulario 0333 del plugin **Procedimiento de la Fiscalía Europea** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

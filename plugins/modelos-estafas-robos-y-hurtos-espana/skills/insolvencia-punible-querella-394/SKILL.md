@@ -5,7 +5,7 @@ description: "Redacta el escrito «Insolvencia punible: querella» (formulario 3
 
 # Insolvencia punible: querella
 
-> Formulario 0394 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0394 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

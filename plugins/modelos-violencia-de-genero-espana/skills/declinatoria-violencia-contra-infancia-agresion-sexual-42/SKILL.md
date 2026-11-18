@@ -5,7 +5,7 @@ description: "Redacta el escrito «Declinatoria a Violencia contra la Infancia p
 
 # Declinatoria a Violencia contra la Infancia por agresión sexual a menor por su pareja
 
-> Formulario 0042 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0042 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

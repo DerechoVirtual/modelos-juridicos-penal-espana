@@ -5,7 +5,7 @@ description: "Redacta el escrito «Promover por internet delitos sexuales contra
 
 # Promover por internet delitos sexuales contra menores o discapacitados: querella
 
-> Formulario 0300 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0300 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Estafa multirreincidente o leve agravada: ape
 
 # Estafa multirreincidente o leve agravada: apelación contra la condena
 
-> Formulario 0017 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0017 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

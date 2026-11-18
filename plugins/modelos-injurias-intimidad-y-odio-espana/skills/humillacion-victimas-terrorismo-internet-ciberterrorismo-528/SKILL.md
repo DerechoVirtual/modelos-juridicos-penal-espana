@@ -5,7 +5,7 @@ description: "Redacta el escrito «Humillación a víctimas del terrorismo por i
 
 # Humillación a víctimas del terrorismo por internet (ciberterrorismo): querella
 
-> Formulario 0528 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0528 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

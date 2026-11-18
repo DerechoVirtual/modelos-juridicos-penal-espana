@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra la condena por distribuir p
 
 # Apelación contra la condena por distribuir pornografía a menores o personas con discapacidad
 
-> Formulario 0599 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0599 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

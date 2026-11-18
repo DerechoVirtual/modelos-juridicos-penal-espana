@@ -5,7 +5,7 @@ description: "Redacta el escrito «Maltrato habitual (violencia de género): que
 
 # Maltrato habitual (violencia de género): querella
 
-> Formulario 0835 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0835 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

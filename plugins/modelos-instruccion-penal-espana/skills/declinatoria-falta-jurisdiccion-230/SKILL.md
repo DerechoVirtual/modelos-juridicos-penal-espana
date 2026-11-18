@@ -5,7 +5,7 @@ description: "Redacta el escrito «Declinatoria por falta de jurisdicción» (fo
 
 # Declinatoria por falta de jurisdicción
 
-> Formulario 0230 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0230 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

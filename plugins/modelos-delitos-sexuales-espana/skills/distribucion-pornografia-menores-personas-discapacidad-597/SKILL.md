@@ -5,7 +5,7 @@ description: "Redacta el escrito «Distribución de pornografía a menores o per
 
 # Distribución de pornografía a menores o personas con discapacidad: defensa con conformidad
 
-> Formulario 0597 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0597 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Desobediencia a la autoridad: querella» (for
 
 # Desobediencia a la autoridad: querella
 
-> Formulario 0878 del plugin **Delitos contra la Administración pública y de justicia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0878 del plugin **Delitos contra la Administración pública y de justicia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Lesiones por esterilización de discapacitada
 
 # Lesiones por esterilización de discapacitada: apelación contra la condena
 
-> Formulario 0387 del plugin **Delitos contra las personas** · revisado el 17-11-2026. Uso interno.
+> Formulario 0387 del plugin **Delitos contra las personas** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

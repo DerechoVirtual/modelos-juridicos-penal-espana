@@ -5,7 +5,7 @@ description: "Redacta el escrito «Abogado del detenido: pedir a la policía dil
 
 # Abogado del detenido: pedir a la policía diligencias inmediatas
 
-> Formulario 0130 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0130 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

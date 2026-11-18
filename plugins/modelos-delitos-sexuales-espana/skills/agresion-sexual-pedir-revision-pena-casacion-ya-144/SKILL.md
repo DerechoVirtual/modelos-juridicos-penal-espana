@@ -5,7 +5,7 @@ description: "Redacta el escrito «Agresión sexual: pedir revisión de la pena 
 
 # Agresión sexual: pedir revisión de la pena con la casación ya interpuesta
 
-> Formulario 0144 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0144 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

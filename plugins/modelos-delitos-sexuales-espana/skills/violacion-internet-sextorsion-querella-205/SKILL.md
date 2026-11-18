@@ -5,7 +5,7 @@ description: "Redacta el escrito «Violación por internet (sextorsión): querel
 
 # Violación por internet (sextorsión): querella
 
-> Formulario 0205 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0205 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

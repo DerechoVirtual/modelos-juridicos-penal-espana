@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra la condena por amenazas inf
 
 # Apelación contra la condena por amenazas informáticas
 
-> Formulario 0533 del plugin **Delitos contra las personas** · revisado el 17-11-2026. Uso interno.
+> Formulario 0533 del plugin **Delitos contra las personas** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

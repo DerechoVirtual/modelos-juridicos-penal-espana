@@ -5,7 +5,7 @@ description: "Redacta el escrito «Agresión sexual a menor de 16 años (LO 4/20
 
 # Agresión sexual a menor de 16 años (LO 4/2023): querella
 
-> Formulario 0090 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0090 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

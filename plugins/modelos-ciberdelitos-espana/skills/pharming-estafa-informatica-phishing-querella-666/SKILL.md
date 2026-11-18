@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pharming y estafa informática (phishing): qu
 
 # Pharming y estafa informática (phishing): querella
 
-> Formulario 0666 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026. Uso interno.
+> Formulario 0666 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

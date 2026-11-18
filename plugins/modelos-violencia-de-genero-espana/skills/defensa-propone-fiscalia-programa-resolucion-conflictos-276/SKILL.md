@@ -5,7 +5,7 @@ description: "Redacta el escrito «La defensa propone a la Fiscalía un programa
 
 # La defensa propone a la Fiscalía un programa de resolución de conflictos o parentalidad positiva
 
-> Formulario 0276 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0276 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

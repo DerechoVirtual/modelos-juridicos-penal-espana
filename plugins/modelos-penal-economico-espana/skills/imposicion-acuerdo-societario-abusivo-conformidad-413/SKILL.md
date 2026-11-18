@@ -5,7 +5,7 @@ description: "Redacta el escrito «Imposición de acuerdo societario abusivo: co
 
 # Imposición de acuerdo societario abusivo: conformidad de la defensa
 
-> Formulario 0413 del plugin **Delitos económicos y de empresa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0413 del plugin **Delitos económicos y de empresa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

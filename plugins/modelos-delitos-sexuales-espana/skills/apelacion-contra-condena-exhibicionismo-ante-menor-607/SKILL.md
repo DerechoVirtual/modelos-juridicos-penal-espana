@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra la condena por exhibicionis
 
 # Apelación contra la condena por exhibicionismo ante menor o persona con discapacidad
 
-> Formulario 0607 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0607 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

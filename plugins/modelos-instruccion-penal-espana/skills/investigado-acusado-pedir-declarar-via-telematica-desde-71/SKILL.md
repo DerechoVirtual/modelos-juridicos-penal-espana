@@ -5,7 +5,7 @@ description: "Redacta el escrito «Investigado o acusado: pedir declarar por ví
 
 # Investigado o acusado: pedir declarar por vía telemática (desde el 20 de marzo de 2024)
 
-> Formulario 0071 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0071 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

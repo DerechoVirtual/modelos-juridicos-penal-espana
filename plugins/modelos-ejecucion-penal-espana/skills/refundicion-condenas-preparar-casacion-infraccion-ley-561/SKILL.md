@@ -5,7 +5,7 @@ description: "Redacta el escrito «Refundición de condenas: preparar la casaci�
 
 # Refundición de condenas: preparar la casación por infracción de ley
 
-> Formulario 0561 del plugin **Ejecución penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0561 del plugin **Ejecución penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

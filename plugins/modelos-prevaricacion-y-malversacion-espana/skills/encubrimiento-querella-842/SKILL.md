@@ -5,7 +5,7 @@ description: "Redacta el escrito «Encubrimiento: querella» (formulario 842 de 
 
 # Encubrimiento: querella
 
-> Formulario 0842 del plugin **Delitos contra la Administración pública y de justicia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0842 del plugin **Delitos contra la Administración pública y de justicia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

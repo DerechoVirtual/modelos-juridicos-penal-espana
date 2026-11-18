@@ -5,7 +5,7 @@ description: "Redacta el escrito «Hurto: acusación» (formulario 865 de delito
 
 # Hurto: acusación
 
-> Formulario 0865 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0865 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

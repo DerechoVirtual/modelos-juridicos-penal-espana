@@ -5,7 +5,7 @@ description: "Redacta el escrito «Querellante: aportar prueba digital en la ins
 
 # Querellante: aportar prueba digital en la instrucción
 
-> Formulario 0708 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026. Uso interno.
+> Formulario 0708 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

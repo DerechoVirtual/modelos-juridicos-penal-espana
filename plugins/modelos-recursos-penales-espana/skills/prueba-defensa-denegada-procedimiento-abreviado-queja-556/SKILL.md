@@ -5,7 +5,7 @@ description: "Redacta el escrito «Prueba de la defensa denegada en el procedimi
 
 # Prueba de la defensa denegada en el procedimiento abreviado: queja (hasta el 2 de abril de 2025)
 
-> Formulario 0556 del plugin **Recursos penales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0556 del plugin **Recursos penales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

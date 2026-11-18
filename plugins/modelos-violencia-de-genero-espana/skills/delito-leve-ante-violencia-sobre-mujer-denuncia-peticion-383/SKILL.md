@@ -5,7 +5,7 @@ description: "Redacta el escrito «Delito leve ante Violencia sobre la Mujer: de
 
 # Delito leve ante Violencia sobre la Mujer: denuncia con petición de juicio inmediato
 
-> Formulario 0383 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0383 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

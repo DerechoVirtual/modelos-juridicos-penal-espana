@@ -5,7 +5,7 @@ description: "Redacta el escrito «Avisar al banco de un crédito no formalizado
 
 # Avisar al banco de un crédito no formalizado por el cliente y del cargo de su cuota en cuenta
 
-> Formulario 0849 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026. Uso interno.
+> Formulario 0849 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

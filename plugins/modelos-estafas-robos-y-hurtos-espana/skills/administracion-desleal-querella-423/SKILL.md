@@ -5,7 +5,7 @@ description: "Redacta el escrito «Administración desleal: querella» (formular
 
 # Administración desleal: querella
 
-> Formulario 0423 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0423 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

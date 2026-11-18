@@ -5,7 +5,7 @@ description: "Redacta el escrito «Enriquecimiento ilícito: querella» (formula
 
 # Enriquecimiento ilícito: querella
 
-> Formulario 0125 del plugin **Delitos contra la Administración pública y de justicia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0125 del plugin **Delitos contra la Administración pública y de justicia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

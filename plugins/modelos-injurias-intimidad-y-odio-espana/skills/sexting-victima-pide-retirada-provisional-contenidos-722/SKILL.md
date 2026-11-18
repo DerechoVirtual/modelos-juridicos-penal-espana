@@ -5,7 +5,7 @@ description: "Redacta el escrito «Sexting: la víctima pide la retirada provisi
 
 # Sexting: la víctima pide la retirada provisional de contenidos de internet como medida cautelar
 
-> Formulario 0722 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0722 del plugin **Honor, intimidad y delitos de odio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

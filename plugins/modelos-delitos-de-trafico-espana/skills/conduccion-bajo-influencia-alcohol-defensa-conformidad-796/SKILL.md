@@ -5,7 +5,7 @@ description: "Redacta el escrito «Conducción bajo la influencia del alcohol: d
 
 # Conducción bajo la influencia del alcohol: defensa con conformidad en juicio rápido
 
-> Formulario 0796 del plugin **Seguridad vial** · revisado el 17-11-2026. Uso interno.
+> Formulario 0796 del plugin **Seguridad vial** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

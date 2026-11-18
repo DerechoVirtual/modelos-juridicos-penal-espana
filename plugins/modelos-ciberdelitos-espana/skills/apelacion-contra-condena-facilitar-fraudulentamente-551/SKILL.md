@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra la condena por facilitar fr
 
 # Apelación contra la condena por facilitar fraudulentamente el acceso a un servicio de radiodifusión
 
-> Formulario 0551 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026. Uso interno.
+> Formulario 0551 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Estafa informática (phishing) en cuenta banc
 
 # Estafa informática (phishing) en cuenta bancaria: querella
 
-> Formulario 0434 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026. Uso interno.
+> Formulario 0434 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

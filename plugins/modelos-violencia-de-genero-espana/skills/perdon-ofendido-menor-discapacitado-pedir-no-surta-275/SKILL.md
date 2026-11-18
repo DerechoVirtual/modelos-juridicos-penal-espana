@@ -5,7 +5,7 @@ description: "Redacta el escrito «Perdón del ofendido menor o discapacitado: p
 
 # Perdón del ofendido menor o discapacitado: pedir que no surta efecto (hasta el 2 de abril de 2025)
 
-> Formulario 0275 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0275 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

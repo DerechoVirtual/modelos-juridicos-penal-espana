@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acoso callejero o piropo soez (trato degradan
 
 # Acoso callejero o piropo soez (trato degradante sexual): apelación contra la condena
 
-> Formulario 0225 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0225 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Fiscalía Europea: pedir diligencias de inves
 
 # Fiscalía Europea: pedir diligencias de investigación que necesitan autorización judicial
 
-> Formulario 0346 del plugin **Procedimiento de la Fiscalía Europea** · revisado el 17-11-2026. Uso interno.
+> Formulario 0346 del plugin **Procedimiento de la Fiscalía Europea** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

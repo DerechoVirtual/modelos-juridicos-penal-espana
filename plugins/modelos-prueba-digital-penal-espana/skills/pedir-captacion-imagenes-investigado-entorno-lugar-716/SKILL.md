@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir la captación de imágenes del investig
 
 # Pedir la captación de imágenes del investigado o de su entorno en lugar público
 
-> Formulario 0716 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026. Uso interno.
+> Formulario 0716 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

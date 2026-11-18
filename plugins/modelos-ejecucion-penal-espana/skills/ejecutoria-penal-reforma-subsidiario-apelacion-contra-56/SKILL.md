@@ -5,7 +5,7 @@ description: "Redacta el escrito «Ejecutoria penal: reforma y subsidiario de ap
 
 # Ejecutoria penal: reforma y subsidiario de apelación contra el auto que resuelve alegaciones
 
-> Formulario 0056 del plugin **Ejecución penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0056 del plugin **Ejecución penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

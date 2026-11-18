@@ -5,7 +5,7 @@ description: "Redacta el escrito «Narcotráfico (salud pública): defensa con c
 
 # Narcotráfico (salud pública): defensa con conformidad en el abreviado
 
-> Formulario 0791 del plugin **Salud pública y maltrato animal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0791 del plugin **Salud pública y maltrato animal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

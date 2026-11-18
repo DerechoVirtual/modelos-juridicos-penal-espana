@@ -5,7 +5,7 @@ description: "Redacta el escrito «Oponerse al recurso de reforma y subsidiario 
 
 # Oponerse al recurso de reforma y subsidiario de apelación contra un auto del abreviado
 
-> Formulario 0024 del plugin **Recursos penales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0024 del plugin **Recursos penales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

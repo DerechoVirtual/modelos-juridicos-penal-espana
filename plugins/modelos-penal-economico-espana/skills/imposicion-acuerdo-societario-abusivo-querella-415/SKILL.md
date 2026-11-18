@@ -5,7 +5,7 @@ description: "Redacta el escrito «Imposición de acuerdo societario abusivo: qu
 
 # Imposición de acuerdo societario abusivo: querella
 
-> Formulario 0415 del plugin **Delitos económicos y de empresa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0415 del plugin **Delitos económicos y de empresa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

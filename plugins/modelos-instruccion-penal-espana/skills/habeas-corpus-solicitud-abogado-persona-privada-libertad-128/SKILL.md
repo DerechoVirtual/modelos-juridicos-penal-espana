@@ -5,7 +5,7 @@ description: "Redacta el escrito «Habeas corpus: solicitud del abogado de la pe
 
 # Habeas corpus: solicitud del abogado de la persona privada de libertad
 
-> Formulario 0128 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0128 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Tenencia de programas informáticos para fals
 
 # Tenencia de programas informáticos para falsificar tarjetas bancarias: querella
 
-> Formulario 0848 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026. Uso interno.
+> Formulario 0848 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

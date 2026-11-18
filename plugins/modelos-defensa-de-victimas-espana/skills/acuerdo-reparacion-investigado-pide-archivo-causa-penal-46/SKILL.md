@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acuerdo de reparación: el investigado pide e
 
 # Acuerdo de reparación: el investigado pide el archivo de la causa penal
 
-> Formulario 0046 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0046 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

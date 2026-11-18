@@ -5,7 +5,7 @@ description: "Redacta el escrito «Decomiso autónomo: designar bienes para deco
 
 # Decomiso autónomo: designar bienes para decomisar
 
-> Formulario 0756 del plugin **Ejecución penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0756 del plugin **Ejecución penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

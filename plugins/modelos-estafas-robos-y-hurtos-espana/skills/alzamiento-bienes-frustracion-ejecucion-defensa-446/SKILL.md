@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alzamiento de bienes (frustración de la ejec
 
 # Alzamiento de bienes (frustración de la ejecución): defensa
 
-> Formulario 0446 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0446 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

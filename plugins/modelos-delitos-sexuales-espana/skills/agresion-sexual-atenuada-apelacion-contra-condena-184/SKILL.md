@@ -5,7 +5,7 @@ description: "Redacta el escrito «Agresión sexual atenuada: apelación contra 
 
 # Agresión sexual atenuada: apelación contra la condena
 
-> Formulario 0184 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0184 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

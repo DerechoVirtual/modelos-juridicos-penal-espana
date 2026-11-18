@@ -5,7 +5,7 @@ description: "Redacta el escrito «Hurto de móvil: escrito de acusación» (for
 
 # Hurto de móvil: escrito de acusación
 
-> Formulario 0023 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0023 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

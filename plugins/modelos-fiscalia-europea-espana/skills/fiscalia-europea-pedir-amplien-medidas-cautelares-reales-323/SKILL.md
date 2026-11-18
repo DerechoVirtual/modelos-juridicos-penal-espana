@@ -5,7 +5,7 @@ description: "Redacta el escrito «Fiscalía Europea: pedir que se amplíen las 
 
 # Fiscalía Europea: pedir que se amplíen las medidas cautelares reales
 
-> Formulario 0323 del plugin **Procedimiento de la Fiscalía Europea** · revisado el 17-11-2026. Uso interno.
+> Formulario 0323 del plugin **Procedimiento de la Fiscalía Europea** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Conducción temeraria: denuncia» (formulario
 
 # Conducción temeraria: denuncia
 
-> Formulario 0370 del plugin **Seguridad vial** · revisado el 17-11-2026. Uso interno.
+> Formulario 0370 del plugin **Seguridad vial** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

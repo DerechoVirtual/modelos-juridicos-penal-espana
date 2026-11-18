@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir que testigo o perito declaren por vía 
 
 # Pedir que testigo o perito declaren por vía telemática (desde el 20 de marzo de 2024)
 
-> Formulario 0074 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0074 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

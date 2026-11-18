@@ -5,7 +5,7 @@ description: "Redacta el escrito «Administración desleal: escrito de acusació
 
 # Administración desleal: escrito de acusación
 
-> Formulario 0427 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0427 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

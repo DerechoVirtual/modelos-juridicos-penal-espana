@@ -5,7 +5,7 @@ description: "Redacta el escrito «Propiedad intelectual por internet: querella�
 
 # Propiedad intelectual por internet: querella
 
-> Formulario 0624 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026. Uso interno.
+> Formulario 0624 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

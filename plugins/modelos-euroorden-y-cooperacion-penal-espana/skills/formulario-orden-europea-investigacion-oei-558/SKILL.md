@@ -5,7 +5,7 @@ description: "Prepara «Formulario de orden europea de investigación (OEI)» (f
 
 # Formulario de orden europea de investigación (OEI)
 
-> Formulario 0558 del plugin **Cooperación penal internacional** · revisado el 17-11-2026. Uso interno.
+> Formulario 0558 del plugin **Cooperación penal internacional** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

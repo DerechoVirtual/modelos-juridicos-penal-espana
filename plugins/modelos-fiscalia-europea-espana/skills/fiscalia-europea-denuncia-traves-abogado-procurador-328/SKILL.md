@@ -5,7 +5,7 @@ description: "Redacta el escrito «Fiscalía Europea: denuncia a través de abog
 
 # Fiscalía Europea: denuncia a través de abogado o procurador
 
-> Formulario 0328 del plugin **Procedimiento de la Fiscalía Europea** · revisado el 17-11-2026. Uso interno.
+> Formulario 0328 del plugin **Procedimiento de la Fiscalía Europea** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

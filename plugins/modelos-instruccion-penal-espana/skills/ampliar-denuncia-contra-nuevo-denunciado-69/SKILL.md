@@ -5,7 +5,7 @@ description: "Redacta el escrito «Ampliar la denuncia contra un nuevo denunciad
 
 # Ampliar la denuncia contra un nuevo denunciado
 
-> Formulario 0069 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0069 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

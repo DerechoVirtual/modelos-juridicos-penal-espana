@@ -5,7 +5,7 @@ description: "Redacta el escrito «Defraudación de fluido eléctrico para culti
 
 # Defraudación de fluido eléctrico para cultivo de drogas: querella
 
-> Formulario 0006 del plugin **Salud pública y maltrato animal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0006 del plugin **Salud pública y maltrato animal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acusado: comparecencia telemática por justa 
 
 # Acusado: comparecencia telemática por justa causa o fuerza mayor (desde el 20 de marzo de 2024)
 
-> Formulario 0078 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0078 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

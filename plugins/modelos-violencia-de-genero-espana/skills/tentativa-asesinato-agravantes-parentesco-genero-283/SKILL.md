@@ -5,7 +5,7 @@ description: "Redacta el escrito «Tentativa de asesinato con agravantes de pare
 
 # Tentativa de asesinato con agravantes de parentesco y de género: calificación de la acusación
 
-> Formulario 0283 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0283 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

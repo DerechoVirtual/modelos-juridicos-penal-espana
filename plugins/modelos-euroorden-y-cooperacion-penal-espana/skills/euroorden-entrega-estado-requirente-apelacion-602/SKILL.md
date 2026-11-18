@@ -5,7 +5,7 @@ description: "Redacta el escrito «Euroorden de entrega al Estado requirente: ap
 
 # Euroorden de entrega al Estado requirente: apelación
 
-> Formulario 0602 del plugin **Cooperación penal internacional** · revisado el 17-11-2026. Uso interno.
+> Formulario 0602 del plugin **Cooperación penal internacional** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

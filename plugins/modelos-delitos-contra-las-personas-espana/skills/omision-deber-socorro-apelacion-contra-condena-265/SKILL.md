@@ -5,7 +5,7 @@ description: "Redacta el escrito «Omisión del deber de socorro: apelación con
 
 # Omisión del deber de socorro: apelación contra la condena
 
-> Formulario 0265 del plugin **Delitos contra las personas** · revisado el 17-11-2026. Uso interno.
+> Formulario 0265 del plugin **Delitos contra las personas** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

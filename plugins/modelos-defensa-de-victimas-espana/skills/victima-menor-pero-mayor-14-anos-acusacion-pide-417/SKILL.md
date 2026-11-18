@@ -5,7 +5,7 @@ description: "Redacta el escrito «Víctima menor pero mayor de 14 años: la acu
 
 # Víctima menor pero mayor de 14 años: la acusación pide su declaración como prueba preconstituida
 
-> Formulario 0417 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0417 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

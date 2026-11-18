@@ -5,7 +5,7 @@ description: "Redacta el escrito «Publicidad engañosa por internet: defensa co
 
 # Publicidad engañosa por internet: defensa con conformidad
 
-> Formulario 0537 del plugin **Delitos económicos y de empresa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0537 del plugin **Delitos económicos y de empresa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra la condena por hurto» (for
 
 # Apelación contra la condena por hurto
 
-> Formulario 0862 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0862 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Grabaciones y transcripciones intervenidas: r
 
 # Grabaciones y transcripciones intervenidas: retirar lo que afecte a la vida privada
 
-> Formulario 0766 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026. Uso interno.
+> Formulario 0766 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Lesiones dolosas o imprudentes: acusación co
 
 # Lesiones dolosas o imprudentes: acusación con conclusiones alternativas
 
-> Formulario 0104 del plugin **Delitos contra las personas** · revisado el 17-11-2026. Uso interno.
+> Formulario 0104 del plugin **Delitos contra las personas** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

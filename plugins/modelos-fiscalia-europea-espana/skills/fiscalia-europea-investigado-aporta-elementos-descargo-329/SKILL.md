@@ -5,7 +5,7 @@ description: "Redacta el escrito «Fiscalía Europea: el investigado aporta elem
 
 # Fiscalía Europea: el investigado aporta elementos de descargo
 
-> Formulario 0329 del plugin **Procedimiento de la Fiscalía Europea** · revisado el 17-11-2026. Uso interno.
+> Formulario 0329 del plugin **Procedimiento de la Fiscalía Europea** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

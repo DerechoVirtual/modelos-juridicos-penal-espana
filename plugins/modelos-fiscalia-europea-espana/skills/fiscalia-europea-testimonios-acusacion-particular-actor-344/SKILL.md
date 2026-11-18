@@ -5,7 +5,7 @@ description: "Redacta el escrito «Fiscalía Europea: testimonios para la acusac
 
 # Fiscalía Europea: testimonios para la acusación particular o el actor civil en el juicio oral
 
-> Formulario 0344 del plugin **Procedimiento de la Fiscalía Europea** · revisado el 17-11-2026. Uso interno.
+> Formulario 0344 del plugin **Procedimiento de la Fiscalía Europea** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

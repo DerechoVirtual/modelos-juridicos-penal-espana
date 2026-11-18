@@ -5,7 +5,7 @@ description: "Redacta el escrito «Abreviado: el investigado pide el sobreseimie
 
 # Abreviado: el investigado pide el sobreseimiento tras diligencias complementarias
 
-> Formulario 0116 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0116 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

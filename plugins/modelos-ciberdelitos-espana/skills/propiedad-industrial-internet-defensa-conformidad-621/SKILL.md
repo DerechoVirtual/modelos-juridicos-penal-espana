@@ -5,7 +5,7 @@ description: "Redacta el escrito «Propiedad industrial por internet: defensa co
 
 # Propiedad industrial por internet: defensa con conformidad
 
-> Formulario 0621 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026. Uso interno.
+> Formulario 0621 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

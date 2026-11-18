@@ -5,7 +5,7 @@ description: "Redacta el escrito «Administración desleal: conformidad de la de
 
 # Administración desleal: conformidad de la defensa
 
-> Formulario 0425 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0425 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

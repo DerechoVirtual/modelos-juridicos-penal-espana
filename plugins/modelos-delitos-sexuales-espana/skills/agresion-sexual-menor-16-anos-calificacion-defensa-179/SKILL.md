@@ -5,7 +5,7 @@ description: "Redacta el escrito «Agresión sexual a menor de 16 años: calific
 
 # Agresión sexual a menor de 16 años: calificación de la defensa alegando consentimiento
 
-> Formulario 0179 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0179 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

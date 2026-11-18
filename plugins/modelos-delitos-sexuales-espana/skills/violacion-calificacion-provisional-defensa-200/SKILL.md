@@ -5,7 +5,7 @@ description: "Redacta el escrito «Violación: calificación provisional de la d
 
 # Violación: calificación provisional de la defensa
 
-> Formulario 0200 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0200 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

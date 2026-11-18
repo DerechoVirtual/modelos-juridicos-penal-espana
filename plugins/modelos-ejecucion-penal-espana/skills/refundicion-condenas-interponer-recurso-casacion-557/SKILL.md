@@ -5,7 +5,7 @@ description: "Redacta el escrito «Refundición de condenas: interponer recurso 
 
 # Refundición de condenas: interponer recurso de casación
 
-> Formulario 0557 del plugin **Ejecución penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0557 del plugin **Ejecución penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

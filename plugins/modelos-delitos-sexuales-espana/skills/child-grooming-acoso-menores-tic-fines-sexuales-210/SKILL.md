@@ -5,7 +5,7 @@ description: "Redacta el escrito «Child grooming (acoso a menores por TIC con f
 
 # Child grooming (acoso a menores por TIC con fines sexuales): conformidad de la defensa
 
-> Formulario 0210 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0210 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

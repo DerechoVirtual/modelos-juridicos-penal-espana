@@ -5,7 +5,7 @@ description: "Redacta el escrito «Paso del ordinario al abreviado denegado: que
 
 # Paso del ordinario al abreviado denegado: queja del investigado
 
-> Formulario 0160 del plugin **Recursos penales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0160 del plugin **Recursos penales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

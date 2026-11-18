@@ -5,7 +5,7 @@ description: "Redacta el escrito «Falso testimonio: escrito de defensa» (formu
 
 # Falso testimonio: escrito de defensa
 
-> Formulario 0381 del plugin **Delitos contra la Administración pública y de justicia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0381 del plugin **Delitos contra la Administración pública y de justicia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

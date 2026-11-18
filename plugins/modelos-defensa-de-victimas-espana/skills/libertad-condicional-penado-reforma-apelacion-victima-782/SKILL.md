@@ -5,7 +5,7 @@ description: "Redacta el escrito «Libertad condicional del penado: reforma y ap
 
 # Libertad condicional del penado: reforma y apelación de la víctima
 
-> Formulario 0782 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0782 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Procedimiento abreviado: defensa conforme con
 
 # Procedimiento abreviado: defensa conforme con la acusación salvo en la responsabilidad civil
 
-> Formulario 0697 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0697 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Cambiar la prisión provisional por internami
 
 # Cambiar la prisión provisional por internamiento en centro de deshabituación
 
-> Formulario 0166 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0166 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acoso sexual: querella» (formulario 822 de d
 
 # Acoso sexual: querella
 
-> Formulario 0822 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0822 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

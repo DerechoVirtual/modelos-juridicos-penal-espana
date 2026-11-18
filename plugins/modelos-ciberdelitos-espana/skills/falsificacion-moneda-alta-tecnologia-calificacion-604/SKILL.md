@@ -5,7 +5,7 @@ description: "Redacta el escrito «Falsificación de moneda con alta tecnología
 
 # Falsificación de moneda con alta tecnología: calificación provisional de la acusación particular
 
-> Formulario 0604 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026. Uso interno.
+> Formulario 0604 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

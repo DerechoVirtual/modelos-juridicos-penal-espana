@@ -5,7 +5,7 @@ description: "Redacta el escrito «Ocultación del paradero de un cadáver: escr
 
 # Ocultación del paradero de un cadáver: escrito de defensa
 
-> Formulario 0152 del plugin **Delitos contra las personas** · revisado el 17-11-2026. Uso interno.
+> Formulario 0152 del plugin **Delitos contra las personas** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

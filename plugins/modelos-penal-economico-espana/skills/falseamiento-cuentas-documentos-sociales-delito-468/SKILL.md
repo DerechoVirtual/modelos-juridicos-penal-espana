@@ -5,7 +5,7 @@ description: "Redacta el escrito «Falseamiento de cuentas o documentos sociales
 
 # Falseamiento de cuentas o documentos sociales (delito societario): acusación
 
-> Formulario 0468 del plugin **Delitos económicos y de empresa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0468 del plugin **Delitos económicos y de empresa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

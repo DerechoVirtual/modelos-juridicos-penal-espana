@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acoso o stalking: pedir medida cautelar de no
 
 # Acoso o stalking: pedir medida cautelar de no aproximación y no comunicación
 
-> Formulario 0737 del plugin **Delitos contra las personas** · revisado el 17-11-2026. Uso interno.
+> Formulario 0737 del plugin **Delitos contra las personas** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

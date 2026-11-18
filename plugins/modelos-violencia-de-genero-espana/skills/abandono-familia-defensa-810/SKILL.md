@@ -5,7 +5,7 @@ description: "Redacta el escrito «Abandono de familia: defensa» (formulario 81
 
 # Abandono de familia: defensa
 
-> Formulario 0810 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0810 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

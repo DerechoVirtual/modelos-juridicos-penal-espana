@@ -5,7 +5,7 @@ description: "Redacta el escrito «Agresión sexual a menor de 16 años, art. 18
 
 # Agresión sexual a menor de 16 años, art. 181.2 CP (LO 4/2023): calificación del acusador particular
 
-> Formulario 0088 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0088 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Delito continuado: escrito de acusación» (f
 
 # Delito continuado: escrito de acusación
 
-> Formulario 0030 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0030 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Casación desierta: decreto del Letrado de la
 
 # Casación desierta: decreto del Letrado de la Administración de Justicia
 
-> Formulario 0158 del plugin **Recursos penales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0158 del plugin **Recursos penales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

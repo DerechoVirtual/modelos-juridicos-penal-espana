@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra la condena por adulteració
 
 # Apelación contra la condena por adulteración de alimentos o bebidas (salud pública)
 
-> Formulario 0790 del plugin **Salud pública y maltrato animal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0790 del plugin **Salud pública y maltrato animal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

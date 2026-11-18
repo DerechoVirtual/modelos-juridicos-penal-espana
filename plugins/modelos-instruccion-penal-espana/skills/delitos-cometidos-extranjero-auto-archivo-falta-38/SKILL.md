@@ -5,7 +5,7 @@ description: "Redacta el escrito «Delitos cometidos en el extranjero: auto de a
 
 # Delitos cometidos en el extranjero: auto de archivo por falta de jurisdicción
 
-> Formulario 0038 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0038 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

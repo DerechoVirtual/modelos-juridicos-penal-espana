@@ -5,7 +5,7 @@ description: "Redacta el escrito «Hurto multirreincidente: conformidad de la de
 
 # Hurto multirreincidente: conformidad de la defensa
 
-> Formulario 0140 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0140 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

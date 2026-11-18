@@ -5,7 +5,7 @@ description: "Redacta el escrito «Procedimiento común: calificación del Fisca
 
 # Procedimiento común: calificación del Fiscal y la acusación particular con conformidad del acusado
 
-> Formulario 0052 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0052 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

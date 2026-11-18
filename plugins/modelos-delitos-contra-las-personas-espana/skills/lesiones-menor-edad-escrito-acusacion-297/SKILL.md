@@ -5,7 +5,7 @@ description: "Redacta el escrito «Lesiones a menor de edad: escrito de acusaci�
 
 # Lesiones a menor de edad: escrito de acusación
 
-> Formulario 0297 del plugin **Delitos contra las personas** · revisado el 17-11-2026. Uso interno.
+> Formulario 0297 del plugin **Delitos contra las personas** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

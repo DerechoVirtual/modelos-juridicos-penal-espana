@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apelación contra la condena por utilizar men
 
 # Apelación contra la condena por utilizar menores o con discapacidad en pornografía por internet
 
-> Formulario 0569 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0569 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

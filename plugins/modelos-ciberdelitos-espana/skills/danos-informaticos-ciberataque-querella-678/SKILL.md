@@ -5,7 +5,7 @@ description: "Redacta el escrito «Daños informáticos (ciberataque): querella�
 
 # Daños informáticos (ciberataque): querella
 
-> Formulario 0678 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026. Uso interno.
+> Formulario 0678 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

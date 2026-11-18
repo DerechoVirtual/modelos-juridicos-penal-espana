@@ -5,7 +5,7 @@ description: "Redacta el escrito «Discriminación grave en el empleo: escrito d
 
 # Discriminación grave en el empleo: escrito de acusación
 
-> Formulario 0293 del plugin **Delitos contra los derechos de los trabajadores** · revisado el 17-11-2026. Uso interno.
+> Formulario 0293 del plugin **Delitos contra los derechos de los trabajadores** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

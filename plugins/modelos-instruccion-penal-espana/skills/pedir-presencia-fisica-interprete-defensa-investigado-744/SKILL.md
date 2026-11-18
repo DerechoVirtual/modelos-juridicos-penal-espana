@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir la presencia física del intérprete (d
 
 # Pedir la presencia física del intérprete (defensa del investigado o acusado)
 
-> Formulario 0744 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0744 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

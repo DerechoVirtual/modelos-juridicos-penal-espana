@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir datos de comunicaciones electrónicas p
 
 # Pedir datos de comunicaciones electrónicas para averiguar un delito
 
-> Formulario 0713 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026. Uso interno.
+> Formulario 0713 del plugin **Investigación tecnológica y prueba digital** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

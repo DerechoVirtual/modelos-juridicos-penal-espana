@@ -5,7 +5,7 @@ description: "Redacta el escrito «Agresión sexual a menor de 16 años por inte
 
 # Agresión sexual a menor de 16 años por internet (sextorsión): calificación provisional de la defensa
 
-> Formulario 0215 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0215 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Víctima menor o discapacitada: videoconferen
 
 # Víctima menor o discapacitada: videoconferencia en el juicio oral (hasta el 19 de marzo de 2024)
 
-> Formulario 0354 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026. Uso interno.
+> Formulario 0354 del plugin **Víctimas y justicia restaurativa** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

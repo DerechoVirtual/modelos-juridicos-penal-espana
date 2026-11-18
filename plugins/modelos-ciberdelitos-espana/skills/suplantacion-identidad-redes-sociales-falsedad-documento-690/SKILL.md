@@ -5,7 +5,7 @@ description: "Redacta el escrito «Suplantación de identidad en redes sociales 
 
 # Suplantación de identidad en redes sociales (falsedad en documento privado): acusación
 
-> Formulario 0690 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026. Uso interno.
+> Formulario 0690 del plugin **Ciberdelitos y propiedad intelectual** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Declinatoria a favor de la Sección de Violen
 
 # Declinatoria a favor de la Sección de Violencia sobre la Mujer por trata de menores
 
-> Formulario 0043 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026. Uso interno.
+> Formulario 0043 del plugin **Violencia de género y delitos en la familia** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

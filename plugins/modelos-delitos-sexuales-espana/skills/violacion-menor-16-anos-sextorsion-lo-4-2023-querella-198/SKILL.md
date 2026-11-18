@@ -5,7 +5,7 @@ description: "Redacta el escrito «Violación a menor de 16 años por sextorsió
 
 # Violación a menor de 16 años por sextorsión (LO 4/2023): querella
 
-> Formulario 0198 del plugin **Delitos sexuales** · revisado el 17-11-2026. Uso interno.
+> Formulario 0198 del plugin **Delitos sexuales** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

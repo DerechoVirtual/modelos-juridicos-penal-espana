@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aceptación de decreto: comparecencia del enc
 
 # Aceptación de decreto: comparecencia del encausado ante el juez
 
-> Formulario 0772 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026. Uso interno.
+> Formulario 0772 del plugin **Instrucción y procedimiento penal** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

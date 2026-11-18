@@ -5,7 +5,7 @@ description: "Redacta el escrito «Robo de uso de vehículo de motor: querella»
 
 # Robo de uso de vehículo de motor: querella
 
-> Formulario 0873 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026. Uso interno.
+> Formulario 0873 del plugin **Delitos contra el patrimonio** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 
