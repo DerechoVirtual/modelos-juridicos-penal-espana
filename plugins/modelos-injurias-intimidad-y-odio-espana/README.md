@@ -168,6 +168,7 @@ Para usar uno directamente: `/modelos-injurias-intimidad-y-odio-espana:<skill>`.
 ## Qué hay dentro de cada skill
 
 - `SKILL.md`: los datos que hay que pedir, las elecciones, los párrafos opcionales, los avisos de la revisión, las normas que hay que comprobar y el flujo;
-- `formulario.md`: el texto revisado del formulario;
-- `marco.md`: la guía del tema, con las reglas y plazos vigentes comprobados en el BOE.
+- al final de ese mismo `SKILL.md`, el texto revisado del formulario.
+
+La guía del tema, con las reglas y plazos vigentes comprobados en el BOE, es común a todas las skills del plugin y está en `skills/indice/marco.md`.
 

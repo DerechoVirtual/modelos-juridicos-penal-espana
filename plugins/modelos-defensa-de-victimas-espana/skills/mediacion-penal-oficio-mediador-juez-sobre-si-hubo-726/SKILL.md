@@ -36,8 +36,8 @@ El planteamiento del formulario está desfasado en algo. Corrígelo antes de red
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -63,7 +63,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, procedimiento aplicable, requisitos de perseguibilidad (denuncia de la persona agraviada, querella con poder especial) y prescripción).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, procedimiento aplicable, requisitos de perseguibilidad (denuncia de la persona agraviada, querella con poder especial) y prescripción).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -71,3 +71,47 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0726 · Mediación penal: oficio del mediador al juez sobre si hubo acuerdo
+
+- Año del modelo: 2017
+- Revisión 17-11-2026: restos de formato retirados; 2 llamadas a nota sin texto retiradas; 1 desplegables y casillas convertidos en elección en blanco; 4 campos de relleno marcados en blanco; 1 etiquetas sin dato marcadas en blanco; 1 huecos del original que se habían perdido sin marca, marcados (NOMBRE Y APELLIDOS)
+- Avisos de la revisión: Desde el 3-4-2025 la DA 9.ª LECrim (LO 1/2025) regula la justicia restaurativa: remisión judicial a instancia de parte o de oficio (ap. 5), plazo máximo de tres meses prorrogable por otros tres (ap. 6), informe y acta de reparación firmada por las partes y sus letrados (ap. 8) y audiencia de tres días antes de valorar el acuerdo (ap. 9). · El informe del servicio restaurativo no debe revelar el contenido de las comunicaciones entre las partes ni valorar su comportamiento (DA 9.ª.8 LECrim).
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Escrito por el que el mediador comunica al juez que el expediente de mediación penal ha finalizado con o sin acuerdo
+
+Documento adaptado a la reforma de la organización judicial introducida por la LO 1/2025, mediante la creación y constitución de los Tribunales de Instancia.
+
+Nº Expediente Mediación:/
+
+Deriva de: J.O/
+
+Sección deNºde
+
+Ilmo. Sr. [NOMBRE Y APELLIDOS]: [COMPLETAR]
+
+Adjunto tengo el honor de remitir a V.I. comunicación acreditativa de que en el presente expediente de mediación [ELEGIR: no ha sido posible alcanzar / se ha alcanzado] ACUERDO entre las partes interesadas.
+
+La documentación con las entrevistas y demás trámites realizados por el Servicio de Mediación Penal de [COMPLETAR] quedan archivadas en esta Oficina.
+
+Sin perjuicio de las comunicaciones oficiales que se lleven a cabo desde su oficina judicial se significa que se le ha entregado copia del mismo al Ministerio Fiscal.
+
+Sírvase acusar recibo.
+
+En [LUGAR], a [DÍA] de [MES] de [AÑO].
+
+El mediador competente
+
+Ilmo. Sr. Magistrado-Juez
+
+SECCIÓN DE [LOCALIDAD] NUMERO [NÚMERO]
+
+Esta comunicación puede interesarse tanto al juez de lo penal como al juez de instrucción.
+
+================================================================================

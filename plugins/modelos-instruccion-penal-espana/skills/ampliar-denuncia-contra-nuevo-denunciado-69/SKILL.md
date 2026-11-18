@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión. Empieza con una nota explicativa (para qué sirve el escrito y cuándo se usa), revisada en el BOE: léela antes de redactar, pero no la copies en el escrito.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión. Empieza con una nota explicativa (para qué sirve el escrito y cuándo se usa), revisada en el BOE: léela antes de redactar, pero no la copies en el escrito.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -53,7 +53,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, procedimiento aplicable, requisitos de perseguibilidad (denuncia de la persona agraviada, querella con poder especial) y prescripción).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, procedimiento aplicable, requisitos de perseguibilidad (denuncia de la persona agraviada, querella con poder especial) y prescripción).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -61,3 +61,45 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0069 · Ampliar la denuncia contra un nuevo denunciado
+
+- Año del modelo: 2024
+- Revisión 17-11-2026: 13 campos de relleno marcados en blanco; 1 encabezamientos de la Sección del Tribunal de Instancia completados (LO 1/2025)
+- Nota explicativa incorporada desde la colección Procesal (formulario 71) y revisada en el BOE el 17-11-2026
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+#### Nota explicativa: para qué sirve este escrito
+
+Escrito por el que un denunciante solicita directamente, sin abogado ni procurador, al juez de instrucción la ampliación de su denuncia por conocer la existencia de un nuevo denunciado, conforme a los artículos 259 a 269 de la LECRIM.
+
+---
+
+A la Sección de Instrucción del Tribunal de Instancia de [SEDE] – plaza n.º [Nº]
+
+D./Dña. [NOMBRE Y APELLIDOS], mayor de edad, con DNI [DNI/NIE], con domicilio en [LOCALIDAD] y teléfono [TELÉFONO], por medio del presente escrito AMPLÍO LA DENUNCIA de fecha [FECHA], presentada ante el órgano judicial del encabezamiento, inicialmente solo contra D./Dña. [NOMBRE Y APELLIDOS] por los siguientes hechos: [COMPLETAR].
+
+Sin embargo, con posterioridad a la presentación de la denuncia, he tenido conocimiento de los siguientes
+
+HECHOS
+
+[COMPLETAR]
+
+Esto hace que deba considerar también responsable de estos hechos a D./Dña. [NOMBRE Y APELLIDOS], por lo que presento ampliación de denuncia, con la petición expresa de que se tenga por denunciado/a también al/a la citado/a y se siga causa penal contra él/ella.
+
+Para la corroboración de estos hechos solicito la práctica de las siguientes diligencias:
+
+1. Que se reciba declaración al/a la nuevo/a denunciado/a.
+2. Que se reclamen sus antecedentes penales.
+3. Que se oficie a la Administración Pública [COMPLETAR] a fin de que certifique sobre [DESCRIBIR].
+
+En [COMPLETAR]
+
+En [COMPLETAR]
+
+Firma del/de la denunciante
+
+================================================================================

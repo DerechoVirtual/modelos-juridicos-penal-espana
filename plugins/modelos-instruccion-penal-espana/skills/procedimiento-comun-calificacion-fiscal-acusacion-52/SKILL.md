@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión. Empieza con una nota explicativa (para qué sirve el escrito y cuándo se usa), revisada en el BOE: léela antes de redactar, pero no la copies en el escrito.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión. Empieza con una nota explicativa (para qué sirve el escrito y cuándo se usa), revisada en el BOE: léela antes de redactar, pero no la copies en el escrito.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -57,7 +57,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, procedimiento aplicable, requisitos de perseguibilidad (denuncia de la persona agraviada, querella con poder especial) y prescripción).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, procedimiento aplicable, requisitos de perseguibilidad (denuncia de la persona agraviada, querella con poder especial) y prescripción).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -65,3 +65,55 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0052 · Procedimiento común: calificación del Fiscal y la acusación particular con conformidad del acusado
+
+- Año del modelo: 2025
+- Revisión 17-11-2026: 1 bloques de opciones sin texto dejados en blanco con sus rótulos; 1 bloques de alternativas señalados; 4 campos de relleno marcados en blanco; 1 etiquetas sin dato marcadas en blanco
+- Nota explicativa incorporada desde la colección Procesal (formulario 39) y revisada en el BOE el 17-11-2026
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+#### Nota explicativa: para qué sirve este escrito
+
+Escrito de calificación que conjuntamente firman las partes acusadoras y la parte acusada junto a su letrado o bien modificación del escrito de calificación de la acusación, para alcanzar la conformidad, de acuerdo con el art. 655.1 LECRIM, según redacción dada por LO 1/2025, vigente desde el 3 de abril de 2025.
+
+---
+
+A la Audiencia Provincial de [LOCALIDAD]
+
+[ELEGIR UNA OPCIÓN Y REDACTARLA: Si acusación y acusado presentan escrito de calificación conjunta / Si la acusación modifica su calificación — el texto de cada opción no venía en el formulario original]
+
+CONCLUSIONES PROVISIONALES DE CONFORMIDAD:
+
+PRIMERA.- El día.
+
+SEGUNDA.- Los hechos relatados son constitutivos de un delito de previsto y penado en el art. del Código Penal.
+
+TERCERA.- Es responsable criminalmente el/la acusado/a de los hechos descritos en concepto de autor/a.
+
+CUARTA.-
+
+[ELEGIR UNA DE LAS ALTERNATIVAS QUE SIGUEN Y SUPRIMIR LAS DEMÁS]
+
+No concurren circunstancias modificativas de la responsabilidad criminal.
+
+Concurre la circunstancia modificativa de la responsabilidad criminal de del art. CP.
+
+QUINTA.- Procede imponer al/a la acusado/a la pena de [PENA].
+
+SEXTA.- Procede abonar al/a la acusado/a la suma de [IMPORTE], en concepto de responsabilidad civil y deberá satisfacer las costas.
+
+Por lo expuesto,
+
+SE EXPONE: [COMPLETAR]
+
+Que se proceda a oír al acusado para su conformidad y dictar sentencia de conformidad conforme a la pena indicada y la responsabilidad civil fijada.
+
+Es de Justicia que pido en [LUGAR], a [FECHA].
+
+Firma del Fiscal	Firma de la acusación	Firma de la defensa
+
+================================================================================

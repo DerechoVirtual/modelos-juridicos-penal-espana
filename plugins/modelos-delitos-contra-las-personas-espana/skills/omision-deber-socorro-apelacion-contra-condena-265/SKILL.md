@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -58,7 +58,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, procedimiento aplicable, requisitos de perseguibilidad (denuncia de la persona agraviada, querella con poder especial) y prescripción).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, procedimiento aplicable, requisitos de perseguibilidad (denuncia de la persona agraviada, querella con poder especial) y prescripción).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -66,3 +66,52 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0265 · Omisión del deber de socorro: apelación contra la condena
+
+- Año del modelo: 2022
+- Revisión 17-11-2026: 2 llamadas a nota sin texto retiradas; 2 desplegables y casillas convertidos en elección en blanco; 13 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Al Magistrado/a Presidente/a del Tribunal del Jurado de [LOCALIDAD]
+
+D./Dña. [NOMBRE Y APELLIDOS], Procurador/a de los Tribunales, en nombre y representación del/de la recurrente D./Dña. [NOMBRE Y APELLIDOS], que tengo ya acreditada en el procedimiento número [Nº DE PROCEDIMIENTO] del Tribunal del Jurado, seguido por el delito de omisión del deber de socorro del art. 196 CP, como mejor proceda en derecho, comparezco y DIGO:
+
+Que con fecha [FECHA] le ha sido notificada la sentencia dictada por este Tribunal condenando a mi representado/a a la pena de [PENA] y, no estimándola ajustada a derecho y considerándola lesiva a sus intereses, vengo a interponer recurso de apelación para ante la Sala de lo Civil y Penal del Tribunal Superior de Justicia de [LOCALIDAD] por [ELEGIR: quebrantamiento de las normas y garantías procesales / infracción de precepto constitucional o legal / desestimación indebida a la petición de la disolución del Jurado al no existir prueba de cargo / disolución del Jurado improcedente / vulneración del derecho a la presunción de inocencia], al amparo del artículo 846 bis a de la Ley de Enjuiciamiento Criminal.
+
+ANTECEDENTES
+
+PRIMERO.- En el acta de la votación de los/as Jurados de fecha [FECHA] se contiene el veredicto donde se expresan como hechos probados los siguientes:
+
+[COMPLETAR]
+
+SEGUNDO.- El veredicto considera al/a la acusado/a culpable del delito de omisión del deber de socorro del art. 196 CP, expresando su criterio [ELEGIR: favorable / desfavorable] a la remisión condicional de la pena que se impusiese y también sobre la petición del indulto en la sentencia.
+
+TERCERO.- En el veredicto los/as Jurados han expresado como elementos de convicción para hacer dicha declaración de culpabilidad los siguientes:
+
+CUARTO.- El fallo de la sentencia es del tenor siguiente:
+
+MOTIVOS
+
+ÚNICO.-
+
+Al amparo del artículo 846 bis c de la Ley de Enjuiciamiento Criminal, letra e), se ha vulnerado el derecho a la presunción de inocencia porque, atendida la prueba practicada en el juicio [COMPLETAR], quedó probado que no hubo actuación omisiva alguna por el/la médico, ahora recurrente, sino un mero retraso hasta poder atender al paciente.
+
+Las razones del mínimo retraso, que han quedado acreditadas, fueron [COMPLETAR]
+
+En su virtud,
+
+SUPLICO AL/A LA MAGISTRADO/A-PRESIDENTE/A DEL TRIBUNAL DEL JURADO:
+
+Se sirva tener por interpuesto en tiempo y forma recurso de apelación contra la sentencia de fecha [FECHA] recaída en los precitados autos, lo admita a trámite, acordando la remisión de lo actuado al Tribunal Superior de Justicia, a fin de que se dicte sentencia en la que se revoque la recurrida y se absuelva a mi representado/a de la condena impuesta.
+
+Es de Justicia que pido en [LUGAR], a [FECHA].
+
+Abogado/a:	Procurador/a:
+
+================================================================================
