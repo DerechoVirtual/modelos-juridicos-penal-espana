@@ -1,0 +1,283 @@
+{
+  "name": "modelos-juridicos-penal-espana",
+  "owner": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "metadata": {
+    "description": "Modelos de escritos jurídicos de España para Claude · Penal: 18 plugins por tema, una skill por modelo, cada una conectada a Jurisprudenciator para verificar normas y jurisprudencia.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "modelos-ciberdelitos-espana",
+      "source": "./plugins/modelos-ciberdelitos-espana",
+      "description": "Ciberdelitos: phishing, criptoestafas y propiedad intelectual · España (61 formularios). Sirve para fraudes y delitos informáticos: estafa informática (phishing, vishing, pharming), fraudes con criptomonedas, acceso ilegal a sistemas, daños informáticos y delitos contra la propiedad intelectual e industrial. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "ciberdelitos-y-propiedad-intelectual"
+      ]
+    },
+    {
+      "name": "modelos-defensa-de-victimas-espana",
+      "source": "./plugins/modelos-defensa-de-victimas-espana",
+      "description": "Acusación particular y derechos de la víctima · España (54 formularios). Sirve para representar a la víctima: derechos del Estatuto de la víctima, acusación particular, declaración telemática y protección frente a los medios, prueba preconstituida de menores, mediación penal y justicia restaurativa. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "victimas-y-justicia-restaurativa"
+      ]
+    },
+    {
+      "name": "modelos-delitos-contra-las-personas-espana",
+      "source": "./plugins/modelos-delitos-contra-las-personas-espana",
+      "description": "Lesiones, amenazas, coacciones y homicidio · España (63 formularios). Sirve para acusar o defender en delitos contra la vida, la integridad y la libertad: homicidio, lesiones, omisión del deber de socorro, amenazas, coacciones, acoso (stalking), trata de seres humanos y delitos contra menores cometidos por internet. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "delitos-contra-las-personas"
+      ]
+    },
+    {
+      "name": "modelos-delitos-de-trafico-espana",
+      "source": "./plugins/modelos-delitos-de-trafico-espana",
+      "description": "Alcoholemia, conducción sin carné y juicio rápido · España (39 formularios). Sirve para los delitos de tráfico: conducción con alcohol o drogas, negativa a las pruebas, conducción sin permiso, temeraria o a velocidad excesiva, abandono del lugar del accidente, lesiones por imprudencia y juicio rápido. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "seguridad-vial"
+      ]
+    },
+    {
+      "name": "modelos-delitos-laborales-espana",
+      "source": "./plugins/modelos-delitos-laborales-espana",
+      "description": "Delitos contra los trabajadores y riesgos laborales · España (22 formularios). Sirve para los delitos en el ámbito laboral: imposición de condiciones ilegales, discriminación grave en el empleo, infracción de las normas de prevención de riesgos laborales y acoso laboral. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "delitos-contra-los-trabajadores"
+      ]
+    },
+    {
+      "name": "modelos-delitos-sexuales-espana",
+      "source": "./plugins/modelos-delitos-sexuales-espana",
+      "description": "Delitos sexuales (LO 4/2023) · España (108 formularios). Sirve para los delitos contra la libertad sexual con la numeración vigente tras la LO 4/2023 (y la de la LO 10/2022 para hechos de esa época): agresión sexual y violación, delitos contra menores de 16 años, sextorsión, grooming, pornografía infantil y acoso sexual. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "delitos-sexuales"
+      ]
+    },
+    {
+      "name": "modelos-drogas-y-maltrato-animal-espana",
+      "source": "./plugins/modelos-drogas-y-maltrato-animal-espana",
+      "description": "Tráfico de drogas, petaqueo y maltrato animal · España (21 formularios). Sirve para delitos contra la salud pública y maltrato animal: tráfico de drogas, petaqueo (LO 1/2026), adulteración de alimentos y maltrato de animales. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "salud-publica-y-maltrato-animal"
+      ]
+    },
+    {
+      "name": "modelos-ejecucion-penal-espana",
+      "source": "./plugins/modelos-ejecucion-penal-espana",
+      "description": "Después de la condena: suspensión, refundición y prescripción · España (16 formularios). Sirve para la fase posterior a la condena: liquidación de condena, suspensión de la pena, prescripción, refundición, revisión por una ley penal más favorable, libertad vigilada, impago de la multa y decomiso. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "ejecucion-penal"
+      ]
+    },
+    {
+      "name": "modelos-estafas-robos-y-hurtos-espana",
+      "source": "./plugins/modelos-estafas-robos-y-hurtos-espana",
+      "description": "Hurtos, robos, estafas y ocupación (LO 1/2026) · España (83 formularios). Sirve para los delitos patrimoniales, con la reforma de la LO 1/2026: hurto (también multirreincidente, de móviles y de productos agrarios), robo, estafa, apropiación indebida, administración desleal, usurpación y ocupación, insolvencias punibles y falsedades. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "delitos-contra-el-patrimonio"
+      ]
+    },
+    {
+      "name": "modelos-euroorden-y-cooperacion-penal-espana",
+      "source": "./plugins/modelos-euroorden-y-cooperacion-penal-espana",
+      "description": "Euroorden y cooperación penal en la UE · España (33 formularios). Sirve para causas con elemento europeo: reconocimiento mutuo de resoluciones penales (Ley 23/2014), su transmisión a otro Estado y los recursos contra ellas, euroorden, orden europea de investigación, justicia gratuita transfronteriza e indemnizaciones a víctimas en casos transfronterizos. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "cooperacion-penal-internacional"
+      ]
+    },
+    {
+      "name": "modelos-fiscalia-europea-espana",
+      "source": "./plugins/modelos-fiscalia-europea-espana",
+      "description": "Procedimientos ante la Fiscalía Europea · España (31 formularios). Sirve para los procedimientos de la Fiscalía Europea (LO 9/2021): escritos ante el Fiscal Europeo Delegado y el Juez de Garantías, personaciones, diligencias, medidas cautelares, escritos de defensa e impugnación de decretos. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "fiscalia-europea"
+      ]
+    },
+    {
+      "name": "modelos-injurias-intimidad-y-odio-espana",
+      "source": "./plugins/modelos-injurias-intimidad-y-odio-espana",
+      "description": "Calumnias, injurias, sexting y delitos de odio · España (63 formularios). Sirve para delitos contra el honor y la intimidad y para delitos de odio: calumnias e injurias, difusión de imágenes íntimas (sexting), revelación de secretos, ciberacoso e incitación al odio. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "honor-intimidad-y-odio"
+      ]
+    },
+    {
+      "name": "modelos-instruccion-penal-espana",
+      "source": "./plugins/modelos-instruccion-penal-espana",
+      "description": "Instrucción penal: diligencias, habeas corpus y detenido · España (49 formularios). Sirve para la fase de instrucción y los trámites del proceso penal: competencia y declinatoria, diligencias previas (petición de diligencias, reapertura, sobreseimiento), habeas corpus, asistencia al detenido, declaraciones telemáticas e intérprete, ante la Sección de Instrucción del Tribunal de Instancia. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "instruccion-y-procedimiento-penal"
+      ]
+    },
+    {
+      "name": "modelos-penal-economico-espana",
+      "source": "./plugins/modelos-penal-economico-espana",
+      "description": "Blanqueo, delitos societarios y penal económico · España (52 formularios). Sirve para el derecho penal económico: blanqueo de capitales, delitos societarios, secretos de empresa, alteración de precios en el mercado y delito contable tributario. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "delitos-economicos-y-de-empresa"
+      ]
+    },
+    {
+      "name": "modelos-prevaricacion-y-malversacion-espana",
+      "source": "./plugins/modelos-prevaricacion-y-malversacion-espana",
+      "description": "Prevaricación, malversación y denuncia falsa · España (58 formularios). Sirve para los delitos de cargos públicos y contra la Administración de Justicia: malversación, prevaricación (también urbanística y judicial), fraude, enriquecimiento ilícito, falso testimonio, denuncia falsa y querellas contra diputados y senadores. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "administracion-publica-y-justicia"
+      ]
+    },
+    {
+      "name": "modelos-prueba-digital-penal-espana",
+      "source": "./plugins/modelos-prueba-digital-penal-espana",
+      "description": "Prueba digital: intervenciones, volcados y nulidad · España (28 formularios). Sirve para la prueba digital en el proceso penal: intervenciones telefónicas, volcado de dispositivos, prueba digital y pericial informática, comunicaciones entre abogados, y nulidad de la prueba obtenida ilícitamente. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "investigacion-tecnologica-y-prueba-digital"
+      ]
+    },
+    {
+      "name": "modelos-recursos-penales-espana",
+      "source": "./plugins/modelos-recursos-penales-espana",
+      "description": "Reforma, apelación y casación penal · España (24 formularios). Sirve para recurrir en el proceso penal: reforma, apelación, queja y casación, oposición a los recursos de las otras partes, demanda de amparo y revisión de una condena firme tras una sentencia del Tribunal Europeo de Derechos Humanos. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "recursos-penales"
+      ]
+    },
+    {
+      "name": "modelos-violencia-de-genero-espana",
+      "source": "./plugins/modelos-violencia-de-genero-espana",
+      "description": "Violencia de género, órdenes de protección e impago de pensiones · España (75 formularios). Sirve para la violencia de género y doméstica ante la Sección de Violencia sobre la Mujer: orden de protección, quebrantamiento, maltrato habitual, abandono de familia, impago de pensiones, sustracción de menores y cuestiones de competencia. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "violencia-de-genero-y-familia"
+      ]
+    }
+  ]
+}

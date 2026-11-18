@@ -1,0 +1,25 @@
+{
+  "name": "modelos-fiscalia-europea-espana",
+  "version": "1.0.0",
+  "description": "Procedimiento de la Fiscalía Europea: 31 formularios revisados el 17-11-2026, cada uno convertido en una skill que lo rellena paso a paso (LO 9/2021, Fiscal Europeo Delegado, Juez de Garantías, diligencias, medidas cautelares, impugnación de decretos). Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+  "author": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "displayName": "Procedimientos ante la Fiscalía Europea · España",
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://jurisprudenciator.lexiaipro.org/politica-de-privacidad",
+  "supportUrl": "https://jurisprudenciator.lexiaipro.org/incidencias",
+  "homepage": "https://jurisprudenciator.lexiaipro.org",
+  "termsOfServiceUrl": "https://jurisprudenciator.lexiaipro.org/terminos-y-condiciones",
+  "keywords": [
+    "jurisprudenciator",
+    "legal",
+    "españa",
+    "formularios",
+    "modelos",
+    "fiscalia-europea"
+  ],
+  "repository": "https://github.com/DerechoVirtual/modelos-juridicos-penal-espana",
+  "license": "SEE LICENSE IN LICENSE"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "modelos-delitos-laborales-espana",
+  "version": "1.0.0",
+  "description": "Delitos contra los derechos de los trabajadores: 22 formularios revisados el 17-11-2026, cada uno convertido en una skill que lo rellena paso a paso (condiciones ilegales, discriminación en el empleo, riesgos laborales, acoso laboral). Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+  "author": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "displayName": "Delitos contra los trabajadores y riesgos laborales · España",
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://jurisprudenciator.lexiaipro.org/politica-de-privacidad",
+  "supportUrl": "https://jurisprudenciator.lexiaipro.org/incidencias",
+  "homepage": "https://jurisprudenciator.lexiaipro.org",
+  "termsOfServiceUrl": "https://jurisprudenciator.lexiaipro.org/terminos-y-condiciones",
+  "keywords": [
+    "jurisprudenciator",
+    "legal",
+    "españa",
+    "formularios",
+    "modelos",
+    "delitos-contra-los-trabajadores"
+  ],
+  "repository": "https://github.com/DerechoVirtual/modelos-juridicos-penal-espana",
+  "license": "SEE LICENSE IN LICENSE"
+}
