@@ -6,10 +6,5 @@
       "title": "Jurisprudenciator",
       "description": "Jurisprudencia oficial con párrafo literal y ECLI, artículos vigentes, verificación de citas, BOE, BORME, Catastro, convenios, TEAC y ordenanzas. Si ya lo tienes conectado en Claude con tu URL personal, no hace falta conectar este."
     }
-  },
-  "recommendedCategories": [
-    "legal-research",
-    "case-law",
-    "documents"
-  ]
+  }
 }
