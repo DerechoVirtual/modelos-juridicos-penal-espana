@@ -64,3 +64,36 @@ Al terminar, abre una conversación nueva para que aparezcan sus skills.
 
 La guía del tema, con las reglas y plazos vigentes comprobados en el BOE, es común a todas las skills del plugin y está en `skills/indice/marco.md`.
 
+## Lista completa de formularios
+
+Cada formulario es una skill. Puedes pedirlo con tus palabras o llamarlo por su nombre (`/modelos-ejecucion-penal-espana:<skill>`). Son 16, agrupados por tipo de escrito:
+
+- **Índice del plugin** (`indice`): te ayuda a elegir el formulario adecuado cuando no sabes cuál usar; le cuentas el caso y te propone uno, o dos o tres para que elijas.
+
+### Recursos e impugnaciones (8)
+
+- **Decomiso autónomo: apelación del tercero contra la sentencia condenatoria** (`decomiso-autonomo-apelacion-tercero-contra-sentencia-755`). Recurso de apelación del tercero afectado contra la sentencia condenatoria que acuerda un decomiso autónomo sobre bienes que le pertenecen, para pedir que se revoque o se limite el decomiso.
+- **Decomiso en el proceso penal: apelación del tercero afectado contra la condena** (`decomiso-proceso-penal-apelacion-tercero-afectado-contra-760`). Recurso de apelación del tercero afectado por un decomiso acordado en el proceso penal contra la sentencia de condena, defendiendo su titularidad sobre los bienes y pidiendo que se deje sin efecto.
+- **Ejecutoria penal: impugnar la liquidación de condena hecha por el LAJ** (`ejecutoria-penal-impugnar-liquidacion-condena-hecha-laj-51`). Recurso del penado en la ejecutoria penal para impugnar la liquidación de condena practicada por el letrado de la Administración de Justicia, pidiendo que se rectifique el cómputo de la pena.
+- **Ejecutoria penal: reforma y subsidiario de apelación contra el auto que resuelve alegaciones** (`ejecutoria-penal-reforma-subsidiario-apelacion-contra-56`). Recurso de reforma y, subsidiariamente, de apelación contra el auto de ejecución penal que resuelve las alegaciones sobre la suspensión; exige revisar los antecedentes del penado por el cambio en el cómputo de delitos leves.
+- **Ejecutoria penal: súplica contra el auto que resuelve alegaciones** (`ejecutoria-penal-suplica-contra-auto-resuelve-55`). Recurso de súplica contra el auto dictado en ejecución penal que resuelve las alegaciones sobre la suspensión de la pena; conviene revisar antes los antecedentes del penado por el cambio sobre condenas por delitos leves.
+- **Refundición de condenas: interponer recurso de casación** (`refundicion-condenas-interponer-recurso-casacion-557`). Escrito del condenado para interponer recurso de casación contra el auto de refundición de condenas, con los motivos que fundamentan la impugnación y la petición de que se acuerde una refundición distinta.
+- **Refundición de condenas: preparar la casación por infracción de ley** (`refundicion-condenas-preparar-casacion-infraccion-ley-561`). Escrito del condenado para preparar el recurso de casación por infracción de ley contra la resolución sobre refundición de condenas, anunciando los motivos y solicitando el testimonio necesario.
+- **Suspensión de pena denegada: apelación pidiendo la excepcional (hasta el 2 de abril de 2025)** (`suspension-pena-denegada-apelacion-pidiendo-excepcional-100`). Recurso de apelación del penado contra la denegación de la suspensión de la pena, solicitando la suspensión excepcional; modelo para el régimen aplicable hasta el 2 de abril de 2025 y con antecedentes por revisar.
+
+### Escritos de defensa (1)
+
+- **Ejecutoria penal: alegaciones de la defensa del condenado** (`ejecutoria-penal-alegaciones-defensa-condenado-58`). Escrito de alegaciones de la defensa del condenado en la ejecutoria penal, por ejemplo sobre la suspensión o la sustitución de la pena, con revisión previa de sus antecedentes por el cambio sobre delitos leves.
+
+### Solicitudes y escritos de trámite (6)
+
+- **Decomiso autónomo: designar bienes para decomisar** (`decomiso-autonomo-designar-bienes-decomisar-756`). Escrito en un decomiso autónomo para designar los bienes concretos que se solicita decomisar, con su identificación y relación con el delito, dirigido al órgano que tramita el procedimiento.
+- **Decomiso de bienes: pedir que se llame al proceso penal al tercero afectado** (`decomiso-bienes-pedir-llame-proceso-penal-tercero-761`). Escrito para pedir que se cite al proceso penal al tercero afectado por el decomiso de bienes, de modo que pueda defender sus derechos sobre ellos antes de que se acuerde la medida.
+- **Impago de multa: suspender la responsabilidad personal subsidiaria (hasta el 2 de abril de 2025)** (`impago-multa-suspender-responsabilidad-personal-168`). Solicitud del condenado por impago de multa para que se suspenda la responsabilidad personal subsidiaria por falta de pago, ante el órgano de ejecución; modelo para el régimen aplicable hasta el 2 de abril de 2025.
+- **Pedir la modificación de la libertad vigilada** (`pedir-modificacion-libertad-vigilada-759`). Solicitud para modificar las condiciones de la libertad vigilada impuesta al penado, ya sea para suprimir, sustituir o ajustar alguna de las obligaciones, ante el órgano de ejecución de la condena.
+- **Pedir la revisión de la condena por retroactividad de la norma penal más favorable** (`pedir-revision-condena-retroactividad-norma-penal-mas-142`). Solicitud del penado para que se revise la sentencia condenatoria firme por haberse aprobado una norma penal más favorable con efecto retroactivo, pidiendo que se reduzca o deje sin efecto la pena.
+- **Prescripción de la pena: petición del penado (hasta el 2 de abril de 2025)** (`prescripcion-pena-peticion-penado-hasta-2-abril-2025-384`). Escrito del penado en el que pide que se declare la prescripción de la pena impuesta y su cancelación, ante el órgano de ejecución; modelo para el régimen aplicable hasta el 2 de abril de 2025.
+
+### Otros (1)
+
+- **Decomiso: contestación a la demanda por tercero rebelde o que no pudo oponerse** (`decomiso-contestacion-demanda-tercero-rebelde-no-pudo-762`). Escrito de contestación a la demanda de decomiso presentado por el tercero que fue declarado rebelde o no pudo oponerse en su día, para defender sus derechos sobre los bienes afectados.

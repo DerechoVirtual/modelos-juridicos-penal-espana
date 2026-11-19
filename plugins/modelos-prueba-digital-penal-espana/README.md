@@ -65,3 +65,51 @@ Al terminar, abre una conversación nueva para que aparezcan sus skills.
 
 La guía del tema, con las reglas y plazos vigentes comprobados en el BOE, es común a todas las skills del plugin y está en `skills/indice/marco.md`.
 
+## Lista completa de formularios
+
+Cada formulario es una skill. Puedes pedirlo con tus palabras o llamarlo por su nombre (`/modelos-prueba-digital-penal-espana:<skill>`). Son 28, agrupados por tipo de escrito:
+
+- **Índice del plugin** (`indice`): te ayuda a elegir el formulario adecuado cuando no sabes cuál usar; le cuentas el caso y te propone uno, o dos o tres para que elijas.
+
+### Recursos e impugnaciones (1)
+
+- **Apelación contra una condena basada en prueba ilícita** (`apelacion-contra-condena-basada-prueba-ilicita-701`). Recurso de apelación contra una sentencia condenatoria que se apoya en prueba ilícita, para pedir su nulidad y la absolución del condenado al no poder valorarse las pruebas obtenidas con vulneración de derechos.
+
+### Escritos de acusación (1)
+
+- **Prueba digital y pericial informática: propuesta en el escrito de acusación** (`prueba-digital-pericial-informatica-propuesta-escrito-703`). Sirve para que la acusación proponga, dentro de su escrito de acusación, prueba digital y pericial informática, indicando qué soportes y qué peritos se solicitan para acreditar los hechos.
+
+### Escritos de defensa (3)
+
+- **Impugnar una prueba digital en el escrito de defensa** (`impugnar-prueba-digital-escrito-defensa-704`). Escrito de defensa para impugnar la prueba digital (mensajes, correos, capturas o archivos) propuesta por la acusación, cuestionando su autenticidad, integridad o licitud y pidiendo que no se admita o no se valore.
+- **Nulidad de las intervenciones telefónicas: defensa** (`nulidad-intervenciones-telefonicas-defensa-562`). Escrito de defensa que pide declarar nula la intervención de las comunicaciones telefónicas por falta de motivación o de base suficiente, y excluir de la causa las pruebas que de ella derivan.
+- **Tráfico de drogas con intervenciones telefónicas nulas: defensa** (`trafico-drogas-intervenciones-telefonicas-nulas-defensa-563`). Escrito de defensa en una causa por tráfico de drogas cuya prueba nace de intervenciones telefónicas nulas, para pedir que se excluyan y se absuelva al acusado por falta de prueba lícita.
+
+### Resoluciones, actas y documentos (1)
+
+- **Computación en la nube (cloud computing): contrato de acceso a datos por cuenta de terceros** (`computacion-nube-cloud-computing-contrato-acceso-datos-735`). Contrato por el que el responsable del tratamiento de datos personales encarga a un proveedor de computación en la nube el acceso a esos datos por su cuenta, con las obligaciones propias del encargado del tratamiento.
+
+### Solicitudes y escritos de trámite (22)
+
+- **Aportar como prueba comunicaciones o documentos entre defensores con autorización** (`aportar-como-prueba-comunicaciones-documentos-entre-68`). Escrito por el que un abogado aporta como prueba en la instrucción las comunicaciones o documentos que intercambió con el letrado contrario en otro procedimiento, al contar con autorización para utilizarlos.
+- **Deducir testimonio por posible delito hallado en correspondencia o correo electrónico intervenidos** (`deducir-testimonio-posible-delito-hallado-711`). Escrito para pedir al juez que deduzca testimonio cuando en la correspondencia o el correo electrónico intervenidos aparece un posible delito distinto, de modo que se abra otro procedimiento para investigarlo.
+- **Defensa: pedir la nulidad de la prueba digital aportada** (`defensa-pedir-nulidad-prueba-digital-aportada-705`). Escrito de la defensa para pedir la nulidad de la prueba digital aportada por la acusación o el querellante, por vulnerar derechos fundamentales o carecer de garantías de autenticidad e integridad.
+- **Excluir del proceso las comunicaciones entre abogados defensores aportadas sin autorización** (`excluir-proceso-comunicaciones-entre-abogados-defensores-65`). Escrito presentado en la instrucción por el que un abogado pide excluir del proceso las comunicaciones o documentos intercambiados con el letrado contrario en otro procedimiento, por no existir autorización para usarlos.
+- **Grabaciones y transcripciones intervenidas: pedir que se incluya información** (`grabaciones-transcripciones-intervenidas-pedir-incluya-765`). Escrito para solicitar al juez que se incluya determinada información en las grabaciones y transcripciones de las comunicaciones intervenidas, de modo que consten completas en la causa.
+- **Grabaciones y transcripciones intervenidas: retirar lo que afecte a la vida privada** (`grabaciones-transcripciones-intervenidas-retirar-lo-766`). Escrito para pedir al juez que se retire o excluya de las grabaciones y transcripciones intervenidas aquello que afecte a la vida privada y no guarde relación con la investigación.
+- **Intervenciones telefónicas: negarse a dar al juez el patrón del móvil para el volcado** (`intervenciones-telefonicas-negarse-dar-juez-patron-movil-61`). Escrito para oponerse a entregar al juez el patrón de desbloqueo del móvil con fines de volcado, alegando que falta base suficiente de investigación y que se trata de una diligencia derivada de prueba ilícita.
+- **Pedir al fiscal que solicite al juez intervenir la correspondencia del investigado** (`pedir-fiscal-solicite-juez-intervenir-correspondencia-764`). Escrito para pedir al fiscal que solicite al juez la intervención de la correspondencia del investigado, exponiendo los indicios y la necesidad de la medida.
+- **Pedir al fiscal que solicite al juez intervenir las comunicaciones** (`pedir-fiscal-solicite-juez-intervenir-comunicaciones-763`). Escrito para pedir al fiscal que solicite al juez la intervención de las comunicaciones de un investigado, con la exposición de los indicios que justifican la medida.
+- **Pedir datos de comunicaciones electrónicas para averiguar un delito** (`pedir-datos-comunicaciones-electronicas-averiguar-delito-713`). Solicitud al juez de instrucción para que se requieran datos de comunicaciones electrónicas (tráfico, localización o titularidad) a los operadores, con el fin de averiguar un delito.
+- **Pedir el registro remoto de equipos informáticos por delitos cometidos con ellos** (`pedir-registro-remoto-equipos-informaticos-delitos-712`). Solicitud al juez de instrucción de autorización para el registro remoto de equipos informáticos cuando se investigan delitos cometidos mediante ellos, con la justificación de la necesidad y proporcionalidad de la medida.
+- **Pedir la apertura de la correspondencia ya intervenida** (`pedir-apertura-correspondencia-ya-intervenida-714`). Escrito para pedir al juez la apertura de la correspondencia que ya ha sido intervenida, para que se examine su contenido en la instrucción y se incorpore a la causa si resulta relevante.
+- **Pedir la captación de imágenes del investigado o de su entorno en lugar público** (`pedir-captacion-imagenes-investigado-entorno-lugar-716`). Solicitud al juez de instrucción de autorización para captar imágenes del investigado o de su entorno en un lugar público, como diligencia de investigación en una causa penal.
+- **Pedir la instalación de dispositivos técnicos de localización y seguimiento** (`pedir-instalacion-dispositivos-tecnicos-localizacion-715`). Solicitud al juez de instrucción de autorización para instalar dispositivos técnicos de localización y seguimiento del investigado, con la justificación de su necesidad y proporcionalidad.
+- **Prueba ilícita: el acusado pide audiencia preliminar (antes y después del 3 de abril de 2025)** (`prueba-ilicita-acusado-pide-audiencia-preliminar-antes-60`). Escrito de la defensa del acusado para pedir una audiencia preliminar que resuelva si la prueba es ilícita antes del juicio oral, ya sea en el procedimiento abreviado o en el ordinario.
+- **Querellado: impugnar la prueba digital (WhatsApp u otros) aportada en la instrucción** (`querellado-impugnar-prueba-digital-whatsapp-u-otros-709`). Escrito del querellado para impugnar la prueba digital, como WhatsApp u otros mensajes, que el querellante ha aportado en la instrucción, cuestionando su autenticidad, su integridad o su licitud.
+- **Querellante: aportar acta notarial del contenido de una web como prueba preconstituida** (`querellante-aportar-acta-notarial-contenido-web-como-702`). Escrito del querellante para aportar, como prueba preconstituida, un acta notarial que recoge el contenido de una página web, con el fin de acreditar los hechos denunciados en la instrucción.
+- **Querellante: aportar prueba digital en la instrucción** (`querellante-aportar-prueba-digital-instruccion-708`). Escrito del querellante para aportar en la fase de instrucción pruebas digitales (mensajes, correos, archivos o capturas) que acrediten los hechos denunciados, con los datos de su obtención.
+- **Querellante: pedir que se reproduzca una grabación y aportarla como prueba preconstituida** (`querellante-pedir-reproduzca-grabacion-aportarla-como-706`). Escrito del querellante para que se reproduzca en sede judicial una grabación y se aporte como prueba preconstituida, de modo que quede asegurada su validez y su contenido para el juicio.
+- **Querellante: proponer o aportar pericial informática en instrucción ante prueba digital impugnada** (`querellante-proponer-aportar-pericial-informatica-707`). Escrito del querellante para proponer o aportar una pericial informática durante la instrucción cuando la parte contraria ha impugnado la prueba digital, con el fin de acreditar su autenticidad e integridad.
+- **Sexting: pedir el registro de equipos informáticos para determinar la autoría** (`sexting-pedir-registro-equipos-informaticos-determinar-720`). Solicitud al juez de instrucción del registro de equipos informáticos en un caso de sexting para determinar quién es el autor de la difusión de las imágenes o contenidos íntimos.
+- **Usar en otro proceso penal lo obtenido al intervenir correspondencia o comunicaciones** (`usar-otro-proceso-penal-lo-obtenido-intervenir-767`). Escrito para pedir autorización judicial para emplear en otro proceso penal lo obtenido al intervenir correspondencia o comunicaciones en una causa distinta, incorporándolo como prueba.
